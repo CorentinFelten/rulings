@@ -1,82 +1,5 @@
 # Démistification de rulings
 
-# 0. Introduction
-Yu-Gi-Oh! est un jeu de carte assez complexe et demande beaucoup de lecture, et beaucoup de rulings et de mécaniques qui semblent très complexes. Vous vous dites peut être que d'apprendre les rulings complexes n'en vaut pas l'effort. Cependant, ce n'est pas le cas : un grand nombre de mécaniques du jeu est en réalité assez simple, et c'est mon but d'apporter les rulings et mécaniques de jeu les plus courantes à vous, les joueurs, de manière accessible. 
-
-Ce post est le premier dans une série d'articles, qui va passer à travers les mécaniques clefs du jeu.
-
-## Pourquoi s'embêter avec l'apprentissage de rulings ?
-Je peux penser à au moins cinq raisons pour justifier apprendre les rulings :
-1. Connaître les rulings peut vous aider à jouer mieux. Pour donner quelques exemples :
-   - Si vous savez comment marche *Skill Drain*, vous saurez que vous pouvez jouer autour en activant un effet de monstre et en chaînant *Book of Moon* pour mettre le monstre face verso, et que *Skill Drain* n'annule pas les effets de monstres comme *Cardcar D.*.
-   - Si vous ne lisez pas en détail *Dante, Traveler of the Burning Abyss* attentivement, vous pourriez avoir une mauvaise surprise en apprenant que son effet s'active même quand vous activez *Solemn Strike* sur son invocation.
-   - *Fire Hand* et *Ice Hand* ont des effet optionnels "when", donc il est parfois possible de jouer autour de leurs effets et les empêcher de s'activer.
-   - Il n'est pas possible d'utiliser *Effect Veiler* tant que l'effet du monstre adverse est déjà annulé. Si vous invoquez *Evilswarm Exciton Knight* et activez son effet, et que votre adversaire chaîne *Fiendish Chain*, gardez votre *MST* ! Vous pourrez ensuite activer l'effet de *Exciton Knight* dans une nouvelle chaîne, puis chaîner *MST* pour que votre adversaire ne puisse pas activer *Effect Veiler* durant cette chaîne !
-
-2. Connaître des rulings peut vous permettre d'éviter d'atterrir dans des game states illégaux. Par exemple, si vous activez *Card Destruction* et défaussez *Shaddoll Hedgehog* et *Broww, Huntsman of Dark World* au Cimetière, *Broww* doit être Chain Link 1 et *Hedgehog* Chain Link 2 dans la chaîne d'après, donc vous devrez d'abord tuto puis piocher. Si vous piochez puis tuto, votre adversaire ne pourra pas dire quelle carte vous aurez pioché, donc le game state ne pourra pas être réparé. Cette erreur pourrait vous coûter une game loss dans le pire des cas, et vous devriez remettre la tuto de *Hedgehog* dans le meilleur des cas.
-
-3. La connaissance de rulings aide pour la construction de decks. En connaissant bien vos rulings, lire une nouvelle carte et comprendre comment elle s'intègre dans un deck uniquement en lisant son texte devient beaucoup plus facile, surtout pour déterminer si la carte sera intéressante ou non.
-
-4. Être à l'aise avec les rulings peut vous faire gagner à vous, votre adversaire, et votre Judge, du temps dans un duel, ce qui peut être crucial, surtout dans des tournois ayant une limite de temps.
-
-5. Être à l'aise avec les rulings libère de la charge mentale pour vous aider à vous concentrer sur un jeu optimal.
-
-
-## Pour commencer
-Nous commencerons à apprendre différents rulings dans le post prochain. Pour le moment, il serait une bonne idée de jeter un oeil au dernier livret de règles officiel. Même si vous jouez depuis des années, il y a quelques points intéressants ici et là, et le lire vous mettra à jour pour le reste de cette série d'articles. 
-
-Les pages suivantes sont particulièrement importantes :
-- page **12-13** : Information sur les monstres Pendules et les invocations Pendule
-- page **15** : Comment effectuer une invocation Xyz correcte
-- page **21** : Invocation Spéciale via un effet de carte
-- page **27** : Différence entre Carte Magie et Carte Piège posées
-- page **41** : Spell Speeds
-- page **45-51** : Rulings divers
-
-D'autres sections du livret de règles, comme la **Damage Step**, seront étudiées et expliquées en détail au fur et à mesure de la progression de cette série. 
-
-Lecture finie ? Dans ce cas...
-
-## C'est l'heure du Quiz !
-Voici quelques questions rapides pour tester des points importants. Les réponses peuvent toutes être trouvées dans les pages listées plus haut dans le livret de règles. Vous devriez pouvoir toutes les trouver.
-
-1. Quelles cartes correspondent à un Spell Speed d'exactement 2 ?
-   - Cartes Piège Contre
-   - Cartes Magie Continue
-   - Cartes Magie Rapide
-   - Un effet déclencheur de Monstre
-
-
-2. Quelles cartes peuvent être activées le tour où elles sont posées ?
-   - Cartes Magie Terrain
-   - Cartes Magie Continue
-   - Cartes Magie Rapide
-   - Cartes Piège Contre
-
-
-3. Quelles actions démarrent une Chaîne ?
-   - Invocation Normale d'un Monstre
-   - Invocation Pendule de 2 Monstres de la main
-   - Activataion d'une Magie Continue
-   - Déclaration d'attaque
-
-
-4. Vrai ou Faux : les Matériels Xyz sont des cartes sur le terrain.
-
-5. Vrai ou Faux : Si vous envoyez un Monstre Synchro de votre Extra Deck au Cimetière, vous pouvez ensuite l'invoquer par Invocation Spéciale depuis le Cimetière avec des effets de cartes.
-
-<details>
-<summary>Réponses</summary>
-    
- 1. **Les Magies Rapides et les Pièges Continus.** *Comme expliqué page 41, seuls ces deux types de cartes ont un Spell Speed 2.*
- 2. **Les Magies Terrain et les Magies Continues.** *Comme expliqué page 27, seules les Cartes Magies peuvent être activées le tour où elles ont été posées, sauf les Cartes Magies Rapides.*
- 3. **Activer une Carte Magie Continue.** *Les autres actions ne démarrent pas une chaîne, comme mentionné explicitement page 47.*
- 4. **Faux.** *Les Matériels Xyz sont également expliqués page 47.*
- 5. **Faux.** *Ce point est expliqué page 21.*
-</details>
-
-
-
 # 1. PSCT
 Vos cartes vous expliquent plus leur fonctionnement qu'observable de premier abord. Les cartes sorties, ou réimprimées, après 2011, soit presque toutes les cartes utilisées aujourd'hui, ont été écrites en *Problem Solving Card Text* (PSCT, Texte de Carte pour de la Résolution de Problèmes). Cela veut dire qu'avec un peu de connaissances, il est possible de connaître beaucoup d'informations supplémentaires sur le fonctionnement d'un effet de carte, et ce uniquement depuis leur texte. 
 
@@ -131,9 +54,80 @@ L'effet de *Chevalier Exciton Colonie du Mal* illustre bien ce point :
 
 La partie "si votre adversaire a plus de cartes" est avant la virgule, donc il s'agit d'une condition d'activation. Elle explicite que l'adversaire doit avoir plus de cartes afin que l'effet soit activable. Donc même si l'adversaire Chaîne des cartes pour en avoir moins sur leur terrain à la résolution, l'effet d'*Exciton* aura quand même lieu.
 
-Si une carte a une condition à l'activation ET la résolution, elle spécifiera quelque chose comme la dernière phrase de Grenouille d'Arbre (anciennement Rainette) :
+Si une carte a une condition à l'activation ET la résolution, elle spécifiera quelque chose comme la dernière phrase de *Grenouille d'Arbre* (anciennement Rainette) :
 - *Une fois par tour, durant votre Standby Phase, si cette carte est dans votre Cimetière et que vous ne contrôlez pas "Grenouille d'Arbre" : vous pouvez Invoquer Spécialement cette carte. <u>Vous ne devez contrôler aucune Carte Magie/Piège pour activer et résoudre cet effet.</u>*
 
 ## Assemblage des règles
 Certains effets n'auront pas de conditions spécifiques pour activer leurs effets, ou même d'actions à effectuer à leur activation, donc ils n'auront pas besoin de deux-points ou point-virgules. Mais dans l'ensemble, un effet typique qui démarre une Chaîne aura la structure suivante :
 
+<span style="color: magenta;">Condition d'activation de l'effet</span> : <span style="color: orange;">action à effectuer à son activation</span> ; <span style="color: darkgreen;">actions à effectuer lors de la résolution de l'effet</span>
+
+## C'est l'heure du Quiz !
+Utilisez ce que l'ont vient d'apprendre pour répondre aux questions suivantes.
+
+1. Quel(s) effets démarre une chaîne ?
+   - L'effet de *Grapha, Seigneur Dragon du Monde Ténébreux* de s'invoquer Spécialement du Cimetière :
+       
+       *Vous pouvez Invoquer Spécialement cette carte (depuis votre Cimetière) en renvoyant 1 monstre "Monde Ténébreux" que vous contrôlez ("Grapha, Seigneur Dragon du Monde Ténébreux" exclu) à la main.*
+
+   - L'effet de *Simorgh des Ténèbres* de s'invoquer Spécialement depuis la main : 
+     
+      *Si cette carte est dans votre main : vous pouvez bannir 1 monstre TÉNÈBRES et 1 monstre VENT depuis votre Cimetière ; Invoquez Spécialement cette carte.*
+
+   - Cet effet de *Cogneur Puissant U.A.* :
+
+      *Si cette carte attaque, jusqu'à la fin de la Damage Step, votre adversaire ne peut ni activer de cartes ni d'effets.*
+
+2. Quelles actions sont des coûts ?
+   - Défausser pour cet effet de *Uni-Zombie* : 
+
+      *Vous pouvez cibler 1 monstre face recto sur le Terrain ; défaussez 1 carte, et si vous le faites, augmentez le Niveau de la cible de 1.*
+
+   - Envoyer un monstre au Cimetière pour *Changement de Masque* :
+
+      *Ciblez 1 monstre "HÉROS" que vous contrôlez ; envoyez-le au Cimetière, et aussi, après ça, s'il a quitté le Terrain par cet effet, Invoquez Spécialement 1 monstre "HÉROS Masqué" du même Attribut que le monstre envoyé avait lorsqu'il était sur le Terrain (son Attribut d'origine, si face verso) depuis votre Extra Deck.*
+
+   - Renvoyer un monstre à la main pour *Mouton Peluchimal* :
+
+      *Vous pouvez renvoyer 1 autre monstre "Peluchimal" que vous contrôlez à la main ; Invoquez Spécialement 1 monstre "Lutin Tranchant" depuis votre main ou Cimetière.*
+
+3. Vrai ou Faux : Si j'active *Dai Imprévu* et que je chaîne *Appel de l'Être Hanté*, *Dai Imprévu* invoque Spécialement quand même.
+      - *Dai Imprévu* : 
+        
+        *Si vous ne contrôlez aucun monstre : Invoquez Spécialement 1 Monstre Normal de max. Niveau 4 depuis le Deck.*
+
+      - *Appel de l'Être Hanté* :
+       
+        *Activez cette carte en ciblant 1 monstre dans votre Cimetière ; Invoquez Spécialement la cible en Position d'Attaque. Lorsque cette carte quitte le Terrain, détruisez le monstre. Lorsque le monstre est détruit, détruisez cette carte.*
+
+4. Vrai ou Faux : Si j'invoque Spécialement *Archdémon Enfernité* tant que je n'ai aucune carte en main, et que je chaîne *Jarre de Cupidité* à l'activation de son effet, l'effet de *Archdémon Enfernité* me laisse quand même ajouter une carte.
+      - *Archdémon Enfernité* :
+      
+        *Lorsque cette carte est Invoquée Spécialement : vous pouvez ajouter 1 carte "Enfernité" depuis votre Deck à votre main. Vous ne devez avoir aucune carte dans votre main pour activer et résoudre cet effet.*
+      - *Jarre de Cupidité* :
+        
+        *Piochez 1 carte.*
+
+<details>
+<summary>Réponses</summary>
+    
+ 1. **Uniquement l'effet de *Simorgh des Ténèbres*.** 
+   
+      *Les effets ne démarrent une chaîne que lorsqu'ils ont un point-virgule ou un deux-points.*
+ 2. **Seulement renvoyer un monstre à la main pour *Mouton Peluchimal*.** 
+   
+      *Une action est un coût uniquement lorsqu'elle est écrite avant un deux-points.*
+ 
+ 3. **Vrai.** 
+      
+      *Ne contrôler aucun monstre est uniquement une condition d'activation, parce que cette portion est rédigée avant le deux-points, et la carte ne précise pas qu'il faut n'avoir aucun monstre en résolution.*
+ 4. **Faux.** 
+ 
+      *N'avoir aucune carte en main n'est pas uniquement une condition d'activation, comme l'effet de Archdémon Enfernité le précise explicitement*
+</details>
+
+Ce n'est pas la dernière fois que nous parlerons de PSCT ! D'autres éléments viendront tout au long de cette série. Si vous souhaitez en lire plus sur le PSCT en général, vous pouvez consulter les [articles officiels Konami sur le sujet](https://yugiohblog.konami.com/articles/?tag=problem-solving-card-text).
+
+Enfin, avant d'appliquer les règles énoncées plus haut, veillez à vous assurer que la carte est bien écrite en PSCT ! Comme décrit au début, la grande majorité des cartes que vous encontrerez sont écrites en PSCT, mais si une carte est ancienne et n'a pas été réimprimée depuis longtemps, alors les règles énoncées ne s'appliqueront pas.
+
+[Prochain article : Ciblage](2_Ciblage.md)
