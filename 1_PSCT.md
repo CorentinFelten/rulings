@@ -65,7 +65,7 @@ Certains effets n'auront pas de conditions spécifiques pour activer leurs effet
 ## C'est l'heure du Quiz !
 Utilisez ce que l'ont vient d'apprendre pour répondre aux questions suivantes.
 
-1. Quel(s) effets démarre une chaîne ?
+1. Quel(s) effet(s) démarre une chaîne ?
    - L'effet de *Grapha, Seigneur Dragon du Monde Ténébreux* de s'invoquer Spécialement du Cimetière :
        
        *Vous pouvez Invoquer Spécialement cette carte (depuis votre Cimetière) en renvoyant 1 monstre "Monde Ténébreux" que vous contrôlez ("Grapha, Seigneur Dragon du Monde Ténébreux" exclu) à la main.*
@@ -78,7 +78,7 @@ Utilisez ce que l'ont vient d'apprendre pour répondre aux questions suivantes.
 
       *Si cette carte attaque, jusqu'à la fin de la Damage Step, votre adversaire ne peut ni activer de cartes ni d'effets.*
 
-2. Quelles actions sont des coûts ?
+2. Quelle(s) action(s) sont des coûts ?
    - Défausser pour cet effet de *Uni-Zombie* : 
 
       *Vous pouvez cibler 1 monstre face recto sur le Terrain ; défaussez 1 carte, et si vous le faites, augmentez le Niveau de la cible de 1.*
