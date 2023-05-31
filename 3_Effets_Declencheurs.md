@@ -31,7 +31,7 @@ Les effets de *Tireur* et de *Gunde* ne s'activent pas encore, bien qu'ils aient
 
 A ce moment là, on regarde quels effets ont été déclenchés et veulent s'activer. *Tireur* et *Gunde* ont attendu, et à ce moment précis le second effet de *Megalo* a également été déclenché.
 
-Cette situation, lorsque plusieurs effets déclencheurs veulent s'activer en même temps, est appelée SEGOC : Simultaneous Effects Go On Chain (ou Effets Simultanés Vont En Chaîne, mais nous resterons avec SEGOC lors de cette série).
+Cette situation, lorsque plusieurs effets déclencheurs veulent s'activer en même temps, est appelée SEGOC : Simultaneous Effects Go On Chain (ou Effets Simultanés Vont En Chaîne en français, mais nous resterons avec le terme de SEGOC lors de cette série).
 
 (Note importante : la situation de 'Missing Timing' (ou les effets optionnels 'When' VS 'If') sera expliquée dans le prochain article, et ne sera pas abordée dans celui-ci.)
 
@@ -128,42 +128,42 @@ Les effets des deux Lyla ne forment pas une Chaîne durant la End Phase : ils s'
     Quel joueur **pioche** en premier ?
 
 2. Joueur A active *Changement de Masque* sur *Zéro Absolu, HÉROS Élémentaire*, afin d'invoquer spécialement *Acid, HÉROS Masqué*.
-- *Changement de Masque* :
-    
-    *Ciblez 1 monstre "HÉROS" que vous contrôlez ; envoyez-le au Cimetière, et aussi, après ça, s'il a quitté le Terrain par cet effet, Invoquez Spécialement 1 monstre "HÉROS Masqué" du même Attribut que le monstre envoyé avait lorsqu'il était sur le Terrain (son Attribut d'origine, si face verso) depuis votre Extra Deck.*
+   - *Changement de Masque* :
+       
+       *Ciblez 1 monstre "HÉROS" que vous contrôlez ; envoyez-le au Cimetière, et aussi, après ça, s'il a quitté le Terrain par cet effet, Invoquez Spécialement 1 monstre "HÉROS Masqué" du même Attribut que le monstre envoyé avait lorsqu'il était sur le Terrain (son Attribut d'origine, si face verso) depuis votre Extra Deck.*
 
-- *Zéro Absolu, HÉROS Élémentaire* :
-    
-    *Si cette carte quitte le Terrain : détruisez tous les monstres contrôlés par votre adversaire.*
+   - *Zéro Absolu, HÉROS Élémentaire* :
+       
+       *Si cette carte quitte le Terrain : détruisez tous les monstres contrôlés par votre adversaire.*
 
-- *Acid, HÉROS Masqué* :
-    
-    *Lorsque cette carte est Invoquée Spécialement : détruisez autant de Magies/Pièges contrôlés par votre adversaire que possible, et si vous le faites, tous les monstres qu'il contrôle perdent 300 ATK*
+   - *Acid, HÉROS Masqué* :
+       
+       *Lorsque cette carte est Invoquée Spécialement : détruisez autant de Magies/Pièges contrôlés par votre adversaire que possible, et si vous le faites, tous les monstres qu'il contrôle perdent 300 ATK*
 
     Quelle Chaîne est formée après résolution du *Changement de Masque* ?
 
 3. En continuant sur la situation précédente, Joueur B possède une *Colère Divine* de Posée. 
-- *Lorsqu'un effet de monstre est activé : défaussez 1 carte ; annulez l'activation, et si vous le faites, détruisez le monstre.*
+   - *Lorsqu'un effet de monstre est activé : défaussez 1 carte ; annulez l'activation, et si vous le faites, détruisez le monstre.*
 
     Joueur B peut-il annuler l'effet de *Zéro Absolu* avec *Colère Divine* ? Joueur B peut-il annuler l'effet de *Acid* ?
 
 4. Joueur A contrôle *Espace de Négation* et *La Troupe Exilée*. Joueur B contrôle *Faucon Marionnette de l'Ombre*. Joueur A Sacrifie *La Troupe Exilée* pour détruire *Faucon Marionnette de l'Ombre*.
-- *Espace de Négation* :
+   - *Espace de Négation* :
 
-    *Aucun joueur ne peut Invoquer Spécialement de monstres. Si une carte est envoyée depuis le Deck ou Terrain à votre Cimetière : détruisez cette carte.*
+       *Aucun joueur ne peut Invoquer Spécialement de monstres. Si une carte est envoyée depuis le Deck ou Terrain à votre Cimetière : détruisez cette carte.*
 
-- *La Troupe Exilée* :
-  
-    *Vous pouvez Sacrifier cette carte, puis ciblez 1 monstre sur le Terrain ; détruisez la cible.*
+   - *La Troupe Exilée* :
+     
+       *Vous pouvez Sacrifier cette carte, puis ciblez 1 monstre sur le Terrain ; détruisez la cible.*
 
-- *Faucon Marionnette de l'Ombre* :
-    
-    *Si cette carte est envoyée au Cimetière par un effet de carte : vous pouvez l'Invoquer Spécialement en Position de Défense face verso.*
+   - *Faucon Marionnette de l'Ombre* :
+       
+       *Si cette carte est envoyée au Cimetière par un effet de carte : vous pouvez l'Invoquer Spécialement en Position de Défense face verso.*
 
     A quel moment *Espace de Négation* active-t'il son second effet ? *Faucon Marionnette de l'Ombre* peut-il s'activer ?
 
 5. Est-il possible d'activer l'effet de deux *Kagetokage* en réponse à la même Invocation Normale ?
-- *Lorsque vous Invoquez Normalement un monstre de Niveau 4 : vous pouvez Invoquer Spécialement cette carte depuis votre main.*
+   - *Lorsque vous Invoquez Normalement un monstre de Niveau 4 : vous pouvez Invoquer Spécialement cette carte depuis votre main.*
 
 <details>
 <summary>Réponses</summary>
@@ -195,3 +195,5 @@ Les effets des deux Lyla ne forment pas une Chaîne durant la End Phase : ils s'
  
       *L'effet déclencheur de Kagetokage implique une invocation spéciale de la main, donc il n'est possible d'en activer qu'un seul.*
 </details>
+
+Le prochain article portera sur les [effets optionnels 'Lorsque'](4_When_Optionnels.md).
