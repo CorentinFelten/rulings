@@ -1,4 +1,4 @@
-# Démistification de rulings
+# Démystification de rulings
 
 # 0. Introduction
 Yu-Gi-Oh! est un jeu de carte assez complexe et demande beaucoup de lecture, et beaucoup de rulings et de mécaniques qui semblent très complexes. Vous vous dites peut être que d'apprendre les rulings complexes n'en vaut pas l'effort. Cependant, ce n'est pas le cas : un grand nombre de mécaniques du jeu est en réalité assez simple, et c'est mon but d'apporter les rulings et mécaniques de jeu les plus courantes à vous, les joueurs, de manière accessible. 

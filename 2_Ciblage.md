@@ -1,4 +1,4 @@
-# Démistification de rulings
+# Démystification de rulings
 
 # 2. Ciblage
 Dans cet article, nous verrons de nouveaux points sur le [PSCT](1_PSCT.md), et ce qu'il explique concernant le ciblage. 
@@ -94,4 +94,56 @@ Puisque l'effet précise 'tous les 5', si un *Corbeau D.D.* est chaîné pour ba
 
       *Chaque joueur choisit 1 monstre qu'il contrôle et échange son contrôle avec celui choisi par l'adversaire. Le reste de ce tour, ces monstres ne peuvent pas changer de position de combat.*
 
-2. Vrai
+2. Vrai ou Faux : Si l'effet de *Calcab, Malebranche des Abysses Ardents* cible un *Appel de l'Être Hanté* Posé, et que *Appel de l'Être Hanté* est Chaîné à l'effet de *Calcab*, *Appel de l'Être Hanté* est quand même retourné à la main quand l'effet de *Calcab* résoud.
+
+    *Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 Carte Magie/Piège Posée sur le Terrain ; renvoyez la cible à la main.*
+
+3. Vrai ou Faux : Si *Livre de la Lune* est Chaîné pour passer face verso la cible du second effet de *Castel, le Mousquetaire Chasse-Ciel*, la cible est quand même renvoyée au Deck.
+    
+    *Vous pouvez détacher 2 Matériels de cette carte, puis ciblez 1 autre carte face recto sur le Terrain ; mélangez-la dans le Deck.*
+
+4. Joueur A active l'effet de *Général Enfernité*, et Joueur B Chaîne en défaussant *Corbeau D.D.* pour son effet, afin de banir une des cibles de *Général Enfernité*. Que se passe-t-il ?
+    
+    *Si vous n'avez aucune carte dans votre main : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 2 monstres "Enfernité" de max. Niveau 3 dans votre Cimetière ; Invoquez-les Spécialement depuis le Cimetière, mais leurs effets sont annulés.*
+
+   - Les deux cibles sont Invoquées Spécialement
+   - Seule la cible non-banie est Invoquée Spécialement
+   - Aucune des cibles n'est Invoquée Spécialement
+
+
+5. L'effet de *Kappa Vert* cible 2 cartes Piège Posées. L'une d'entre elles est Chaînée. Que se passe-t-il ?
+
+    *FLIP : Ciblez 2 Cartes Magie/Piège Posées sur le Terrain ; détruisez les cibles.*
+
+   - Les deux cibles sont détruites
+   - Seule la cible non-Chaînée est détruite
+   - Aucune des cibles n'est détruite
+
+<details>
+<summary>Réponses</summary>
+    
+ 1. **Aucun !** 
+   
+      *Aucune des cartes n'emploie le mot 'cible'. Il est cependant important de vérifier que Permutation de Créatures est bien écrit en PSCT, parce que ce n'est pas évident de prime abord, mais la carte est effectivement bien écrite en PSCT.*
+
+ 2. **Faux.** 
+   
+      *Calcab cible une carte posée, et retourne 'la cible' à la main, donc la carte a toujours besoin d'être Posée en résolution pour que Calcab la renvoie.*
+ 
+ 3. **Vrai.** 
+      
+      *Castel 'la' renvoie dans le Deck, donc il n'a pas besoin que sa cible soit toujours face recto en résolution de son effet.*
+
+ 4. **Seule la cible non-bannie est Invoquée Spécialement.** 
+ 
+      *La cible bannie n'est définitivement pas Invoquée Spécialement, car elle est déplacée de sa localisation d'origine. Mais puisque Général Enfernité 'les' invoque, il n'est pas strict, donc il Invoque Spécialement l'autre cible.*
+
+ 5. **Seule la cible non-Chaînée est détruite.** 
+ 
+      *Kappa Vert cible des cartes Posées, et détruit 'les cibles', donc il vérifie chaque cible indépendamment pour s'assurer qu'elles sont toujours Posées en résolution.*
+</details>
+
+Une fois de plus, n'hésitez pas à lire les [articles officiels](https://yugiohblog.konami.com/articles/?tag=problem-solving-card-text) sur le PSCT de Konami. 
+
+Le prochain article portera sur les [Effets Déclencheurs](3_Effets_Declencheurs.md).
+
