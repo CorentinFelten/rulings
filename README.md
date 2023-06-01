@@ -8,4 +8,12 @@ Cet ensemble de documents est une traduction en français des articles publiés 
 - [2 - Ciblage](2_Ciblage.md)
 - [3 - Effets Déclencheurs](3_Effets_Declencheurs.md)
 - [4 - Effets "Lorsque" Optionnels](4_When_Optionnels.md)
-- 
+- [5 - Conjonctions](5_Conjonctions.md)
+- [6 - ]()
+- [7 - ]()
+- [8 - ]()
+- [9 - ]()
+- [10 - ]()
+- [11 - ]()
+- [12 - ]()
+- [13 - ]()

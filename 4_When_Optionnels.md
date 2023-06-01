@@ -91,72 +91,105 @@ Résolution de la Chaîne :
 Comme *Brouilleur Magique* annule l'activation, les effets de *Ville des Engrenages* sur le terrain n'essaient pas de résoudre du tout. C'est pourquoi il est possible de dire que la destruction de *Ville des Engrenages* était effectivement l'une des dernières choses à avoir lieu, donc son effet déclencheur peut s'activer normalement. 
 
 ## Effet optionnels "Lorsque" et SEGOC
-Both this article and the previous one have involved Trigger effects. Let’s see how this mechanic interacts with SEGOC.
 
-Player A activates Dark Hole, destroying his Bixi, Water of the Yang Zing and Player B’s Card Trooper.
-When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 “Yang Zing” monster from your Deck in Attack Position, except “Bixi, Water of the Yang Zing”.
+Cet article ainsi que l'article précédent se penchent sur les effets déclencheurs. Voyons comment cette mécanique intéragit avec le SEGOC.
 
-If this card you control is destroyed and sent to your Graveyard: Draw 1 card.
+Joueur A active *Trou Noir*, détruisant son *Bixi, Eau du Yang Zing*, ainsi que le *Soldat de Carte* du Joueur B. 
+- *Bixi, Eau du Yang Zing* :
+    
+    *<u>Lorsque</u> cette carte que vous contrôlez est détruite au combat ou par un effet de carte, et envoyée à votre Cimetière : <u>vous pouvez</u> Invoquer Spécialement 1 monstre "Yang Zing" ("Bixi, Eau du Yang Zing" exclu) depuis votre Deck en Position d'Attaque.*
 
-Chain Link 1: Dark Hole
+- *Soldat de Carte* :
+  
+    *Si cette carte que vous contrôlez est détruite et envoyée à votre Cimetière : piochez 1 carte.*
 
-Resolve the Chain: Dark Hole destroys Bixi and Card Trooper at the same time.
+<u>Chain Link 1</u> : *Trou Noir*
 
-First we look at what effects want to activate. Bixi and Trooper’s effects were triggered, so they’re both candidates.
+Résolution de la Chaîne : *Trou Noir* détruit *Bixi* et *Soldat de Carte* en même temps.
 
-Let’s check if either is going to miss its activation timing. The destruction of Bixi and the destruction of Card Trooper were both the last thing to happen (and Card Trooper’s effect is mandatory), so both effects can activate.
+Regardons d'abord quels effets veulent s'activer. Les effets de *Bixi* et *Soldat de Carte* sont tous les deux déclenchés, donc ils sont tous deux candidats.
 
-Now that we’ve decided what needs to activate, we look at the order they need to activate in. Card Trooper is the NTP’s mandatory effect, and Bixi is the TP’s optional effect, so according to the rules of SEGOC, they activate in the next Chain this order:
+Regardons si l'un des effets peut manquer son créneau d'activation. La destruction de *Bixi* et de *Soldat de Carte* est simultanée et la dernière action à avoir lieu (et l'activation de *Soldat de Carte* est obligatoire), donc les deux effets peuvent s'activer. 
 
-Chain Link 1: Card Trooper
-Chain Link 2: Bixi
+Maintenant que les effets à activer ont été décidés, la prochaine étape concerne l'ordre d'activation de ces effets. *Soldat de Carte* est un effet obligatoire du **NJT**, et *Bixi* est un effet facultatif du **JT**, donc d'après les règles du SEGOC, les effets s'activeront dans la Chaîne suivante dans cet ordre :
 
-(If the rules of SEGOC quoted here are unfamiliar, double-check last week’s article).
+<u>Chain Link 1</u> : *Soldat de Carte*
 
-The key thing to take away here is that the activation of Card Trooper does not throw off the activation of Bixi. We checked to see if its activation condition was the last thing to happen after the Chain resolved, and then put everything onto the Chain.
+<u>Chain Link 2</u> : *Bixi*
+
+(Si les règles du SEGOC mentionnées ici ne vous sont pas familières, n'hésitez pas à lire ou relire l'article précédent)
+
+Le point important dans cet exemple concerne l'activation de *Soldat de Carte*, qui n'empêche pas *Bixi* de s'activer. Il faut vérifier si les conditions d'activations de son effet sont bien remplies dans la dernière action que le jeu a enregistré après la résolution de la Chaîne, puis les nouveaux effets sont mis en accordance avec le SEGOC sur une nouvelle Chaîne. 
+
 
 ## C'est l'heure du Quiz !
+Vous pouvez partir du principe que tous les effets dans les questions ci-dessous ont des activations légale : il n'y a pas de question piège.
 
-You can assume any effects are legal to activate – there are no trick questions here.
+1. Joueur A contrôle *Dragon Pulsar de Lumière* et *Soldat Canon*. Joueur A sacrifie *Dragon Pulsar de Lumière* pour l'effet de *Soldat Canon*.
 
-(1) Player A controls Lightpulsar Dragon and Cannon Soldier. Player A tributes Lightpulsar Dragon for the effect of Cannon Soldier.
-When this card is sent from the field to the Graveyard: You can target 1 Level 5 or higher DARK Dragon-Type monster in your Graveyard; Special Summon that target.
+   - *Dragon Pulsar de Lumière* :
 
-You can Tribute 1 monster; inflict 500 damage to your opponent.
+        *Lorsque cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez cibler 1 monstre TÉNÈBRES Dragon de min. Niveau 5 dans votre Cimetière ; Invoquez Spécialement la cible.*
 
-Can the effect of Lightpulsar Dragon be activated?
+   - *Soldat Canon* :
 
-(2) Player A controls Trance Archfiend and Player B controls Ice Hand. Player A activates Dark Hole.
-When this card you control is destroyed and sent to the Graveyard: You can target 1 of your banished DARK monsters; add that target to your hand.
+        *Vous pouvez Sacrifier 1 monstre pour infliger 500 points de dommages à votre adversaire.*
 
-When this card in your possession is destroyed by your opponent’s card (either by battle, or by card effect) and sent to your Graveyard: You can target 1 Spell/Trap Card they control; destroy that target, then you can Special Summon 1 “Fire Hand” from your Deck.
+    L'effet de *Dragon Pulsar de Lumière* peut-il être activé ?
 
-After Dark Hole resolves, what Chain forms?
+2. Joueur A contrôle *Transe Archdémon* et Joueur B contrôle *Main de Glace*. Joueur A active *Trou Noir*.
+   
+    - *Transe Archdémon* :
 
-(3) Player A activates the (second) effect of Bixi, Water of the Yang Zing, and Player B negates it with Divine Wrath.
-When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 “Yang Zing” monster from your Deck in Attack Position, except “Bixi, Water of the Yang Zing”. You can only use this effect of “Bixi, Water of the Yang Zing” once per turn. Once per turn, during your opponent’s Main Phase or Battle Phase, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using only “Yang Zing” monsters you control (this is a Quick Effect).
+        *Lorsque cette carte que vous contrôlez est détruite et envoyée à votre Cimetière : vous pouvez cibler 1 de vos monstres TÉNÈBRES bannis ; ajoutez la cible à votre main.*
+    
+    - *Main de Glace* :
 
-When a monster effect is activated: Discard 1 card; negate the activation, and if you do, destroy that monster.
+        *Lorsque cette carte en votre possession est détruite par une carte de votre adversaire et envoyée à votre Cimetière : vous pouvez cibler 1 Magie/Piège qu'il contrôle ; détruisez la cible, puis vous pouvez Invoquer Spécialement 1 "Main de Feu" depuis votre Deck.*
 
-Can the (first) effect of Bixi be activated?
+    Après la résolution de *Trou Noir*, quelle Chaîne est formée ?
 
-(4) Suppose instead Player B Chains the effect of Ghost Ogre & Snow Rabbit (‘Yuki Usagi’) to the (second) effect of Bixi, in the above question.
-During either player’s turn, when a monster on the field activates its effect, or when a Spell/Trap Card that is already face-up on the field activates its effect: You can send this card from your hand or your side of the field to the Graveyard; destroy that card on the field.
+3. Joueur A active le second effet de *Bixi, Eau du Yang Zing*, et Joueur B l'annule avec *Colère Divine*. 
+    - *Bixi, Eau du Yang Zing* :
 
-Can the (first) effect of Bixi be activated?
+        *Lorsque cette carte que vous contrôlez est détruite au combat ou par un effet de carte, et envoyée à votre Cimetière : vous pouvez Invoquer Spécialement 1 monstre "Yang Zing" ("Bixi, Eau du Yang Zing" exclu) depuis votre Deck en Position d'Attaque. Vous ne pouvez utiliser cet effet de "Bixi, Eau du Yang Zing" qu'une fois par tour. Une fois par tour, durant la Main Phase ou Battle Phase de votre adversaire, vous pouvez : immédiatement après la résolution de cet effet, Invoquez par Synchronisation 1 Monstre Synchro, en utilisant uniquement des monstres "Yang Zing" que vous contrôlez (ceci est un Effet Rapide).*
 
+    - *Colère Divine* :
 
-Réponses :
-(1) No
-Cannon Soldier tributes as a cost (tributing is written before the semi-colon) so the tributing of Lightpulsar is nowhere near the last thing to happen.
-(If you’re wondering whether Lightpulsar Chains to the effect of Cannon Soldier or not, remember that trigger effects always activate after the current chain (if any) resolves.)
+        *Lorsqu'un effet de monstre est activé : défaussez 1 carte ; annulez l'activation, et si vous le faites, détruisez le monstre.*
 
-(2) Chain Link 1: The effect of Trance Archfiend
-Chain Link 2: The effect of Ice Hand
-Trance Archfiend and Ice Hand being destroyed are both one of the last things to happen, so both can activate. According to the rules of SEGOC, Player A’s optional effect goes first on the Chain, and Player B’s optional effect is second. Neither misses its chance to activate.
+    Le premier effet de *Bixi* peut-il être activé ?
 
-(3) Yes
-Chain Link 1 is the effect of Bixi, and Chain Link 2 is Divine Wrath. Since Divine Wrath negates the activation of Bixi’s effect, Chain Link 1 vanishes, and the last thing to happen is Bixi’s destruction.
+4. Supposons que le Joueur B chaîne l'effet de *Ogre Fantôme et Lapin des Neiges* au second effet de *Bixi* dans la question précédente.
+    - *Ogre Fantôme et Lapin des Neiges* :
 
-(4) No
-Ghost Ogre & Snow Rabbit does not negate activations, so, resolving the Chain, Bixi’s destruction would not be the last thing to happen.
+        *Lorsqu'un monstre sur le Terrain active son effet, ou lorsqu'une Magie/Piège qui est déjà face recto sur le Terrain active son effet (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main ou Terrain au Cimetière ; détruisez la carte sur le Terrain.*
+    
+    Le premier effet de *Bixi* peut-il être activé ?
+
+<details>
+<summary>Réponses</summary>
+    
+ 1. **Non.** 
+   
+      *Soldat Cannon sacrifie en coût (puisque le sacrifice est marqué avant le point-virgule) donc le sacrifice de Dragon Pulsar de Lumière n'est pas la dernière action à avoir lieu.*
+
+      *Si vous vous demandez si l'effet de Dragon Pulsar se chaîne à l'effet de Soldat Canon ou non, retenez que les effets déclencheurs s'activent toujours après que la chaîne actuelle (si elle existe) ait résolu.*
+
+      
+ 2. **Chain Link 1 : effet de *Transe Archdémon* | Chain Link 2 : effet de *Main de Glace*** 
+   
+      *Transe Archdémon et Main de Glace sont tous deux détruits dans l'une des dernières actions à avoir lieu, donc ils peuvent tous deux s'activer. D'après les règles du SEGOC, les effets optionnels du Joueur A rentrent en premier sur la chaîne, puis les effets optionnels du Joueur B. Aucun de ces effets ne manque son créneau d'activation.*
+ 
+ 3. **Oui.** 
+      
+      *L'effet en Chain Link 1 est celui de Bixi, et l'effet en Chain Link 2 est Colère Divine. Puisque Colère Divine annule l'activation de l'effet de Bixi, la Chain Link 1 disparaît, et la dernière action à avoir lieu est la destruction de Bixi.*
+
+ 4. **Non.** 
+ 
+      *Ogre Fantôme et Lapin des Neiges n'annule pas l'activation, donc en résolvant la chaîne, la destruction de Bixi ne sera pas "l'une des dernières actions à avoir lieu".*
+</details>
+
+Nous verrons plus en détail cette mécanique, et la verrons en action, dans des articles à venir. 
+
+Le prochain article porte sur les [Conjonctions](5_Conjonctions.md).
