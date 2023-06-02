@@ -191,7 +191,7 @@ Les effets des deux Lyla ne forment pas une Chaîne durant la End Phase : ils s'
  
       *Bien que l'effet d'Espace de Négation soit déclenché immédiatement, il n'est pas chaîné à l'effet de Troupe Exilée : il attend de s'activer dans la Chaîne suivante. Après la résolution de Troupe Exilée, Espace de Négation et Faucon ont tous deux été déclenchés, mais comme Espace de Négation est encore sur le terrain à ce moment précis, son effet continu s'applique toujours, donc l'effet de Faucon ne peut pas être activé.*
 
- 5. **Ce n'est pas possible** 
+ 5. **Ce n'est pas possible.** 
  
       *L'effet déclencheur de Kagetokage implique une invocation spéciale de la main, donc il n'est possible d'en activer qu'un seul.*
 </details>

@@ -164,7 +164,7 @@ Est-ce qu'une Chaîne est actuellement en cours de résolution ? Ici, ce n'est p
    
       *Virgil a besoin d'être détruit sur le terrain. Si son Invocation est annulée, il n'aura jamais touché le terrain.*
  
- 3. **L'effet de Dante pourra s'activer** 
+ 3. **L'effet de Dante pourra s'activer.** 
       
       *Dante n'a pas besoin d'être envoyé spécifiquement depuis le terrain au Cimetière, donc son effet pourra s'activer.*
 
