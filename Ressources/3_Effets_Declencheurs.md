@@ -23,11 +23,11 @@ Voyons un exemple. Supposons que *Tireur de l'Atlantide* et *Sirènemure Abyssgu
 
     *Vous pouvez défausser 2 autres monstres EAU au Cimetière ; Invoquez Spécialement cette carte depuis votre main. Lorsqu'elle est Invoquée de cette façon : vous pouvez ajouter 1 Magie/Piège "-Abysses" depuis votre Deck à votre main. Vous pouvez Sacrifier 1 autre monstre EAU en Position d'Attaque ; durant chaque Battle Phase ce tour, cette carte peut faire une seconde attaque.*
 
-<u>Chain Link 1</u> : L'effet de *Megalo* pour s'invoquer, défaussant *Tireur de l'Atlantide* et *Gunde*. A noter que l'effet de *Megalo* démarre effectivement une chaîne, puisque son effet possède un point-virgule.
+<ins>Chain Link 1</ins> : L'effet de *Megalo* pour s'invoquer, défaussant *Tireur de l'Atlantide* et *Gunde*. A noter que l'effet de *Megalo* démarre effectivement une chaîne, puisque son effet possède un point-virgule.
 
 Les effets de *Tireur* et de *Gunde* ne s'activent pas encore, bien qu'ils aient techniquement rempli leurs conditions d'activation. Ils attendent que la Chaîne en cours soit résolue avant de s'activer.
 
-<u>Résolution de Chaîne</u> : *Megalo* est Invoqué Spécialement.
+<ins>Résolution de Chaîne</ins> : *Megalo* est Invoqué Spécialement.
 
 A ce moment là, on regarde quels effets ont été déclenchés et veulent s'activer. *Tireur* et *Gunde* ont attendu, et à ce moment précis le second effet de *Megalo* a également été déclenché.
 
@@ -59,15 +59,15 @@ Joueur A contrôle *Dante, Voyageur des Abysses Ardents*, avec *Cir, Malebranche
     
     *Si cette carte est envoyée au Cimetière par un effet de carte : vous pouvez piocher 1 carte.*
 
-<u>Chain Link 1</u> : *Trou Noir*
+<ins>Chain Link 1</ins> : *Trou Noir*
 
-<u>Résolution</u> : *Trou Noir* détruit *Dante* et *Beast*, et *Cir* est également envoyé au Cimetière, le tout simultanément.
+<ins>Résolution</ins> : *Trou Noir* détruit *Dante* et *Beast*, et *Cir* est également envoyé au Cimetière, le tout simultanément.
 
 *Dante* et *Cir* sont tous deux des effets optionnels du **JT**, et rencontrent tous deux leurs conditions d'activation au même moment. Ils iront donc sur la Chaîne en premier en tant que CL1 et CL2 dans l'ordre du choix du **JT**. *Bête* déclenche son effet optionnel pour le **NJT**, donc il viendra après les deux premiers en tant que CL3. 
 
-<u>Chain Link 1</u> et <u>Chain Link 2</u> : *Dante* et *Cir* (peu importe l'ordre)
+<ins>Chain Link 1</ins> et <ins>Chain Link 2</ins> : *Dante* et *Cir* (peu importe l'ordre)
 
-<u>Chain Link 3</u> : *Bête*
+<ins>Chain Link 3</ins> : *Bête*
 
 Revenons à l'exemple avec *Tireur*, *Gunde* et *Megalo* :
 - *Tireur de l'Atlantide* :
@@ -82,15 +82,15 @@ Revenons à l'exemple avec *Tireur*, *Gunde* et *Megalo* :
 
     *Vous pouvez défausser 2 autres monstres EAU au Cimetière ; Invoquez Spécialement cette carte depuis votre main. Lorsqu'elle est Invoquée de cette façon : vous pouvez ajouter 1 Magie/Piège "-Abysses" depuis votre Deck à votre main. Vous pouvez Sacrifier 1 autre monstre EAU en Position d'Attaque ; durant chaque Battle Phase ce tour, cette carte peut faire une seconde attaque.*
 
-<u>Chain Link 1</u> : Effet de *Megalo* pour s'Invoquer Spécialement, en défaussant *Tireur* et *Gunde*
+<ins>Chain Link 1</ins> : Effet de *Megalo* pour s'Invoquer Spécialement, en défaussant *Tireur* et *Gunde*
 
-<u>Résolution</u> : *Mégalo* s'Invoque Spécialement
+<ins>Résolution</ins> : *Mégalo* s'Invoque Spécialement
 
 *Tireur*, *Gunde* et *Megalo* on tous les trois validé la condition d'activation de leurs effets. *Tireur* est un effet obligatoire du **JT**, donc il s'active en premier. *Gunde* et *Megalo* sont tous deux des effets optionnels du **JT**, donc ils peuvent être activés dans l'ordre du choix du **JT**.
 
-<u>Chain Link 1</u> : *Tireur*, ciblant une carte Posée
-<u>Chain Link 2</u> : *Gunde*, ciblant un Sirènemure dans le Cimetière
-<u>Chain Link 3</u> : second effet de *Megalo*
+<ins>Chain Link 1</ins> : *Tireur*, ciblant une carte Posée
+<ins>Chain Link 2</ins> : *Gunde*, ciblant un Sirènemure dans le Cimetière
+<ins>Chain Link 3</ins> : second effet de *Megalo*
 
 Les Chaînes ont été développées entièrement dans les exemples ci-dessus, car c'est une bonne pratique de les construire correctement et les résoudre attentivement. 
 

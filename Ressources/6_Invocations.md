@@ -33,19 +33,19 @@ Contrairement à ce qui a été vu plus tôt, cette Chaîne entière est en rép
 
 Voilà pourquoi cet exemple est correct :
 
-<u>Chain Link 1</u> : *Hommage Torrentiel*
+<ins>Chain Link 1</ins> : *Hommage Torrentiel*
 
-<u>Chain Link 2</u> : *Trappe Sans Fond*
+<ins>Chain Link 2</ins> : *Trappe Sans Fond*
 
 Mais celui-ci ne l'est pas :
 
-<u>Chain Link 1</u> : *Hommage Torrentiel*
+<ins>Chain Link 1</ins> : *Hommage Torrentiel*
 
-<u>Chain Link 2</u> : *Mouchard Électronique*
+<ins>Chain Link 2</ins> : *Mouchard Électronique*
 
 Puis dans une nouvelle Chaîne :
 
-<u>Chain Link 1</u> : *Trappe Sans Fond*
+<ins>Chain Link 1</ins> : *Trappe Sans Fond*
 
 ## Résumé 
 1. Le joueur sélectionne un monstre, effectue les Sacrifices nécessaires, et déclare son intention d'invoquer le monstre. Celui-ci n'est pas sur le terrain tant que la Fenêtre d'Annulation d'Invocation n'est pas passée.
@@ -73,9 +73,9 @@ On peut lire de son texte que son effet d'Invocation ne démarre pas de Chaîne.
 
 Supposons maintenant que j'active *Polymérisation*, et que j'Invoque Spécialement un monstre Fusion.
 
-<u>Chain Link 1</u> : *Polymérisation*
+<ins>Chain Link 1</ins> : *Polymérisation*
 
-<u>Résolution de la Chaîne</u> : *Polymérisation* Invoque Spécialement le monstre Fusion
+<ins>Résolution de la Chaîne</ins> : *Polymérisation* Invoque Spécialement le monstre Fusion
 
 La première partie de l'Invocation a lieu pendant la résolution de *Polymérisation*, donc rien ne peut être activé pendant la Fenêtre d'Annulation de l'Effet (bien qu'après que la Chaîne soit résolue, il reste possible de répondre à l'Invocation). *Corne Céleste Ténébreuse* n'est donc pas activable en réponse à *Polymérisation*, et elle ne peut pas non plus être activé après la résolution de *Polymérisation*.
 
@@ -84,9 +84,9 @@ Supposons maintenant que j'Invoque Spécialement *Grande Prêtresse de la Proph�
 
 Le point-virgule dans l'effet précise que cet effet démarre une Chaîne :
 
-<u>Chain Link 1</u> : *Grande Prêtresse de la Prophétie*
+<ins>Chain Link 1</ins> : *Grande Prêtresse de la Prophétie*
 
-<u>Résolution de la Chaîne</u> : *Prêtresse* s'Invoque Spécialement
+<ins>Résolution de la Chaîne</ins> : *Prêtresse* s'Invoque Spécialement
 
 De nouveau, cette Invocation Spéciale a lieu pendant que la Chain Link 1 est entrain de se résoudre, donc rien ne peut être activé pendant la Fenêtre d'Annulation d'Invocation.
 
@@ -98,13 +98,13 @@ Dans un article sur les mécaniques d'Invocation, il serait impensable de ne pas
 La première partie du texte annule les Invocations, tout comme *Corne Céleste Ténébreuse*. Cependant, la seconde partie du texte explique que la carte peut annuler l'activation de Cartes Magie, Piège, et des effets de Monstres. Ce point veut dire que la carte peut être chaînée à *Polymérisation* et à l'effet de *Prêtresse* plus haut, non pas pour annuler les invocations mais les cartes elles-mêmes, puisque leurs activations impliquent une Invocation Spéciale.
 
 Le dernier exemple de cet article se basera sur *Bixi, Eau du Yang Zing* :
-- *Une fois par tour, durant la Main Phase ou Battle Phase de votre adversaire, vous pouvez : <u>immédiatement après la résolution de cet effet</u>, Invoquez par Synchronisation 1 Monstre Synchro, en utilisant uniquement des monstres "Yang Zing" que vous contrôlez (ceci est un Effet Rapide).*
+- *Une fois par tour, durant la Main Phase ou Battle Phase de votre adversaire, vous pouvez : <ins>immédiatement après la résolution de cet effet</ins>, Invoquez par Synchronisation 1 Monstre Synchro, en utilisant uniquement des monstres "Yang Zing" que vous contrôlez (ceci est un Effet Rapide).*
 
 Le texte souligné est ici pour préciser que l'Invocation Synchro a lieu **après** que la Chaîne ait résolu.
 
-<u>Chain Link 1</u> : *Bixi*
+<ins>Chain Link 1</ins> : *Bixi*
 
-<u>Résolution de la Chaîne</u> : L'effet de *Bixi* résoud, bien qu'il ne fasse rien immédiatement
+<ins>Résolution de la Chaîne</ins> : L'effet de *Bixi* résoud, bien qu'il ne fasse rien immédiatement
 
 L'Invocation Synchro est effectuée à ce moment, après la résolution de la Chaîne.
 

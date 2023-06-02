@@ -22,17 +22,17 @@ Joueur A contrôle *Main de Feu*. Joueur B active *Typhon d'Espace Mystique* pou
     
 - *Main de Feu* :
 
-    *<u>Lorsque</u> cette carte en votre possession est détruite par une carte de votre adversaire et envoyée à votre Cimetière : <u>vous pouvez</u> cibler 1 monstre qu'il contrôle ; détruisez la cible, puis vous pouvez Invoquer Spécialement 1 "Main de Glace" depuis votre Deck.*
+    *<ins>Lorsque</ins> cette carte en votre possession est détruite par une carte de votre adversaire et envoyée à votre Cimetière : <ins>vous pouvez</ins> cibler 1 monstre qu'il contrôle ; détruisez la cible, puis vous pouvez Invoquer Spécialement 1 "Main de Glace" depuis votre Deck.*
 
-<u>Chain Link 1</u> : *Typhon d'Espace Mystique*
+<ins>Chain Link 1</ins> : *Typhon d'Espace Mystique*
 
-<u>Chain Link 2</u> : *Interruption de Raigeki*
+<ins>Chain Link 2</ins> : *Interruption de Raigeki*
 
 Résolution de la Chaîne :
 
-<u>Chain Link 2</u> résoud : *Interruption de Raigeki* détruit *Main de Feu*
+<ins>Chain Link 2</ins> résoud : *Interruption de Raigeki* détruit *Main de Feu*
 
-<u>Chain Link 1</u> résoud : *Typhon d'Espace Mystique* détruit sa cible
+<ins>Chain Link 1</ins> résoud : *Typhon d'Espace Mystique* détruit sa cible
 
 L'effet de *Main de Feu* est un "lorsque" optionnel, et sa destruction n'est pas l'une des dernières actions à avoir lieu. Son effet ne peut donc pas être activé dans ce cas de figure.
 
@@ -41,15 +41,15 @@ Cette règle s'applique également pour les cartes Magies et Pièges.
 Joueur A active *Gobelin Parvenu*, et Joueur B décide de chaîner *Appel de l'Être Hanté*, afin d'Invoquer Spécialement *Dragon Blanc aux Yeux Bleus*. Joueur A a une *Trappe Sans Fond* de Posée sur le terrain.
 - *Lorsque votre adversaire Invoque un ou plusieurs monstres avec min. 1500 ATK : détruisez ces monstres avec min. 1500 ATK, et si vous le faites, bannissez-les.*
 
-<u>Chain Link 1</u> : *Gobelin Parvenu*
+<ins>Chain Link 1</ins> : *Gobelin Parvenu*
 
-<u>Chain Link 2</u> : *Appel de l'Être Hanté*
+<ins>Chain Link 2</ins> : *Appel de l'Être Hanté*
 
 Résolution de la Chaîne :
 
-<u>Chain Link 2</u> résoud : *Appel de l'Être Hanté* invoque *Dragon Blanc aux Yeux Bleus*
+<ins>Chain Link 2</ins> résoud : *Appel de l'Être Hanté* invoque *Dragon Blanc aux Yeux Bleus*
 
-<u>Chain Link 1</u> résoud : Joueur A pioche sa carte
+<ins>Chain Link 1</ins> résoud : Joueur A pioche sa carte
 
 *Trappe sans fond* utilise un "lorsque", activer une carte Magie / Piège est optionnel, et l'Invocation du monstre n'était pas "l'une des dernières actions à avoir lieu", donc elle ne peut pas être activée, tout comme l'exemple avec *Main de Feu*.
 
@@ -63,30 +63,30 @@ A noter que cet effet déclencheur est un effet optionnel "lorsque", et donc est
 
 Supposons que Joueur B chaîne *Typhon d'Espace Mystique* à l'activation de *Ville des Engrenages* du Joueur A sur le terrain.
 
-<u>Chain Link 1</u> : Activation de *Ville des Engrenages* sur le terrain
+<ins>Chain Link 1</ins> : Activation de *Ville des Engrenages* sur le terrain
 
-<u>Chain Link 2</u> : *Typhon d'Espace Mystique* ciblant *Ville des Engrenages*
+<ins>Chain Link 2</ins> : *Typhon d'Espace Mystique* ciblant *Ville des Engrenages*
 
 Résolution de la Chaîne :
 
-<u>Chain Link 2</u> résoud : *Typhon d'Espace Mystique* détruit *Ville des Engrenages*
+<ins>Chain Link 2</ins> résoud : *Typhon d'Espace Mystique* détruit *Ville des Engrenages*
 
-<u>Chain Link 1</u> résoud : *Ville des Engrenages* résoud sur le terrain (mais elle résoud sans effet puisqu'elle vient d'être détruite)
+<ins>Chain Link 1</ins> résoud : *Ville des Engrenages* résoud sur le terrain (mais elle résoud sans effet puisqu'elle vient d'être détruite)
 
 Notons que *Ville des Engrenages* a été détruite, mais son effet sur le terrain tente tout de même de se résoudre en tant que Chain Link 1. Dans cette situation, le fait que *Ville des Engrenages* "tente de se résoudre" est la dernière chose qui a lieu, tandis que sa destruction ne l'est pas. C'est pourquoi l'effet déclencheur de *Ville des Engrenages* manque de s'activer.
 
 Supposons que Joueur B chaîne *Brouilleur Magique*, pour annuler l'activation de *Ville des Engrenages*.
 - *Lorsqu'une Carte Magie est activée : défaussez 1 carte ; annulez l'activation, et si vous le faites, détruisez-la.*
 
-<u>Chain Link 1</u> : Activation de *Ville des Engrenages* sur le terrain
+<ins>Chain Link 1</ins> : Activation de *Ville des Engrenages* sur le terrain
 
-<u>Chain Link 2</u> : *Brouilleur Magique*
+<ins>Chain Link 2</ins> : *Brouilleur Magique*
 
 Résolution de la Chaîne :
 
-<u>Chain Link 2</u> résoud : *Brouilleur Magique* annule l'activation de *Ville des Engrenages* et la détruit
+<ins>Chain Link 2</ins> résoud : *Brouilleur Magique* annule l'activation de *Ville des Engrenages* et la détruit
 
-<u>Chain Link 1</u> résoud : (rien)
+<ins>Chain Link 1</ins> résoud : (rien)
 
 Comme *Brouilleur Magique* annule l'activation, les effets de *Ville des Engrenages* sur le terrain n'essaient pas de résoudre du tout. C'est pourquoi il est possible de dire que la destruction de *Ville des Engrenages* était effectivement l'une des dernières choses à avoir lieu, donc son effet déclencheur peut s'activer normalement. 
 
@@ -97,13 +97,13 @@ Cet article ainsi que l'article précédent se penchent sur les effets déclench
 Joueur A active *Trou Noir*, détruisant son *Bixi, Eau du Yang Zing*, ainsi que le *Soldat de Carte* du Joueur B. 
 - *Bixi, Eau du Yang Zing* :
     
-    *<u>Lorsque</u> cette carte que vous contrôlez est détruite au combat ou par un effet de carte, et envoyée à votre Cimetière : <u>vous pouvez</u> Invoquer Spécialement 1 monstre "Yang Zing" ("Bixi, Eau du Yang Zing" exclu) depuis votre Deck en Position d'Attaque.*
+    *<ins>Lorsque</ins> cette carte que vous contrôlez est détruite au combat ou par un effet de carte, et envoyée à votre Cimetière : <ins>vous pouvez</ins> Invoquer Spécialement 1 monstre "Yang Zing" ("Bixi, Eau du Yang Zing" exclu) depuis votre Deck en Position d'Attaque.*
 
 - *Soldat de Carte* :
   
     *Si cette carte que vous contrôlez est détruite et envoyée à votre Cimetière : piochez 1 carte.*
 
-<u>Chain Link 1</u> : *Trou Noir*
+<ins>Chain Link 1</ins> : *Trou Noir*
 
 Résolution de la Chaîne : *Trou Noir* détruit *Bixi* et *Soldat de Carte* en même temps.
 
@@ -113,9 +113,9 @@ Regardons si l'un des effets peut manquer son créneau d'activation. La destruct
 
 Maintenant que les effets à activer ont été décidés, la prochaine étape concerne l'ordre d'activation de ces effets. *Soldat de Carte* est un effet obligatoire du **NJT**, et *Bixi* est un effet facultatif du **JT**, donc d'après les règles du SEGOC, les effets s'activeront dans la Chaîne suivante dans cet ordre :
 
-<u>Chain Link 1</u> : *Soldat de Carte*
+<ins>Chain Link 1</ins> : *Soldat de Carte*
 
-<u>Chain Link 2</u> : *Bixi*
+<ins>Chain Link 2</ins> : *Bixi*
 
 (Si les règles du SEGOC mentionnées ici ne vous sont pas familières, n'hésitez pas à lire ou relire l'article précédent)
 

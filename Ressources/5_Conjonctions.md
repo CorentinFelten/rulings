@@ -9,23 +9,23 @@ Avant de commencer, n'oubliez pas de lire le dernière article sur les [effets d
 Les 4 conjonctions principales sont *puis*, *et si vous le faites*, *et aussi* et *aussi, après cela*. Voici quelques exemples :
 - *Le Livre de la Vie* :
 
-    *Ciblez 1 monstre Zombie dans votre Cimetière et 1 monstre dans le Cimetière de votre adversaire ; Invoquez Spécialement la première cible, <u>et aussi</u>, bannissez la seconde cible.*
+    *Ciblez 1 monstre Zombie dans votre Cimetière et 1 monstre dans le Cimetière de votre adversaire ; Invoquez Spécialement la première cible, <ins>et aussi</ins>, bannissez la seconde cible.*
 
 Ici, l'effet est de la forme 'faire A, et aussi faire B', où A est l'invocation spéciale de la première cible, et B le bannissement de la seconde cible. La structure est similaire pour les autres conjonctions :
 - *Nékroz de Valkyrus* :
     
-    *Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir 1 carte "Nékroz" depuis votre Cimetière et défausser cette carte ; annulez l'attaque, <u>puis</u> terminez la Battle Phase.*
+    *Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir 1 carte "Nékroz" depuis votre Cimetière et défausser cette carte ; annulez l'attaque, <ins>puis</ins> terminez la Battle Phase.*
 
 Ici, l'effet est de la forme 'faire A, puis faire B', où A est l'annulation d'attaque et B est la fin de la Battle Phase.
 
 ## Conjonctions et Créneaux
 Le premier point que les conjonctions nous permettent d'identifier est de savoir si A et B sont simultanées ou non pour les effets optionnels "lorsque".
 
-<u>A et B sont simultanées</u> :
+<ins>A et B sont simultanées</ins> :
 - *et si vous le faites*
 - *et aussi*
 
-<u>A et B ne sont pas simultanées</u> :
+<ins>A et B ne sont pas simultanées</ins> :
 - *puis*
 - *aussi, après cela*
 
@@ -34,32 +34,32 @@ Pourquoi s'attarder sur ce point ? Souvenez-vous de la règle sur les effets opt
 Voyons un exemple : supposons que j'utilise *Voleur d'Esprit* sur *Dragon Pulsar de Lumière* :
 - *Voleur d'Esprit* :
 
-    *Ciblez 1 monstre face recto contrôlé par votre adversaire ; détruisez la cible, <u>puis</u> votre adversaire gagne 1000 LP.*
+    *Ciblez 1 monstre face recto contrôlé par votre adversaire ; détruisez la cible, <ins>puis</ins> votre adversaire gagne 1000 LP.*
 
 - *Dragon Pulsar de Lumière* :
 
-    *<u>Lorsque</u> cette carte est envoyée depuis le Terrain au Cimetière : <u>vous pouvez</u> cibler 1 monstre TÉNÈBRES Dragon de min. Niveau 5 dans votre Cimetière ; Invoquez Spécialement la cible.*
+    *<ins>Lorsque</ins> cette carte est envoyée depuis le Terrain au Cimetière : <ins>vous pouvez</ins> cibler 1 monstre TÉNÈBRES Dragon de min. Niveau 5 dans votre Cimetière ; Invoquez Spécialement la cible.*
 
 (A noter que l'effet de *Dragon Pulsar de Lumière* est effectivement un effet optionnel "lorsque")
 
-<u>Chain Link 1</u> : *Voleur d'Esprit*
+<ins>Chain Link 1</ins> : *Voleur d'Esprit*
 
-L'emploi du *puis* dans l'effet de *Voleur d'Esprit* explique que la destruction et le gain de LP ne sont pas simultanés. Le gain de LP a lieu <u>après</u> la destruction en terme de timing. 
+L'emploi du *puis* dans l'effet de *Voleur d'Esprit* explique que la destruction et le gain de LP ne sont pas simultanés. Le gain de LP a lieu <ins>après</ins> la destruction en terme de timing. 
 
-<u>Résolution de la Chaîne</u> : *Voleur d'Esprit* détruit *Dragon Pulsar*. Une fois le monstre détruit, mon adversaire gagne 1000 LP.
+<ins>Résolution de la Chaîne</ins> : *Voleur d'Esprit* détruit *Dragon Pulsar*. Une fois le monstre détruit, mon adversaire gagne 1000 LP.
 
 La destruction de *Dragon Pulsar* n'est donc pas l'une des dernières actions à avoir lieu, il manque donc son créneau d'activation.
 
 Supposons maintenant que j'active l'effet de *Numéro 50 : Bateau Noir de Maïs* sur *Dragon Pulsar de Lumière* (on suppose également que j'ai réduit l'ATK de *Dragon Pulsar* pour qu'elle soit plus basse que celle du *Bateau*) :
 - *Numéro 50 : Bateau Noir de Maïs* :
 
-    *Une fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 monstre face recto contrôlé par votre adversaire avec une ATK inférieure ou égale à l'ATK de cette carte ; envoyez-le au Cimetière, <u>et si vous le faites</u>, infligez 1000 points de dommages à votre adversaire.*
+    *Une fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 monstre face recto contrôlé par votre adversaire avec une ATK inférieure ou égale à l'ATK de cette carte ; envoyez-le au Cimetière, <ins>et si vous le faites</ins>, infligez 1000 points de dommages à votre adversaire.*
 
-<u>Chain Link 1</u> : effet de *Numéro 50 : Bateau Noir de Maïs*
+<ins>Chain Link 1</ins> : effet de *Numéro 50 : Bateau Noir de Maïs*
 
 Cette fois-ci, la conjonction est *et si vous le faites*, ce qui veut dire que l'envoi au Cimetière et le fait d'infliger des dommages sont simultanés à la résolution.
 
-<u>Résolution de la Chaîne</u> : *Dragon Pulsar de Lumière* est envoyé au Cimetière, et au même moment mon adversaire prend 1000 points de dommages.
+<ins>Résolution de la Chaîne</ins> : *Dragon Pulsar de Lumière* est envoyé au Cimetière, et au même moment mon adversaire prend 1000 points de dommages.
 
 La condition d'activation de l'effet de *Dragon Pulsar* est l'une des dernières actions à avoir lieu, donc son effet peut être activé. 
 
@@ -69,11 +69,11 @@ A noter que les effets ici étaient en Chain Link 1, et la résolution serait di
 
 Les conjonctions nous expliquent également la quantité à résoudre d'un effet si un autre effet perturbateur est chaîné. Ce type d'effet devrait vous rappeler la discussion sur le mot 'cible' étant utilisé après le point-virgule, dans le [deuxième article](2_Ciblage.md) de cette série.
 
-<u>A est requis pour B</u> :
+<ins>A est requis pour B</ins> :
 - *et si vous le faites*
 - *puis*
 
-<u>A n'est pas requis pour B</u> :
+<ins>A n'est pas requis pour B</ins> :
 - *et aussi*
 - *aussi, après cela*
 
@@ -82,14 +82,14 @@ B n'est jamais requis pour A : si B n'est pas réalisable à la résolution de l
 Supposons que je déclare une attaque. Mon adversaire active l'effet de *Nékroz de Valkyrus* pour annuler mon attaque, mais je chaîne *Le Livre de la Lune* pour passer mon monstre face verso.
 - *Nékroz de Valkyrus* :
     
-    *Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir 1 carte "Nékroz" depuis votre Cimetière et défausser cette carte ; annulez l'attaque, <u>puis</u> terminez la Battle Phase.*
+    *Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir 1 carte "Nékroz" depuis votre Cimetière et défausser cette carte ; annulez l'attaque, <ins>puis</ins> terminez la Battle Phase.*
 
 *Valkyrus* ne peut donc plus annuler l'attaque, puisque le monstre n'est plus entrain d'attaquer. Comme *Valkyrus* utilise la conjonction *puis*, il ne pourra pas terminer la Battle Phase.
 
 Supposons maintenant que j'active *Le Livre de la Vie*, et que mon adversaire utilise son *Corbeau D.D.* pour bannir ma cible de type Zombie dans mon Cimetière.
 - *Le Livre de la Vie* :
 
-    *Ciblez 1 monstre Zombie dans votre Cimetière et 1 monstre dans le Cimetière de votre adversaire ; Invoquez Spécialement la première cible, <u>et aussi</u>, bannissez la seconde cible.*
+    *Ciblez 1 monstre Zombie dans votre Cimetière et 1 monstre dans le Cimetière de votre adversaire ; Invoquez Spécialement la première cible, <ins>et aussi</ins>, bannissez la seconde cible.*
 
 Comme *Le Livre de la Vie* utilise la conjonction *et aussi*, bien que je ne puisse pas Invoquer Spécialement ma première cible, la seconde cible sera tout de même bannie.
 

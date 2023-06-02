@@ -5,14 +5,14 @@ Cet ensemble de documents est une traduction en français des articles publiés 
 Il est vivement conseillé de lire ces articles dans l'ordre, puisque certains se basent sur des points de règles expliqués dans les articles précédents.
 
 ## Sommaire :
-- [0 - Introduction](0_Introduction.md)
-- [1 - PSCT](1_PSCT.md)
-- [2 - Ciblage](2_Ciblage.md)
-- [3 - Effets Déclencheurs](3_Effets_Declencheurs.md)
-- [4 - Effets "Lorsque" Optionnels](4_When_Optionnels.md)
-- [5 - Conjonctions](5_Conjonctions.md)
-- [6 - Invocations](6_Invocations.md)
-- [7 - Timing d'Effet Rapide](7_Timing_Effet_Rapide.md)
+- [0 - Introduction](Ressources/0_Introduction.md)
+- [1 - PSCT](Ressources/1_PSCT.md)
+- [2 - Ciblage](Ressources/2_Ciblage.md)
+- [3 - Effets Déclencheurs](Ressources/3_Effets_Declencheurs.md)
+- [4 - Effets "Lorsque" Optionnels](Ressources/4_When_Optionnels.md)
+- [5 - Conjonctions](Ressources/5_Conjonctions.md)
+- [6 - Invocations](Ressources/6_Invocations.md)
+- [7 - Timing d'Effet Rapide](Ressources/7_Timing_Effet_Rapide.md)
 - [8 - ]()
 - [9 - ]()
 - [10 - ]()

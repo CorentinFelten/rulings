@@ -55,7 +55,7 @@ L'effet de *Chevalier Exciton Colonie du Mal* illustre bien ce point :
 La partie "si votre adversaire a plus de cartes" est avant la virgule, donc il s'agit d'une condition d'activation. Elle explicite que l'adversaire doit avoir plus de cartes afin que l'effet soit activable. Donc même si l'adversaire Chaîne des cartes pour en avoir moins sur leur terrain à la résolution, l'effet d'*Exciton* aura quand même lieu.
 
 Si une carte a une condition à l'activation ET la résolution, elle spécifiera quelque chose comme la dernière phrase de *Grenouille d'Arbre* (anciennement Rainette) :
-- *Une fois par tour, durant votre Standby Phase, si cette carte est dans votre Cimetière et que vous ne contrôlez pas "Grenouille d'Arbre" : vous pouvez Invoquer Spécialement cette carte. <u>Vous ne devez contrôler aucune Carte Magie/Piège pour activer et résoudre cet effet.</u>*
+- *Une fois par tour, durant votre Standby Phase, si cette carte est dans votre Cimetière et que vous ne contrôlez pas "Grenouille d'Arbre" : vous pouvez Invoquer Spécialement cette carte. <ins>Vous ne devez contrôler aucune Carte Magie/Piège pour activer et résoudre cet effet.</ins>*
 
 ## Assemblage des règles
 Certains effets n'auront pas de conditions spécifiques pour activer leurs effets, ou même d'actions à effectuer à leur activation, donc ils n'auront pas besoin de deux-points ou point-virgules. Mais dans l'ensemble, un effet typique qui démarre une Chaîne aura la structure suivante :

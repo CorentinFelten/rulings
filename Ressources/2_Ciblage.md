@@ -11,7 +11,7 @@ En utilisant le PSCT, il est aisé d'identifier quand un effet cible ou non.
 Plutôt simple, mais il est important de rappeler que cela ne s'applique qu'aux cartes écrites avec du PSCT. Voici deux cartes d'exemples :
 - *Un Souffle d'Aile de Phœnix* :
 
-    *Défaussez 1 carte, puis <u>ciblez</u> 1 carte contrôlée par votre adversaire ; placez la cible au-dessus du Deck.*
+    *Défaussez 1 carte, puis <ins>ciblez</ins> 1 carte contrôlée par votre adversaire ; placez la cible au-dessus du Deck.*
     
     Cet effet cible explicitement.
 
@@ -27,17 +27,17 @@ Les choses deviennent bien plus intéressante lorsqu'on s'attarde sur ce qui est
 **Si un effet utilise également le mot 'cible' après le point-virgule, alors les conditions de ciblage doivent toutes être correctes à la résolution de l'effet, sinon la carte résoudra sans effet.**
 
 Cette description peut sembler complexe, mais elle deviendra plus claire avec des exemples. Commençons avec l'effet de *Tireur de l'Atlantide* :
-- *Lorsque cette carte est envoyée au Cimetière pour activer un effet de monstre EAU : <u>ciblez</u> 1 carte Posée contrôlée par votre adversaire ; détruisez la <u>cible</u>.*
+- *Lorsque cette carte est envoyée au Cimetière pour activer un effet de monstre EAU : <ins>ciblez</ins> 1 carte Posée contrôlée par votre adversaire ; détruisez la <ins>cible</ins>.*
 
 L'effet utilise le mot 'cible' après le point-virgule. *Tireur de l'Atlantide* cible une carte Posée, donc cette règle de PSCT explique que *Tireur* vérifie si sa cible est toujours Posée à la résolution avant de la détruire. Donc si la cible de cette effet est Chaînée, alors *Tireur de l'Atlantide* ne la détruira pas. 
 
 Comparons cette situation avec le premier effet de *Cyclone Galactique* :
-- *<u>Ciblez</u> 1 Magie/Piège Posé sur le Terrain ; détruisez-<u>le</u>.*
+- *<ins>Ciblez</ins> 1 Magie/Piège Posé sur le Terrain ; détruisez-<ins>le</ins>.*
 
 Puisque cet effet n'emploie pas le terme 'cible' après le point-virgule, il ne vérifiera pas si la cible est toujours face cachée à la résolution. *Cyclone Galactique* détruira sa cible peu importe sa position.
 
 Un autre exemple est *Trappe* :
-- *Lorsque votre adversaire Invoque Normalement ou par Flip un monstre avec min. 1000 ATK : <u>ciblez</u> le monstre ; détruisez la <u>cible</u>.*
+- *Lorsque votre adversaire Invoque Normalement ou par Flip un monstre avec min. 1000 ATK : <ins>ciblez</ins> le monstre ; détruisez la <ins>cible</ins>.*
 
 Puisque l'effet mentionne la 'cible' après le point-virgule, il ne détruira le monstre ciblé que s'il a toujours 1000 ou plus d'ATK en résolution. Si l'adversaire chaîne une carte comme 
 *Rétrécissement* (ou *Livre de la Lune*), pour que le monstre ait moins de 1000 ATK (ou qu'il soit face verso, donc pour que son ATK ne puisse pas être déterminée), alors *Trappe* ne le détruira pas.
@@ -45,7 +45,7 @@ Puisque l'effet mentionne la 'cible' après le point-virgule, il ne détruira le
 **Si un effet n'utilise pas le mot 'cible' après le point-virgule, lisez la carte attentivement pour déterminer quelles conditions doivent être correctes en résolution.**
 
 Par exemple, penchons-nous sur *Trappe Sans Fond* :
-- *Lorsque votre adversaire Invoque un ou plusieurs monstres avec min. 1500 ATK : détruisez <u>ces monstres avec min. 1500 ATK</u>, et si vous le faites, bannissez-les.*
+- *Lorsque votre adversaire Invoque un ou plusieurs monstres avec min. 1500 ATK : détruisez <ins>ces monstres avec min. 1500 ATK</ins>, et si vous le faites, bannissez-les.*
 
 Bien que la carte ne cible pas, le texte nous dit que les monstres ont besoin d'avoir 1500 d'ATK ou plus à la résolution. Si un effet est Chaîné, réduisant leur ATK en dessous de 1500, alors *Trappe Sans Fond* ne détruira ni bannira ces monstres.
 
@@ -69,14 +69,14 @@ L'effet n'utilise pas le mot 'cibles' après son point-virgule, donc comme dans 
 **Si l'effet spécifie 'les cibles' après le point-virgule, il vérifie les conditions de ciblages pour chaque cible individuellement en résolution.**
 
 Il s'agit du cas dans lequel l'effet vérifie chaque carte individuellement. Par exemple, *Dragon Tigre* :
-- *Lorsque cette carte est Invoquée par Sacrifice en Sacrifiant un monstre Dragon : vous pouvez cibler max. 2 cartes Posées dans la Zone Magie & Piège de votre adversaire ; détruisez <u>les cibles</u>.*
+- *Lorsque cette carte est Invoquée par Sacrifice en Sacrifiant un monstre Dragon : vous pouvez cibler max. 2 cartes Posées dans la Zone Magie & Piège de votre adversaire ; détruisez <ins>les cibles</ins>.*
 
 Si une des cibles est retournée face recto, *Dragon Tigre* ne la détruira pas, mais il regardera tout de même l'autre cible et la détruira si elle est effectivement toujours face verso.
 
 **Si l'effet spécifie 'les deux' ou 'toutes' (en fonction de l'effet), alors il vérifie les conditions collectivement, et si elles ne sont pas toutes correctes, l'effet ne fera rien.**
 
 Prenons l'exemple de *Pot d'Avarice* :
-- *Ciblez 5 monstres dans votre Cimetière ; mélangez-les <u>tous les 5</u> dans le Deck, puis piochez 2 cartes.*
+- *Ciblez 5 monstres dans votre Cimetière ; mélangez-les <ins>tous les 5</ins> dans le Deck, puis piochez 2 cartes.*
 
 Puisque l'effet précise 'tous les 5', si un *Corbeau D.D.* est chaîné pour bannir une des 5 cibles, alors *Pot d'Avarice* ne fera rien. 'Tous' (ou 'les deux') veut dans les faits dire 'tous ou aucun'.
 
