@@ -15,7 +15,7 @@ Il est vivement conseillé de lire ces articles dans l'ordre, puisque certains s
 - [7 - Timing d'Effet Rapide](Ressources/7_Timing_Effet_Rapide.md)
 - [8 - Battle Phase](Ressources/8_Battle_Phase.md)
 - [9 - Damage Step](Ressources/9_Damage_Step.md)
-- [10 - ]()
+- [10 - Annulations](Ressources/10_Annulations.md)
 - [11 - ]()
 - [12 - ]()
 - [13 - ]()
