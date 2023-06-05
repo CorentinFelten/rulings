@@ -103,5 +103,74 @@ Cette Step est spécifiquement pour le combat en lui-même. Seuls certains effet
 
 Cependant, il n'est PAS possible d'activer *Typhon d'Espace Mystique*, puisqu'il n'y a pas de raison particulière de l'autoriser dans la Damage Step. De la même manière, si un monstre est Invoqué Spécialement dans la Damage Step, il est impossible d'activer *Trappe Sans Fond*. Certaines cartes et effets expliciteront qu'ils ne peuvent pas être activés durant la Damage Step, donc il est toujours sage de revérifier l'effet de la carte.
 
+Nous étudierons la structure exacte de la Damage Step dans le prochain article.
 
+## End Step
+Une fois que le joueur du tour ne souhaite plus déclarer d'attaque, le joueur arrive à cette étape. C'est l'étape dans laquelle s'activent les effets comme *Bestiari, Bête Gladiateur* :
+- *À la fin de la Battle Phase, si cette carte a attaqué ou a été attaquée : vous pouvez la mélanger dans le Deck ; Invoquez Spécialement 1 monstre "Bête Gladiateur" ("Bestiari, Bête Gladiateur" exclus) depuis votre Deck.*
+
+## C'est l'heure du Quiz !
+1. Quels effets activés par mon adversaire causent un Replay d'attaque s'ils sont activés en réponse à mon attaque ?
+  - *Trio Ojama* :
+  
+    *Invoquez Spécialement 3 "Jeton Ojama" (Type Bête/LUMIÈRE/Niveau 2/ATK 0/DEF 1000) sur le Terrain de votre adversaire en Position de Défense.*
+
+  - *Cercle des Rois du Feu* :
+
+    *Ciblez 1 monstre FEU que vous contrôlez et 1 monstre FEU dans votre Cimetière ; détruisez le monstre que vous contrôlez, et si vous le faites, Invoquez Spécialement l'autre monstre depuis votre Cimetière. Vous ne pouvez activer qu'1 "Cercle des Rois du Feu" par tour.*
+
+  - *Boost d'Ego* :
+
+    *Lorsqu'un monstre déclare une attaque : ciblez 1 monstre face recto sur le Terrain ; jusqu'à la fin de la Battle Phase, il gagne 1000 ATK.*
+
+2. Quels effets peuvent être activés durant la Damage Step ?
+
+  - *Hommage Torrentiel* :
+
+    Lorsqu'un ou plusieurs monstres sont Invoqués : détruisez tous les monstres sur le Terrain.*
+
+  - Le second effet de *Loi des Ténèbres, HÉROS Masqué* :
+
+    *Une fois par tour, si votre adversaire ajoute une ou plusieurs cartes depuis son Deck à sa main (sauf durant la Draw Phase ou la Damage Step) : vous pouvez bannir 1 carte au hasard depuis la main de votre adversaire.*
+
+  - *Colère Divine* :
+
+    *Lorsqu'un effet de monstre est activé : défaussez 1 carte ; annulez l'activation, et si vous le faites, détruisez le monstre.*
+
+3. J'entre en Battle Phase. Puis-je déclarer une attaque avec *Golem Rouages Ancients* avant que mon adversaire n'active *Rugissement Menaçant* ?
+  - *Rugissement Menaçant* :
+
+    *Votre adversaire ne peut pas déclarer d'attaque ce tour.*
+
+  - *Golem Rouages Ancients* :
+
+    *Si cette carte attaque, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step.*
+
+
+4. Puis-je activer *Flèches Anti-Magie* avant que mon adversaire n'active *Rugissement Menaçant* ? 
+  - *Flèches Anti-Magie* :
+
+    *Au début de la Battle Phase : le reste de ce tour après la résolution de cette carte, aucun joueur ne peut activer ni de Cartes Magie/Piège ni leurs effets. Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de cette carte.*
+
+<details>
+<summary>Réponses</summary>
+    
+ 1. **Uniquement *Cercle des Rois du Feu*.** 
+   
+      *Les deux autres cartes ne changent pas mes cibles d'attaque potentielles, contrairement à Cercle.*
+      
+ 2. **Uniquement *Colère Divine*.** 
+   
+      *Hommage Torrentiel n'a pas de raison d'être autorisé durant la Damage Step, et l'effet de Loi des Ténèbres exclue spécifiquement la Damage Step. Colère Divine annule l'activation des effets, donc elle peut être activée.*
+ 
+ 3. **Non.** 
+      
+      *Rugissement Menaçant peut être activé durant la Start Step, avant que Golem Rouages Ancients ne puisse déclarer une attaque durant la Battle Step. N'oubliez pas du dernier article sur le timing d'effets rapides que les Phases ne changent pas sans que les deux joueurs ne soient d'accord.*
+
+ 4. **Oui.**
+ 
+      *Le Joueur du Tour a le droit d'activer un effet rapide avant son adversaire lors de la Start Step, de nouveau d'après les timings d'effet rapide.*
+</details>
+
+Lors du prochain article, nous nous pencherons plus en détail sur la structure de la [Damage Step](9_Damage_Step.md).
 
