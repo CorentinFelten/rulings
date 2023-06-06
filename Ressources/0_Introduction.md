@@ -8,12 +8,12 @@ Ce post est le premier dans une série d'articles, qui va passer à travers les 
 ## Pourquoi s'embêter avec l'apprentissage de rulings ?
 Je peux penser à au moins cinq raisons pour justifier apprendre les rulings :
 1. Connaître les rulings peut vous aider à jouer mieux. Pour donner quelques exemples :
-   - Si vous savez comment marche *Skill Drain*, vous saurez que vous pouvez jouer autour en activant un effet de monstre et en chaînant *Le Livre de la Lune* pour mettre le monstre face verso, et que *Skill Drain* n'annule pas les effets de monstres comme *Cardcar D.*.
+   - Si vous savez comment marche *Absorption de Compétence*, vous saurez que vous pouvez jouer autour en activant un effet de monstre et en chaînant *Le Livre de la Lune* pour mettre le monstre face verso, et que *Absorption de Compétence* n'annule pas les effets de monstres comme *Voiturcarte D*.
    - Si vous ne lisez pas en détail *Dante, Voyageur des Abysses Ardents* attentivement, vous pourriez avoir une mauvaise surprise en apprenant que son effet s'active même quand vous activez *Avertissement Divin* sur son invocation.
-   - *Fire Hand* et *Ice Hand* ont des effet optionnels "when", donc il est parfois possible de jouer autour de leurs effets et les empêcher de s'activer.
-   - Il n'est pas possible d'utiliser *Illusionniste d'Effet* tant que l'effet du monstre adverse est déjà annulé. Si vous invoquez *Chevalier Exciton Colonie du Mal* et activez son effet, et que votre adversaire chaîne *Fiendish Chain*, gardez votre *Typhon d'Espace Mystique* ! Vous pourrez ensuite activer l'effet de *Exciton* dans une nouvelle chaîne, puis chaîner *Typhon d'Espace Mystique* pour que votre adversaire ne puisse pas activer *Illusionniste d'Effet* durant cette chaîne !
+   - *Main de Feu* et *Main de Glace* ont des effet optionnels "lorsque", donc il est parfois possible de jouer autour de leurs effets et les empêcher de s'activer.
+   - Il n'est pas possible d'utiliser *Illusionniste d'Effet* tant que l'effet du monstre adverse est déjà annulé. Si vous invoquez *Chevalier Exciton Colonie du Mal* et activez son effet, et que votre adversaire chaîne *Chaîne Démoniaque*, gardez votre *Typhon d'Espace Mystique* ! Vous pourrez ensuite activer l'effet de *Exciton* dans une nouvelle chaîne, puis chaîner *Typhon d'Espace Mystique* pour que votre adversaire ne puisse pas activer *Illusionniste d'Effet* durant cette chaîne !
 
-2. Connaître des rulings peut vous permettre d'éviter d'atterrir dans des game states illégaux. Par exemple, si vous activez *Card Destruction* et défaussez *Shaddoll Hedgehog* et *Broww, Huntsman of Dark World* au Cimetière, *Broww* doit être Chain Link 1 et *Hedgehog* Chain Link 2 dans la chaîne d'après, donc vous devrez d'abord tuto puis piocher. Si vous piochez puis tuto, votre adversaire ne pourra pas dire quelle carte vous aurez pioché, donc le game state ne pourra pas être réparé. Cette erreur pourrait vous coûter une game loss dans le pire des cas, et vous devriez remettre la tuto de *Hedgehog* dans le meilleur des cas.
+2. Connaître des rulings peut vous permettre d'éviter d'atterrir dans des game states illégaux. Par exemple, si vous activez *Card Destruction* et défaussez *Voiturcarte D* et *Broww, Chasseur du Monde Ténébreux* au Cimetière, *Broww* doit être Chain Link 1 et *Hérisson* Chain Link 2 dans la chaîne d'après, donc vous devrez d'abord tuto puis piocher. Si vous piochez puis tuto, votre adversaire ne pourra pas dire quelle carte vous aurez pioché, donc le game state ne pourra pas être réparé. Cette erreur pourrait vous coûter une game loss dans le pire des cas, et vous devriez remettre la tuto de *Hérisson* dans le meilleur des cas.
 
 3. La connaissance de rulings aide pour la construction de decks. En connaissant bien vos rulings, lire une nouvelle carte et comprendre comment elle s'intègre dans un deck uniquement en lisant son texte devient beaucoup plus facile, surtout pour déterminer si la carte sera intéressante ou non.
 
@@ -85,4 +85,4 @@ Voici quelques questions rapides pour tester des points importants. Les réponse
       *Ce point est expliqué page 21.*
 </details>
 
-[Prochain article : PSCT](1_PSCT.md)
+Le prochain article portera sur le [PSCT](1_PSCT.md).
