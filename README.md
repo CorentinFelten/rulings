@@ -16,6 +16,6 @@ Il est vivement conseillé de lire ces articles dans l'ordre, puisque certains s
 - [8 - Battle Phase](Ressources/8_Battle_Phase.md)
 - [9 - Damage Step](Ressources/9_Damage_Step.md)
 - [10 - Annulations](Ressources/10_Annulations.md)
-- [11 - ]()
+- [11 - Légalité d'Activation](Ressources/11_Legalite_Activation.md)
 - [12 - ]()
 - [13 - ]()
