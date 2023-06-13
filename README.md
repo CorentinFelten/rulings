@@ -17,5 +17,5 @@ Il est vivement conseillé de lire ces articles dans l'ordre, puisque certains s
 - [9 - Damage Step](Ressources/9_Damage_Step.md)
 - [10 - Annulations](Ressources/10_Annulations.md)
 - [11 - Légalité d'Activation](Ressources/11_Legalite_Activation.md)
-- [12 - ]()
+- [12 - Game State et Vérifications](Ressources/12_Game_State.md)
 - [13 - ]()
