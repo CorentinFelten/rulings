@@ -1,7 +1,7 @@
 # Démystification de rulings
 
 # 1. PSCT
-Vos cartes vous expliquent plus leur fonctionnement qu'observable de premier abord. Les cartes sorties, ou réimprimées, après 2011, soit presque toutes les cartes utilisées aujourd'hui, ont été écrites en *Problem Solving Card Text* (PSCT, Texte de Carte pour de la Résolution de Problèmes). Cela veut dire qu'avec un peu de connaissances, il est possible de connaître beaucoup d'informations supplémentaires sur le fonctionnement d'un effet de carte, et ce uniquement depuis leur texte. 
+Vos cartes vous en expliquent plus sur leur fonctionnement que ce que l'on pourrait croire. Les cartes sorties, ou réimprimées, après 2011, soit une grande majorité des cartes utilisées aujourd'hui, ont été écrites en *Problem Solving Card Text* (PSCT, ou Texte de Carte pour de la Résolution de Problèmes). Cela veut dire qu'avec un peu de connaissances, il est possible de connaître beaucoup d'informations supplémentaires sur le fonctionnement d'un effet de carte, et ce uniquement depuis son texte. 
 
 ## PSCT et Chaînes
 A travers le PSCT, il est possible de dire si un effet démarre une Chaîne ou non. En plus de l'importance évidente des Chaînes dans Yu-Gi-Oh!, certaines cartes mentionnent des effets activés, comme *Majesty's Fiend* et *Shadow-Imprisoning Mirror*, donc il est important de savoir quels effets s'activent et lesquels ne s'activent pas.
@@ -130,4 +130,4 @@ Ce n'est pas la dernière fois que nous parlerons de PSCT ! D'autres éléments 
 
 Enfin, avant d'appliquer les règles énoncées plus haut, veillez à vous assurer que la carte est bien écrite en PSCT ! Comme décrit au début, la grande majorité des cartes que vous encontrerez sont écrites en PSCT, mais si une carte est ancienne et n'a pas été réimprimée depuis longtemps, alors les règles énoncées ne s'appliqueront pas.
 
-[Prochain article : Ciblage](2_Ciblage.md)
+Le prochain article concernera le [Ciblage](2_Ciblage.md).
