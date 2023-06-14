@@ -3,7 +3,9 @@
 # Mécaniques Avancées
 Bienvenu sur le dernier article de cette série. Si vous êtes arrivé jusque là, félicitations ! Vous méritez votre diplôme de connaissances de rulings. 
 
-Il existe quelques mécaniques de jeu importantes à mentionner. Cet article peut servir de référence lorsqu'une situation potentielle impliquant ces mécaniques survient (au moins jusqu'à ce que vous ayez retenu ces points par coeur !)
+Il existe quelques mécaniques de jeu importantes à mentionner. Cet article peut servir de référence lorsqu'une situation potentielle impliquant ces mécaniques survient (au moins jusqu'à ce que vous ayez retenu ces points par cœur !)
+
+N'oubliez pas de consulter les [divers points de règles](12_Divers.md) de l'article précédent !
 
 ## Extra Invocations Normales
 Le principe général d'Invocations Normales supplémentaires fonctionne comme l'effet de *Séraphinite, Chevalier-Gemmes* :
@@ -65,7 +67,7 @@ Nous allons donc observer les informations que les monstres oublient et celles q
 
 - **Il n'oubliera pas s'il a été Invoqué ce tour.**
 
-    Par exemple, un monstre Yosenju mis face verso par *Livre de l'Éclipse* reviendra en main à la End Phase s'il a été Invoqué Normalement ce tour : 
+    Par exemple, un monstre *Yosenju* mis face verso par *Livre de l'Éclipse* reviendra en main à la End Phase s'il a été Invoqué Normalement ce tour : 
     - *Une fois par tour, durant la End Phase, si cette carte a été Invoquée Normalement ce tour : renvoyez-la à la main.*
 
 - **S'il a été mis face verso, il oubliera d'où il a été Invoqué Spécialement, mais il n'oubliera pas cette information s'il a été banni temporairement.**

@@ -3,7 +3,7 @@
 # Légalité d'Activation
 Dans cet article, nous utiliserons le terme de 'tentative' pour étudier différents rulings pour savoir si une action ou activation est légale. 
 
-N'oubliez pas de jeter un oeil au dernier article sur les [annulations](10_Annulations.md) !
+N'oubliez pas de jeter un œil au dernier article sur les [annulations](10_Annulations.md) !
 
 ## *Fossile Dyna Pachycéphalosaure* peut-il être utilisé pour une Invocation Xyz ?
 
@@ -16,9 +16,9 @@ Si cet effet est lu et interprété "*Aucun joueur ne peut (tenter d') Invoquer 
 *Pot de Dualité* a la clause suivante :
 - *Vous ne pouvez pas Invoquer Spécialement durant le tour où vous activez cette carte.*
 
-Le facteyr important dans ce cas est de savoir si une Invocation Spéciale a été réussie ou non. *Pot de Dualité* ne peut pas être activé si une Invocation Spéciale a effectivement eu lieu ce tour.
+Le facteur important dans ce cas est de savoir si une Invocation Spéciale a été réussie ou non. *Pot de Dualité* ne peut pas être activé si une Invocation Spéciale a effectivement eu lieu ce tour.
 
-Pour les Invocations Spéciales n'ayant pas lieu en résolution de Chaîne, si l'Invocation Spéciale est annulée, alors l'Invocation Spéciale n'est pas considérée comme réussie. Par exemple, si une Invocation Xyz est annylée par *Avertissement Divin*, alors *Pot de Dualité* pourra être activé plus tard ce tour.
+Pour les Invocations Spéciales n'ayant pas lieu en résolution de Chaîne, si l'Invocation Spéciale est annulée, alors l'Invocation Spéciale n'est pas considérée comme réussie. Par exemple, si une Invocation Xyz est annulée par *Avertissement Divin*, alors *Pot de Dualité* pourra être activé plus tard ce tour.
 
 Pour les Invocations Spéciales ayant lieu en résolution de Chaîne, si l'activation ou l'effet en lui-même est annulé, alors l'Invocation Spéciale n'est pas considérée comme réussie.
 
@@ -100,7 +100,7 @@ Voici ensuite quelques rulings concernant des actions possibles :
 
 - Il EST POSSIBLE d'activer *Sacrifice Inutile* tant que *Macro Cosmos* est face recto sur le terrain. *Bien que toutes les cartes sont bannies au lieu d'être envoyées au Cimetière, il est toujours possible de tenter d'envoyer des cartes au Cimetière en résolution d'effet, mais n'oubliez pas le principe de coûts.*
 
-Il existe bien évidemment plus de détails concernant la légalité d'activation que nous ne traîterons pas ici, et ce point peut être assez velu en dehors des cas couverts ici. Pour les cas les plus complexes, il est conseillé de consulter un article ou vérifier le ruling au cas par cas.
+Il existe bien évidemment plus de détails concernant la légalité d'activation que nous ne traiterons pas ici, et ce point peut être assez velu en dehors des cas couverts ici. Pour les cas les plus complexes, il est conseillé de consulter un article ou vérifier le ruling au cas par cas.
 
 ## C'est l'heure du Quiz !
 Utilisez les rulings plus hauts pour répondre aux questions suivantes. Si vous n'êtes pas sur, n'hésitez pas à remonter pour identifier le ruling le plus cohérent à la situation.
@@ -213,5 +213,5 @@ Utilisez les rulings plus hauts pour répondre aux questions suivantes. Si vous 
 
 </details>
 
-Nous arrivons à l'avant-dernier article, concernant le [Game State, les vérifiations et un sujet mystère !](12_Divers.md) Quel est-il ? Découvrez-le dans le prochain article !
+Nous arrivons à l'avant-dernier article, concernant le [Game State, et un sujet mystère !](12_Divers.md) Quel est-il ? Découvrez-le dans le prochain article !
 

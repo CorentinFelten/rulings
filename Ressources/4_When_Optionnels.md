@@ -30,9 +30,9 @@ Joueur A contrôle *Main de Feu*. Joueur B active *Typhon d'Espace Mystique* pou
 
 Résolution de la Chaîne :
 
-<ins>Chain Link 2</ins> résoud : *Interruption de Raigeki* détruit *Main de Feu*
+<ins>Chain Link 2</ins> résout : *Interruption de Raigeki* détruit *Main de Feu*
 
-<ins>Chain Link 1</ins> résoud : *Typhon d'Espace Mystique* détruit sa cible
+<ins>Chain Link 1</ins> résout : *Typhon d'Espace Mystique* détruit sa cible
 
 L'effet de *Main de Feu* est un "lorsque" optionnel, et sa destruction n'est pas l'une des dernières actions à avoir lieu. Son effet ne peut donc pas être activé dans ce cas de figure.
 
@@ -47,9 +47,9 @@ Joueur A active *Gobelin Parvenu*, et Joueur B décide de chaîner *Appel de l'�
 
 Résolution de la Chaîne :
 
-<ins>Chain Link 2</ins> résoud : *Appel de l'Être Hanté* invoque *Dragon Blanc aux Yeux Bleus*
+<ins>Chain Link 2</ins> résout : *Appel de l'Être Hanté* invoque *Dragon Blanc aux Yeux Bleus*
 
-<ins>Chain Link 1</ins> résoud : Joueur A pioche sa carte
+<ins>Chain Link 1</ins> résout : Joueur A pioche sa carte
 
 *Trappe sans fond* utilise un "lorsque", activer une carte Magie / Piège est optionnel, et l'Invocation du monstre n'était pas "l'une des dernières actions à avoir lieu", donc elle ne peut pas être activée, tout comme l'exemple avec *Main de Feu*.
 
@@ -69,9 +69,9 @@ Supposons que Joueur B chaîne *Typhon d'Espace Mystique* à l'activation de *Vi
 
 Résolution de la Chaîne :
 
-<ins>Chain Link 2</ins> résoud : *Typhon d'Espace Mystique* détruit *Ville des Engrenages*
+<ins>Chain Link 2</ins> résout : *Typhon d'Espace Mystique* détruit *Ville des Engrenages*
 
-<ins>Chain Link 1</ins> résoud : *Ville des Engrenages* résoud sur le terrain (mais elle résoud sans effet puisqu'elle vient d'être détruite)
+<ins>Chain Link 1</ins> résout : *Ville des Engrenages* résout sur le terrain (mais elle résout sans effet puisqu'elle vient d'être détruite)
 
 Notons que *Ville des Engrenages* a été détruite, mais son effet sur le terrain tente tout de même de se résoudre en tant que Chain Link 1. Dans cette situation, le fait que *Ville des Engrenages* "tente de se résoudre" est la dernière chose qui a lieu, tandis que sa destruction ne l'est pas. C'est pourquoi l'effet déclencheur de *Ville des Engrenages* manque de s'activer.
 
@@ -84,15 +84,15 @@ Supposons que Joueur B chaîne *Brouilleur Magique*, pour annuler l'activation d
 
 Résolution de la Chaîne :
 
-<ins>Chain Link 2</ins> résoud : *Brouilleur Magique* annule l'activation de *Ville des Engrenages* et la détruit
+<ins>Chain Link 2</ins> résout : *Brouilleur Magique* annule l'activation de *Ville des Engrenages* et la détruit
 
-<ins>Chain Link 1</ins> résoud : (rien)
+<ins>Chain Link 1</ins> résout : (rien)
 
 Comme *Brouilleur Magique* annule l'activation, les effets de *Ville des Engrenages* sur le terrain n'essaient pas de résoudre du tout. C'est pourquoi il est possible de dire que la destruction de *Ville des Engrenages* était effectivement l'une des dernières choses à avoir lieu, donc son effet déclencheur peut s'activer normalement. 
 
 ## Effet optionnels "Lorsque" et SEGOC
 
-Cet article ainsi que l'article précédent se penchent sur les effets déclencheurs. Voyons comment cette mécanique intéragit avec le SEGOC.
+Cet article ainsi que l'article précédent se penchent sur les effets déclencheurs. Voyons comment cette mécanique interagit avec le SEGOC.
 
 Joueur A active *Trou Noir*, détruisant son *Bixi, Eau du Yang Zing*, ainsi que le *Soldat de Carte* du Joueur B. 
 - *Bixi, Eau du Yang Zing* :

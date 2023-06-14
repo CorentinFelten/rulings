@@ -4,7 +4,7 @@
 
 Cet article revient à un élément plus simple mais tout aussi fondamental du jeu : les Invocations.
 
-N'oubliez pas de jeter un oeil à l'article précédent sur les [conjonctions](5_Conjonctions.md) !
+N'oubliez pas de jeter un œil à l'article précédent sur les [conjonctions](5_Conjonctions.md) !
 
 ## Procédure complète d'Invocation Normale
 Afin d'effectuer une Invocation Normale ou une Invocation Sacrifice, il faut sélectionner un monstre à Invoquer, Sacrifier des monstre si nécessaire, sélectionner une Zone Monstre, et déclarer l'intention d'Invoquer ce monstre. 
@@ -90,7 +90,7 @@ Le point-virgule dans l'effet précise que cet effet démarre une Chaîne :
 
 De nouveau, cette Invocation Spéciale a lieu pendant que la Chain Link 1 est entrain de se résoudre, donc rien ne peut être activé pendant la Fenêtre d'Annulation d'Invocation.
 
-Il est toujours possible cependant d'annuler les activations de *Polymérisation* ou de *Prêtresse*. Les Invocations elles-mêmes ne peuvent simplement pas être annulées, du moment que l'effet résoud avec succès. Par exemple, il est toujours possible d'annuler l'effet de *Polymérisation* avec une carte comme *Annihilateur de Magie*, ou annuler l'Invocation Spéciale en chaînant une carte comme *Espace de Négation*.
+Il est toujours possible cependant d'annuler les activations de *Polymérisation* ou de *Prêtresse*. Les Invocations elles-mêmes ne peuvent simplement pas être annulées, du moment que l'effet résout avec succès. Par exemple, il est toujours possible d'annuler l'effet de *Polymérisation* avec une carte comme *Annihilateur de Magie*, ou annuler l'Invocation Spéciale en chaînant une carte comme *Espace de Négation*.
 
 Dans un article sur les mécaniques d'Invocation, il serait impensable de ne pas mentionner *Avertissement Divin* :
 - *Lorsqu'un ou plusieurs monstres vont être Invoqués, OU lorsqu'une Carte Magie/Piège ou un effet de monstre qui inclut un effet qui Invoque Spécialement un ou plusieurs monstres est activé : payez 2000 LP ; annulez l'Invocation ou l'activation, et si vous le faites, détruisez-les.*
@@ -104,7 +104,7 @@ Le texte souligné est ici pour préciser que l'Invocation Synchro a lieu **apr�
 
 <ins>Chain Link 1</ins> : *Bixi*
 
-<ins>Résolution de la Chaîne</ins> : L'effet de *Bixi* résoud, bien qu'il ne fasse rien immédiatement
+<ins>Résolution de la Chaîne</ins> : L'effet de *Bixi* résout, bien qu'il ne fasse rien immédiatement
 
 L'Invocation Synchro est effectuée à ce moment, après la résolution de la Chaîne.
 

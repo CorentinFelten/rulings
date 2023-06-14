@@ -23,7 +23,7 @@ Je peux penser à au moins cinq raisons pour justifier apprendre les rulings :
 
 
 ## Pour commencer
-Nous commencerons à apprendre différents rulings dans le post prochain. Pour le moment, il serait une bonne idée de jeter un oeil au dernier livret de règles officiel. Même si vous jouez depuis des années, il y a quelques points intéressants ici et là, et le lire vous mettra à jour pour le reste de cette série d'articles. 
+Nous commencerons à apprendre différents rulings dans le post prochain. Pour le moment, il serait une bonne idée de jeter un œil au dernier livret de règles officiel. Même si vous jouez depuis des années, il y a quelques points intéressants ici et là, et le lire vous mettra à jour pour le reste de cette série d'articles. 
 
 Les pages suivantes sont particulièrement importantes :
 - page **12-13** : Information sur les monstres Pendules et les invocations Pendule
@@ -57,7 +57,7 @@ Voici quelques questions rapides pour tester des points importants. Les réponse
 3. Quelles actions démarrent une Chaîne ?
    - Invocation Normale d'un Monstre
    - Invocation Pendule de 2 Monstres de la main
-   - Activataion d'une Magie Continue
+   - Activation d'une Magie Continue
    - Déclaration d'attaque
 
 

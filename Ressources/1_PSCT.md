@@ -60,7 +60,7 @@ Si une carte a une condition à l'activation ET la résolution, elle spécifiera
 ## Assemblage des règles
 Certains effets n'auront pas de conditions spécifiques pour activer leurs effets, ou même d'actions à effectuer à leur activation, donc ils n'auront pas besoin de deux-points ou point-virgules. Mais dans l'ensemble, un effet typique qui démarre une Chaîne aura la structure suivante :
 
-<span style="color: magenta;">Condition d'activation de l'effet</span> : <span style="color: orange;">action à effectuer à son activation</span> ; <span style="color: darkgreen;">actions à effectuer lors de la résolution de l'effet</span>
+<span style="color: magenta;">Condition d'activation de l'effet</span> : <span style="color: orange;">action à effectuer à son activation</span> ; <span style="color: green;">actions à effectuer lors de la résolution de l'effet</span>
 
 ## C'est l'heure du Quiz !
 Utilisez ce que l'ont vient d'apprendre pour répondre aux questions suivantes.
@@ -128,6 +128,6 @@ Utilisez ce que l'ont vient d'apprendre pour répondre aux questions suivantes.
 
 Ce n'est pas la dernière fois que nous parlerons de PSCT ! D'autres éléments viendront tout au long de cette série. Si vous souhaitez en lire plus sur le PSCT en général, vous pouvez consulter les [articles officiels Konami sur le sujet](https://yugiohblog.konami.com/articles/?tag=problem-solving-card-text).
 
-Enfin, avant d'appliquer les règles énoncées plus haut, veillez à vous assurer que la carte est bien écrite en PSCT ! Comme décrit au début, la grande majorité des cartes que vous encontrerez sont écrites en PSCT, mais si une carte est ancienne et n'a pas été réimprimée depuis longtemps, alors les règles énoncées ne s'appliqueront pas.
+Enfin, avant d'appliquer les règles énoncées plus haut, veillez à vous assurer que la carte est bien écrite en PSCT ! Comme décrit au début, la grande majorité des cartes que vous rencontrerez sont écrites en PSCT, mais si une carte est ancienne et n'a pas été réimprimée depuis longtemps, alors les règles énoncées ne s'appliqueront pas.
 
 Le prochain article concernera le [Ciblage](2_Ciblage.md).

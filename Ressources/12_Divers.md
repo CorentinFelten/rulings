@@ -3,7 +3,7 @@
 # Divers Rulings
 Dans cet article, nous passerons en revue différentes zones de règles : le Game State, et enfin, le sujet mystère...
 
-N'oubliez pas de jeter un oeil au dernier article, sur les [légalité d'activation](11_Legalite_Activation.md) !
+N'oubliez pas de jeter un œil au dernier article, sur les [légalité d'activation](11_Legalite_Activation.md) !
 
 ## Le Game State
 Le Game State correspond à l'emplacement de chaque carte connue par chaque joueur. Naturellement, le Game State évolue au fur et à mesure que les joueurs piochent des cartes et effectuent des actions. 
@@ -46,13 +46,13 @@ Quels types de modificateurs d'ATK existent ? Les types principaux sont les suiv
 
     <ins>Chain Link 1</ins> : *Boost d'Ego*
 
-    <ins>Résolution de la Chaîne</ins> : *Boost d'Ego* se résoud, augmentant l'ATK de la cible.
+    <ins>Résolution de la Chaîne</ins> : *Boost d'Ego* se résout, augmentant l'ATK de la cible.
 
     L'effet de *Boost d'Ego* persiste après que la Chaîne ait résolue. Même si le monstre devient inaffecté par les effets de cartes Magie / Piège après que *Boost d'Ego* ait résolu, il ne perdra PAS ses 1000 ATK, parce que *Boost d'Ego* a déjà été appliqué sur le monstre.
 
 Les effets persistants et continus appliquent des modificateurs de manière opposée, donc il est important de déterminer à quel type d'effet chaque carte correspond. 
 
-Pour les cartes Magie / Piège Continues avec des effets qui s'activent et modifient l'ATK, il est souvent possible de déterminer si une modificataion d'ATK persiste ou s'applique continuellement après que l'effet ait résolu. Par exemple, regardons *Formation Feu - Tensen* :
+Pour les cartes Magie / Piège Continues avec des effets qui s'activent et modifient l'ATK, il est souvent possible de déterminer si une modification d'ATK persiste ou s'applique continuellement après que l'effet ait résolu. Par exemple, regardons *Formation Feu - Tensen* :
 - *Lorsque cette carte est activée : ciblez 1 monstre de Type Bête-Guerrier que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 700 ATK. (Ce gain d'ATK reste même si cette carte quitte le Terrain.)*
 
 La clause entre parenthèses nous explique que cet effet persiste après s'être appliqué. 
@@ -92,7 +92,7 @@ Voyons ce point en action. Supposons que j'Invoque par Xyz *Excalibur* alors que
 
 *Excalibur* aura donc 1500 ATK après son Invocation Xyz. Mais si son effet s'active, son ATK deviendra 4000. Elle ne sera pas réduite à 3500. L'effet de gel brise la connexion de l'effet de *Tours* sur *Excalibur*, bien que l'effet de *Tours* continue à s'appliquer.
 
-Une fois que l'effet d'*Excalibur* arrête de s'appliquer (mais que *Tours* est toujours sur le terrain), son ATK se dégèle : il retombe à son ATK d'origine de 2000, puis l'effet continu de *Tours* recommence à s'appliquer, puisqu'il est continu. Les effets persistents ne se réappliqueraient pas : si *Boost d'Ego* avait été utilisé sur *Excalibur* pour lui donner 1000 ATK avant qu'*Excalibur* n'utilise son effet, *Excalibur* reviendrait à 2000 et non pas 3000.
+Une fois que l'effet d'*Excalibur* arrête de s'appliquer (mais que *Tours* est toujours sur le terrain), son ATK se dégèle : il retombe à son ATK d'origine de 2000, puis l'effet continu de *Tours* recommence à s'appliquer, puisqu'il est continu. Les effets persistants ne se réappliqueraient pas : si *Boost d'Ego* avait été utilisé sur *Excalibur* pour lui donner 1000 ATK avant qu'*Excalibur* n'utilise son effet, *Excalibur* reviendrait à 2000 et non pas 3000.
 
 Étrange, n'est-ce-pas ? C'est le fonctionnement général des effets de gel. 
 
@@ -150,7 +150,7 @@ Il existe bien plus de modificateurs compliqués et d'interactions, et très peu
     
  1. **L'activation était illégale, et les cartes révélées devront être placée dans le bon ordre au dessus du Deck.** 
    
-      *Les policies Konami expliquent que les cartes révélées accidentelement doivent être montrées aux deux joueurs et remises dans le Deck dans le bon ordre, sans le mélanger.*
+      *Les policies Konami expliquent que les cartes révélées accidentellement doivent être montrées aux deux joueurs et remises dans le Deck dans le bon ordre, sans le mélanger.*
       
  2. **L'activation était légale.** 
    

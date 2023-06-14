@@ -23,7 +23,7 @@ Il n'y a pas grand chose de spécifique à dire dans cette Step, à part qu'il s
 
 
 ## Battle Step
-Cette Step est atteinte même si aucune annaque ne sera déclarée. La Step est commencée dans un Game State ouvert, donc si le joueur du tour veut attaquer ou activer un effet, il peut (sinon, si son adversaire est d'accord, le jeu se déplace à la End Step). Donc, par exemple, *Juragedo* peut toujours être invoqué si le joueur du tour est entré en Battle Phase, même si le joueur ne contrôle pas de monstre : 
+Cette Step est atteinte même si aucune attaque ne sera déclarée. La Step est commencée dans un Game State ouvert, donc si le joueur du tour veut attaquer ou activer un effet, il peut (sinon, si son adversaire est d'accord, le jeu se déplace à la End Step). Donc, par exemple, *Juragedo* peut toujours être invoqué si le joueur du tour est entré en Battle Phase, même si le joueur ne contrôle pas de monstre : 
 - *Durant la Battle Step (Effet Rapide) : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, gagnez 1000 LP.*
 
 Une attaque est déclarée lorsqu'un joueur choisit un monstre attaquant, ainsi qu'une cible pour son attaque. Les deux joueurs peuvent répondre à cette attaque, en accord avec les règles de timing d'effets rapides. De la même manière que la réponse à une Invocation, la Chaîne complète est construite en réponse à l'attaque.
@@ -70,11 +70,11 @@ Traduction en français :
 
 *"Après avoir annoncé quel monstre attaque et quelle sera la cible de l'attaque durant une Battle Step, la cible de l'attaque peut être retirée du terrain, ou un nouveau monstre peut être placé sur le terrain de l'adversaire avant l'entrée en Damage Step, à cause d'un effet de carte. Cette action cause un “Replay”. Lorsque cette situation arrive, vous pouvez choisir d'attaquer de nouveau avec le même monstre, d'attaquer avec un autre monstre, ou ne pas attaquer du tout. A noter que si vous attaquez avec un autre monstre, le premier monstre sera considéré comme ayant déclaré une attaque, et il ne pourra plus attaquer ce tour."*
 
-Par exemple, supposons que j'attaque le *Magicien Sombre* de mon adversaire avec mon *Dragon Blanc aux Yeux Bleus*. Mon adversaire répond à l'attaque avec *Appel de l'Être Hanté*, pour réinvoquer *Apprenti Sorcier* :
+Par exemple, supposons que j'attaque le *Magicien Sombre* de mon adversaire avec mon *Dragon Blanc aux Yeux Bleus*. Mon adversaire répond à l'attaque avec *Appel de l'Être Hanté*, pour Invoquer de nouveau *Apprenti Sorcier* :
 - *Tant que cette carte reste face recto sur le Terrain, augmentez l'ATK de tous les monstres TÉNÈBRES de 500 points et diminuez l'ATK des monstres LUMIÈRE de 400 points.*
 
 Mes cibles d'attaques ont changées, donc je peux :
-1. Resélectionner ma cible d'attaque, en choisissant soit *Magicien sombre* soit *Apprenti Sorcier*
+1. Sélectionner de nouveau ma cible d'attaque, en choisissant soit *Magicien sombre* soit *Apprenti Sorcier*
 2. Annuler l'attaque
 
 A noter qu'avec le choix (1), je ne redéclare pas l'attaque en elle-même. Mon adversaire ne pourra pas activer *Force de Miroir* à ce stade.
@@ -84,7 +84,7 @@ Dans les deux cas, l'attaque a maintenant été déclarée. Même si je choisis 
 Les Replays n'ont lieu que quand le nombre de cibles potentielles change. Si mon adversaire active *Rétrécissement* (*Ciblez 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, son ATK d'origine sera divisée par deux.*) à la place d'*Appel de l'Être Hanté* en réponse à mon attaque, je ne pourrai pas annuler l'attaque de mon *Dragon Blanc*.
 
 ## Damage Step
-Nous arrivons enfin au coeur du combat. Elle peut sembler simple, mais dans les faits, cette Step comporte quelques unes des règles les plus bizarres et perturbantes du jeu. 
+Nous arrivons enfin au cœur du combat. Elle peut sembler simple, mais dans les faits, cette Step comporte quelques unes des règles les plus bizarres et perturbantes du jeu. 
 
 Cette Step est spécifiquement pour le combat en lui-même. Seuls certains effets peuvent être activés à cette étape. Le point important sur cette restriction, est que la carte a besoin d'avoir une raison spécifique de s'activer durant la Damage Step, autre qu'uniquement 'être un effet rapide'. Les types de cartes qui PEUVENT être activées sont les suivantes :
 - Cartes Contre Piège

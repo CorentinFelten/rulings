@@ -44,13 +44,13 @@ Une fois que les deux joueurs ont fini d'activer et appliquer leurs effets, le c
 Si l'un des monstres combattants a été détruit, ou du moins retiré du terrain, à un stade de la Damage Step avant ce point (par exemple à cause de *Construction Marionnette de l'Ombre El*), alors la Damage Step se terminerait avant d'atteindre ce stade. Un Replay n'aura pas lieu cependant, puisque les Replays ne peuvent avoir lieu que lors de la Battle Step.
 
 ## Après le calcul des dommages
-C'est à ce stade que l'on résoud les conséquences du combat.
+C'est à ce stade que l'on résout les conséquences du combat.
 
 Si un monstre a été détruit par le combat, il est dit comme 'marqué pour destruction' (plus d'informations sur ce point plus tard). 
 
 Le dommage de combat est infligé ici. Puis, les effets suivants s'activent, en Chaîne :
 
-- Les effets délenchés par du dégat de combat étant infligé, comme *Tragoedia* :
+- Les effets déclenchés par du dégât de combat étant infligé, comme *Tragoedia* :
   - *Lorsque vous recevez des dommages de combat : vous pouvez Invoquer Spécialement cette carte depuis votre main.*
 - Les effets qui s'activent après le calcul des dommages, comme *Dame Guerrière D.D.* :
   - *Après le calcul des dommages, lorsque cette carte combat un monstre de l'adversaire : vous pouvez bannir le monstre, et aussi, bannissez cette carte.*
@@ -73,7 +73,7 @@ Une autre conséquence du marquage implique que *Soldat Pingouin* ne pourra ni s
 Dans l'exemple donné plus tôt, supposons que *Dame Guerrière D.D.* a détruit *Soldat Pingouin* au combat. *Soldat Pingouin* est maintenant marqué pour destruction, donc il ne peut pas se cibler avec son propre effet. De plus, si *Dame Guerrière D.D.* active son effet, elle pourra bannir *Soldat Pingouin* malgré tout (ce qui est attendu de l'effet de *Dame Guerrière D.D.*, finalement).
 
 ## Fin de la Damage Step
-A ce stade, les monstres effectivements détruits par le combat (donc marqué pour destruction) sont envoyés au Cimetière (s'il sont encore sur le terrain). Les effets déclenchés par cette action s'activeraient maintenant, comme celui de *Sirènemure Abysslinde* :
+A ce stade, les monstres effectivement détruits par le combat (donc marqué pour destruction) sont envoyés au Cimetière (s'il sont encore sur le terrain). Les effets déclenchés par cette action s'activeraient maintenant, comme celui de *Sirènemure Abysslinde* :
 - *Si cette carte sur le Terrain est détruite et envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 monstre "Sirènemure" ("Sirènemure Abysslinde" exclu) depuis votre Deck.*
 
 Ou encore l'effet de *Confrérie du Poing de Feu - Gorille* :
@@ -97,7 +97,7 @@ Nous n'avons vu que quelques points complexes durant la Damage Step, mais nous n
 Comme dit plus tôt, la Damage Step est complexe. Si vous avez trouvé cet article complexe, c'est normal ! N'hésitez pas à revenir sur cet article plus tard, et relire ces informations avant de tenter le quiz. 
 
 ## C'est l'heure du Quiz !
-Le quiz de cet article s'appuira sur différents rulings et mécaniques étudiés lors des derniers articles, ainsi que ce que nous avons vu dans celui-ci. 
+Le quiz de cet article s'appuiera sur différents rulings et mécaniques étudiés lors des derniers articles, ainsi que ce que nous avons vu dans celui-ci. 
 
 1. Quels effets peuvent être utilisés lorsque *Gorz, l'Émissaire des Ténèbres* active son effet pour s'Invoquer Spécialement lors de la Damage Step ?
    - *Trappe sans Fond* :

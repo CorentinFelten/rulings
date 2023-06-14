@@ -176,7 +176,7 @@ Les effets des deux Lyla ne forment pas une Chaîne durant la End Phase : ils s'
       
       *CL2 : Mathématicien du **NJT***
 
-      *La Chaîne se résoud dans le sens inverse de sa construction.*
+      *La Chaîne se résout dans le sens inverse de sa construction.*
 
       
  2. **Peu importe l'ordre !** 

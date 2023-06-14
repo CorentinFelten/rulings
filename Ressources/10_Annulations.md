@@ -30,7 +30,7 @@ A noter que lorsque vous activez une carte Magie ou Piège, vous activez égalem
 
 ## Vous ne pouvez activer qu'1 par tour | Vous ne pouvez utiliser qu'une fois par tour
 
-Il existe une différence entre la clause de *Pot de Dualité* et celle de *Mirroir Nékroz* :
+Il existe une différence entre la clause de *Pot de Dualité* et celle de *Miroir Nékroz* :
 - *Vous ne pouvez activer qu'1 "Pot de Dualité" par tour.*
 - *Vous ne pouvez utiliser cet effet de "Miroir Nékroz" qu'une fois par tour.*
 
@@ -55,7 +55,7 @@ Vous pouvez activer cet effet sur le terrain, et sacrifier *Voiturcarte D*.
 
 <ins>Chain Link 1</ins> : *Voiturcarte D*, se Sacrifiant en coût.
 
-*Voiturcarte D* est maintenant dans le Cimetière, mais l'effet lui-même a été activé sur le terrain, et résoud donc sur le terrain. 
+*Voiturcarte D* est maintenant dans le Cimetière, mais l'effet lui-même a été activé sur le terrain, et résout donc sur le terrain. 
 
 De la même manière, l'effet des 'Hand Traps' comme *Ange de Loyauté* s'activent dans la main, et les effets de cartes qui se bannissent du Cimetière comme coût s'activent dans le Cimetière. Vous pouvez vous représenter ce phénomène comme l'effet qui 'sort' de la carte à l'activation de l'effet. Cet effet flotte ensuite là où il s'est activé, jusqu'à ce qu'il soit résolu.
 
@@ -72,7 +72,7 @@ Ces deux cartes annulent les effets différemment. Tout d'abord, on observe que 
 
 *Illusionniste d'Effet* annule les effets qui s'activent / résolvent sur le terrain. Cela veut dire que si vous utilisez *Illusionniste d'Effet* sur *Voiturcarte D*, et que *Voiturcarte D* est Sacrifié en coût pour son effet, cet effet sera annulé.
 
-*Absorption de Compétence* fonctionne différemment. Elle annule les effets de cartes qui sont face recto sur le terrain quand leurs effets résolvent. Cela veut dire que si *Absorption de Compétence* est face recto, *Voiturcarte D* peut s'activer et se sacrifier en coût, et puisqu'elle n'est plus face recto sur le terrain quand l'effet résoud, *Absorption de Compétence* n'annulera plus l'effet et *Voiturcarte D* résoudra normalement.
+*Absorption de Compétence* fonctionne différemment. Elle annule les effets de cartes qui sont face recto sur le terrain quand leurs effets résolvent. Cela veut dire que si *Absorption de Compétence* est face recto, *Voiturcarte D* peut s'activer et se sacrifier en coût, et puisqu'elle n'est plus face recto sur le terrain quand l'effet résout, *Absorption de Compétence* n'annulera plus l'effet et *Voiturcarte D* résoudra normalement.
 
 La plupart des effets, comme *Graal Interdit* et (les deux effets de) *Compétence de Percée*, annulent de la même manière que *Illusionniste d'Effet*. Les effets qui annulent comme *Absorption de Compétence* sont généralement des effets qui s'appliquent en continu. *Chaîne Démoniaque* et *Perdez 1 Tour* sont d'autres exemples notables de cartes qui annulent de la même manière que *Absorption de Compétence*.
 
@@ -144,7 +144,7 @@ Une fois que vous savez comment une carte annule des effets, vous pouvez jouer a
 
  4. **L'effet de *Back Jack* et le Sacrifice de *Juragedo*.**
  
-      *Ces effets s'activent dans le Cimetière et sur le terrain respectivement, même si les cartes arrivent ailleurs une fois leurs coûts payés. De la même manière, l'effet d'Invocation Spéciale de Juragedo s'active et résoud dans la main.*
+      *Ces effets s'activent dans le Cimetière et sur le terrain respectivement, même si les cartes arrivent ailleurs une fois leurs coûts payés. De la même manière, l'effet d'Invocation Spéciale de Juragedo s'active et résout dans la main.*
 
  5. **L'effet de *Pirmais* peut être activé et il bannira sa cible.**
  

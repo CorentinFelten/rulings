@@ -64,7 +64,7 @@ Lorsqu'un effet cible plusieurs cartes, il existe différents niveaux d'importan
 Ce point est le cas le plus libre. Par exemple, *Arsenal Zenmaioh Automate* :
 - *Une fois par tour : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 2 cartes Posées sur le Terrain ; détruisez-les.*
 
-L'effet n'utilise pas le mot 'cibles' après son point-virgule, donc comme dans un cas de cible unique, il n'accorde pas d'importance au fait que la moindre cible ne soit plus Posée lorsque l'effet résoud. Il ne fait également pas attention à s'il est incapable de détruire une des cibles : il essaiera tout de même de détruire l'autre cible. C'est donc le cas le plus flexible.
+L'effet n'utilise pas le mot 'cibles' après son point-virgule, donc comme dans un cas de cible unique, il n'accorde pas d'importance au fait que la moindre cible ne soit plus Posée lorsque l'effet résout. Il ne fait également pas attention à s'il est incapable de détruire une des cibles : il essaiera tout de même de détruire l'autre cible. C'est donc le cas le plus flexible.
 
 **Si l'effet spécifie 'les cibles' après le point-virgule, il vérifie les conditions de ciblages pour chaque cible individuellement en résolution.**
 
@@ -94,7 +94,7 @@ Puisque l'effet précise 'tous les 5', si un *Corbeau D.D.* est chaîné pour ba
 
       *Chaque joueur choisit 1 monstre qu'il contrôle et échange son contrôle avec celui choisi par l'adversaire. Le reste de ce tour, ces monstres ne peuvent pas changer de position de combat.*
 
-2. Vrai ou Faux : Si l'effet de *Calcab, Malebranche des Abysses Ardents* cible un *Appel de l'Être Hanté* Posé, et que *Appel de l'Être Hanté* est Chaîné à l'effet de *Calcab*, *Appel de l'Être Hanté* est quand même retourné à la main quand l'effet de *Calcab* résoud.
+2. Vrai ou Faux : Si l'effet de *Calcab, Malebranche des Abysses Ardents* cible un *Appel de l'Être Hanté* Posé, et que *Appel de l'Être Hanté* est Chaîné à l'effet de *Calcab*, *Appel de l'Être Hanté* est quand même retourné à la main quand l'effet de *Calcab* résout.
 
     *Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 Carte Magie/Piège Posée sur le Terrain ; renvoyez la cible à la main.*
 
@@ -102,12 +102,12 @@ Puisque l'effet précise 'tous les 5', si un *Corbeau D.D.* est chaîné pour ba
     
     *Vous pouvez détacher 2 Matériels de cette carte, puis ciblez 1 autre carte face recto sur le Terrain ; mélangez-la dans le Deck.*
 
-4. Joueur A active l'effet de *Général Enfernité*, et Joueur B Chaîne en défaussant *Corbeau D.D.* pour son effet, afin de banir une des cibles de *Général Enfernité*. Que se passe-t-il ?
+4. Joueur A active l'effet de *Général Enfernité*, et Joueur B Chaîne en défaussant *Corbeau D.D.* pour son effet, afin de bannir une des cibles de *Général Enfernité*. Que se passe-t-il ?
     
     *Si vous n'avez aucune carte dans votre main : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 2 monstres "Enfernité" de max. Niveau 3 dans votre Cimetière ; Invoquez-les Spécialement depuis le Cimetière, mais leurs effets sont annulés.*
 
    - Les deux cibles sont Invoquées Spécialement
-   - Seule la cible non-banie est Invoquée Spécialement
+   - Seule la cible non-bannie est Invoquée Spécialement
    - Aucune des cibles n'est Invoquée Spécialement
 
 

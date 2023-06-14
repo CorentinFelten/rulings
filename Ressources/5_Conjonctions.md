@@ -77,7 +77,7 @@ Les conjonctions nous expliquent également la quantité à résoudre d'un effet
 - *et aussi*
 - *aussi, après cela*
 
-B n'est jamais requis pour A : si B n'est pas réalisable à la résolution de l'effet, A sera tout de même résolue (on dit qu'on résoud l'effet autant que possible).
+B n'est jamais requis pour A : si B n'est pas réalisable à la résolution de l'effet, A sera tout de même résolue (on dit qu'on résout l'effet autant que possible).
 
 Supposons que je déclare une attaque. Mon adversaire active l'effet de *Nékroz de Valkyrus* pour annuler mon attaque, mais je chaîne *Le Livre de la Lune* pour passer mon monstre face verso.
 - *Nékroz de Valkyrus* :
@@ -102,12 +102,12 @@ Par exemple, *Numéro 53 : Heart-eartH* utilise la conjonction *et* :
 Dans cet effet, la partie A est l'Invocation Spéciale de *Numéro 92*, et la partie B est attacher *Numéro 53* en tant que Matériel Xyz. Si *Corbeau D.D.* bannit *Numéro 53* du Cimetière, l'effet n'Invoquera pas *Numéro 92*. Aussi, l'Invocation Spéciale et le fait d'attacher sont simultanés en terme de timing, donc si cette action a lieu en Chain Link 1, *Hommage Torrentiel* peut être activé en réponse à l'Invocation.
 
 ## Divers
-Comment retenir toutes ces conjonctions ? La façon dont elles sont écrites est d'une aide précieuse : *et si vous le faites* et *puis* suggèrent que B est dépendant de la bonne résolution de A, *puis* et *après cela* suggèrent que les deux parties de l'effet ne sont pas simultanées, etc. Avec de l'entrainement, ces conjonctions ne sont pas compliquées à retenir, et vous pourrez toujours les revérifier en cas d'oubli.
+Comment retenir toutes ces conjonctions ? La façon dont elles sont écrites est d'une aide précieuse : *et si vous le faites* et *puis* suggèrent que B est dépendant de la bonne résolution de A, *puis* et *après cela* suggèrent que les deux parties de l'effet ne sont pas simultanées, etc. Avec de l'entraînement, ces conjonctions ne sont pas compliquées à retenir, et vous pourrez toujours les revérifier en cas d'oubli.
 
 Quelques points importants :
 
-1. Les conjonctions sont une des dernières additions au PSCT. Il existe donc quelques cartes écrites en PSCT qui utilisent *et* alros qu'elle veulent dire *et si vous le faites*, parce que ces cartes ont été rédigées avant que les conjonctions soient introduites, et elles n'ont pas encore été réimprimées. La conjonction *et* est très rare, donc si vous la croisez, n'hésitez pas à vérifier si la carte veut bien dire *et* ou si elle veut en réalité dire *et si vous le faites*.
-2. Les conjonctions ne mentionnent rien concernant la légalité d'activation ! Elles n'expliquent que comment résoudre l'effet. Par exemple, il n'est pas légal d'activer *Le Livre de la Vie* sous *Mur de Fer Impérial*, bien qu'il ne soit pas nécessaire de bannir un monstre pour pouvoir réinvoquer la première cible. 
+1. Les conjonctions sont une des dernières additions au PSCT. Il existe donc quelques cartes écrites en PSCT qui utilisent *et* alors qu'elle veulent dire *et si vous le faites*, parce que ces cartes ont été rédigées avant que les conjonctions soient introduites, et elles n'ont pas encore été réimprimées. La conjonction *et* est très rare, donc si vous la croisez, n'hésitez pas à vérifier si la carte veut bien dire *et* ou si elle veut en réalité dire *et si vous le faites*.
+2. Les conjonctions ne mentionnent rien concernant la légalité d'activation ! Elles n'expliquent que comment résoudre l'effet. Par exemple, il n'est pas légal d'activer *Le Livre de la Vie* sous *Mur de Fer Impérial*, bien qu'il ne soit pas nécessaire de bannir un monstre pour pouvoir Invoquer de nouveau la première cible. 
 
 Nous reviendrons sur la légalité d'activation dans un article futur.
 

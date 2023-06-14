@@ -16,7 +16,7 @@ Par exemple, supposons que je veux activer *Trou Noir*, et ensuite chaîner *Che
 
 Actuellement, ma carte est la dernière dans la Chaîne, donc mon adversaire a le droit d'activer quelque chose avant que je puisse chaîner mon *Chemin* (s'il le fait, je ne pourrais pas activer *Chemin* puisqu'il doit être chaîné directement à l'effet qu'il essaie d'annuler).
 
-Pour la règle suivante, il vous faudra revenir à l'une des règles du SEGOC : *Si un effet déclencheur tente de s'activer, il est mis sur une Chaîne en accord avec les règles du SEGOC, et seulement après les effets rapident pourront être chaînés*. Après que tous les effets déclencheurs vont sur la Chaîne, l'adversaire du joueur dont le dernier effet est entré sur la Chaîne a le droit d'agir ou passer, comme vu plus haut.
+Pour la règle suivante, il vous faudra revenir à l'une des règles du SEGOC : *Si un effet déclencheur tente de s'activer, il est mis sur une Chaîne en accord avec les règles du SEGOC, et seulement après les effets rapides pourront être chaînés*. Après que tous les effets déclencheurs vont sur la Chaîne, l'adversaire du joueur dont le dernier effet est entré sur la Chaîne a le droit d'agir ou passer, comme vu plus haut.
 
 ## Le Graphe
 Il existe bien plus de cas dans lesquels on pourrait se demander quel joueur a le droit d'activer des effets rapides, et ce sans même penser aux effets non-rapides. Heureusement, Konami a créé un graphe excellent pour nous expliquer précisément quel joueur a le droit d'agir, et ce à n'importe quel moment !
