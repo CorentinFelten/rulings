@@ -213,5 +213,5 @@ Utilisez les rulings plus hauts pour répondre aux questions suivantes. Si vous 
 
 </details>
 
-Nous arrivons à l'avant-dernier article, concernant le [Game State, les vérifiations et un sujet mystère !](12_Game_State.md) Quel est-il ? Découvrez-le dans le prochain article !
+Nous arrivons à l'avant-dernier article, concernant le [Game State, les vérifiations et un sujet mystère !](12_Divers.md) Quel est-il ? Découvrez-le dans le prochain article !
 
