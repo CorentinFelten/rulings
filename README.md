@@ -19,3 +19,23 @@ Il est vivement conseillé de lire ces articles dans l'ordre, puisque certains s
 - [11 - Légalité d'Activation](Ressources/11_Legalite_Activation.md)
 - [12 - Game State et Vérifications](Ressources/12_Divers.md)
 - [13 - Mécaniques Avancées](Ressources/13_Mecaniques_Avancees.md)
+
+## Ressources complémentaires :
+- [Ruling - Livret de Règles](https://www.yugioh-card.com/en/downloads/rulebook/SD_RuleBook_EN_10.pdf)
+- [RC1 - Rulings Comprehension 1](https://yugiohblog.konami.com/judgetest/agegate.php?l=&test=rulings)
+
+<br>
+
+- [Policies - Livret de Policies](https://www.yugioh-card.com/en/downloads/penalty_guide/YGOTCG_Policy_v_2_1.pdf)
+- [Policies - Addendum aux Policies pour le Speed Duel](https://www.yugioh-card.com/en/downloads/penalty_guide/Speed_Duel_Addendum-Official_KDE-US_YGO_TCG_Policy.pdf)
+- [Policies - Infractions et Pénalités](https://www.yugioh-card.com/en/downloads/penalty_guide/Penalty_Guidelines_v_2_1.pdf)
+- [PC1 - Policies Comprehension 1](https://yugiohblog.konami.com/judgetest/agegate.php?l=&test=policy)
+
+## RC2
+Le RC2, ou *Ruling Comprehension 2*, est actuellement le plus haut niveau de test fourni par Konami afin de valider des compétences en compréhension de règles et mécaniques de jeu dans Yu-Gi-Oh!. Ce test n'est possible à suivre qu'en personne, à des tournois comme les YCS, WCQs et UDS. Ce test est conçu pour évaluer des connaissances avancées en mécaniques de jeu, et comment les cartes interagissent les unes avec les autres basé sur le Problem Solving Card Text (PSCT). Ce test requiert une très bonne connaissance en mécaniques de jeu, et une bonne compréhension et interprétation du PSCT. 
+
+- Seuls des Judges déjà enregistrés auprès de Konami peuvent tenter de passer le test en personne. Le RC1 est donc nécessaire pour tenter de passer le RC2, et il faut être inscrit sur le Konami Judge Program.
+- Un CARD GAME ID (anciennement Cossy ID) est nécessaire pour passer le test.
+- Un score de 80% ou plus est requis afin de valider le RC2.
+- Il est fortement déconseillé de discuter des questions et réponses du RC2 avec d'autres personnes, test réussi ou non.
+- Le test est généralement fini entre 20 et 45 minutes. Le Représentant Konami vous donnera la note de votre RC2 sur place, et vous informera de votre réussite ou non.
