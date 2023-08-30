@@ -32,9 +32,9 @@ Il est vivement conseillé de lire ces articles dans l'ordre, puisque certains s
 - [PC1 - Policies Comprehension 1](https://yugiohblog.konami.com/judgetest/agegate.php?l=&test=policy)
 
 ## RC2
-Le RC2, ou *Rulings Comprehension 2*, est actuellement le plus haut niveau de test fourni par Konami afin de valider des compétences en compréhension de règles et mécaniques de jeu dans Yu-Gi-Oh!. Ce test n'est possible à suivre qu'en personne, à des tournois comme les YCS, WCQs et UDS. Ce test est conçu pour évaluer des connaissances avancées en mécaniques de jeu, et comment les cartes interagissent les unes avec les autres basé sur le Problem Solving Card Text (PSCT). Ce test requiert une très bonne connaissance en mécaniques de jeu, et une bonne compréhension et interprétation du PSCT. 
+Le RC2, ou *Rulings Comprehension 2*, est actuellement le plus haut niveau de test fourni par Konami afin de valider des compétences en compréhension de règles et mécaniques de jeu dans Yu-Gi-Oh!. Ce test n'est possible à passer qu'en personne, à des tournois comme les YCS, WCQs et UDS. Ce test est conçu pour évaluer des connaissances avancées en mécaniques de jeu, ainsi que les interaction basées sur le Problem Solving Card Text (PSCT). Ce test requiert une très bonne connaissance en mécaniques de jeu, et une bonne compréhension et interprétation du PSCT. 
 
-- Seuls des Judges déjà enregistrés auprès de Konami peuvent tenter de passer le test en personne. Le RC1 est donc nécessaire pour tenter de passer le RC2, et il faut être inscrit sur le Konami Judge Program.
+- Seuls les Judges déjà enregistrés auprès de Konami peuvent tenter de passer le test en personne. Le RC1 est donc nécessaire pour tenter de passer le RC2, et il faut être inscrit sur le Konami Judge Program.
 - Un CARD GAME ID (anciennement Cossy ID) est nécessaire pour passer le test.
 - Un score de 80% ou plus est requis afin de valider le RC2.
 - Il est fortement déconseillé de discuter des questions et réponses du RC2 avec d'autres personnes, test réussi ou non.
