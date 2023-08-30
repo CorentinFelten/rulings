@@ -23,7 +23,7 @@ Voyons un exemple. Supposons que *Tireur de l'Atlantide* et *Sirènemure Abyssgu
 
     *Vous pouvez défausser 2 autres monstres EAU au Cimetière ; Invoquez Spécialement cette carte depuis votre main. Lorsqu'elle est Invoquée de cette façon : vous pouvez ajouter 1 Magie/Piège "-Abysses" depuis votre Deck à votre main. Vous pouvez Sacrifier 1 autre monstre EAU en Position d'Attaque ; durant chaque Battle Phase ce tour, cette carte peut faire une seconde attaque.*
 
-<ins>Chain Link 1</ins> : L'effet de *Megalo* pour s'invoquer, défaussant *Tireur de l'Atlantide* et *Gunde*. A noter que l'effet de *Megalo* démarre effectivement une chaîne, puisque son effet possède un point-virgule.
+<ins>Chain Link 1</ins> : L'effet de *Megalo* pour s'Invoquer, défaussant *Tireur de l'Atlantide* et *Gunde*. A noter que l'effet de *Megalo* démarre effectivement une chaîne, puisque son effet possède un point-virgule.
 
 Les effets de *Tireur* et de *Gunde* ne s'activent pas encore, bien qu'ils aient techniquement rempli leurs conditions d'activation. Ils attendent que la Chaîne en cours soit résolue avant de s'activer.
 
@@ -127,7 +127,7 @@ Les effets des deux Lyla ne forment pas une Chaîne durant la End Phase : ils s'
 
     Quel joueur **pioche** en premier ?
 
-2. Joueur A active *Changement de Masque* sur *Zéro Absolu, HÉROS Élémentaire*, afin d'invoquer spécialement *Acid, HÉROS Masqué*.
+2. Joueur A active *Changement de Masque* sur *Zéro Absolu, HÉROS Élémentaire*, afin d'Invoquer Spécialement *Acid, HÉROS Masqué*.
    - *Changement de Masque* :
        
        *Ciblez 1 monstre "HÉROS" que vous contrôlez ; envoyez-le au Cimetière, et aussi, après ça, s'il a quitté le Terrain par cet effet, Invoquez Spécialement 1 monstre "HÉROS Masqué" du même Attribut que le monstre envoyé avait lorsqu'il était sur le Terrain (son Attribut d'origine, si face verso) depuis votre Extra Deck.*
@@ -193,7 +193,7 @@ Les effets des deux Lyla ne forment pas une Chaîne durant la End Phase : ils s'
 
  5. **Ce n'est pas possible.** 
  
-      *L'effet déclencheur de Kagetokage implique une invocation spéciale de la main, donc il n'est possible d'en activer qu'un seul.*
+      *L'effet déclencheur de Kagetokage implique une Invocation Spéciale de la main, donc il n'est possible d'en activer qu'un seul.*
 </details>
 
-Le prochain article portera sur les [effets optionnels 'Lorsque'](4_When_Optionnels.md).
+Le prochain article portera sur les [effets optionnels "Lorsque"](4_When_Optionnels.md).

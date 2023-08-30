@@ -29,7 +29,7 @@ Donc si l'Invocation d'un Monstre Pendule est annulée, alors il ne sera pas env
 Une fois la Fenêtre d'Annulation d'Invocation passée, l'Invocation est réussie, et les joueurs peuvent répondre à l'Invocation avec des cartes comme *Hommage Torrentiel* :
 - *Lorsqu'un ou plusieurs monstres sont Invoqués : détruisez tous les monstres sur le Terrain.*
 
-Contrairement à ce qui a été vu plus tôt, cette Chaîne entière est en réponse à l'Invocation, et non pas seulement la première carte, donc plusieurs effets peuvent être activés en réponse à l'invocation. Cependant, il s'agit de la seule Chaîne en réponse à cette Invocation.
+Contrairement à ce qui a été vu plus tôt, cette Chaîne entière est en réponse à l'Invocation, et non pas seulement la première carte, donc plusieurs effets peuvent être activés en réponse à l'Invocation. Cependant, il s'agit de la seule Chaîne en réponse à cette Invocation.
 
 Voilà pourquoi cet exemple est correct :
 
@@ -48,11 +48,11 @@ Puis dans une nouvelle Chaîne :
 <ins>Chain Link 1</ins> : *Trappe Sans Fond*
 
 ## Résumé 
-1. Le joueur sélectionne un monstre, effectue les Sacrifices nécessaires, et déclare son intention d'invoquer le monstre. Celui-ci n'est pas sur le terrain tant que la Fenêtre d'Annulation d'Invocation n'est pas passée.
+1. Le joueur sélectionne un monstre, effectue les Sacrifices nécessaires, et déclare son intention d'Invoquer le monstre. Celui-ci n'est pas sur le terrain tant que la Fenêtre d'Annulation d'Invocation n'est pas passée.
 2. Si la Fenêtre est passée, et que l'Invocation a lieu avec succès, le monstre touche le terrain et les joueurs peuvent répondre à l'Invocation 
 
 ## Invocation et Timing
-Comme vous pouvez le voir, invoquer est un processus assez long. Une fois de plus, rappelez vous de la règle des effets optionnels "lorsque" : *Un effet optionnel "lorsque" ne peut être activé que quand sa condition d'activation est "l'une des dernières actions à avoir lieu"*.
+Comme vous pouvez le voir, Invoquer est un processus assez long. Une fois de plus, rappelez vous de la règle des effets optionnels "lorsque" : *Un effet optionnel "lorsque" ne peut être activé que quand sa condition d'activation est "l'une des dernières actions à avoir lieu"*.
 
 C'est pourquoi quand certains monstres comme *Dragon Pulsar de Lumière* sont Sacrifiés pour une Invocation Sacrifice, le fait qu'ils soient envoyés du terrain au Cimetière n'est pas l'une des dernières actions à avoir lieu, donc leur effet ne peuvent pas être activés :
 - *Lorsque cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez cibler 1 monstre TÉNÈBRES Dragon de min. Niveau 5 dans votre Cimetière ; Invoquez Spécialement la cible.*
@@ -95,7 +95,7 @@ Il est toujours possible cependant d'annuler les activations de *Polymérisation
 Dans un article sur les mécaniques d'Invocation, il serait impensable de ne pas mentionner *Avertissement Divin* :
 - *Lorsqu'un ou plusieurs monstres vont être Invoqués, OU lorsqu'une Carte Magie/Piège ou un effet de monstre qui inclut un effet qui Invoque Spécialement un ou plusieurs monstres est activé : payez 2000 LP ; annulez l'Invocation ou l'activation, et si vous le faites, détruisez-les.*
 
-La première partie du texte annule les Invocations, tout comme *Corne Céleste Ténébreuse*. Cependant, la seconde partie du texte explique que la carte peut annuler l'activation de Cartes Magie, Piège, et des effets de Monstres. Ce point veut dire que la carte peut être chaînée à *Polymérisation* et à l'effet de *Prêtresse* plus haut, non pas pour annuler les invocations mais les cartes elles-mêmes, puisque leurs activations impliquent une Invocation Spéciale.
+La première partie du texte annule les Invocations, tout comme *Corne Céleste Ténébreuse*. Cependant, la seconde partie du texte explique que la carte peut annuler l'activation de Cartes Magie, Piège, et des effets de Monstres. Ce point veut dire que la carte peut être chaînée à *Polymérisation* et à l'effet de *Prêtresse* plus haut, non pas pour annuler les Invocations mais les cartes elles-mêmes, puisque leurs activations impliquent une Invocation Spéciale.
 
 Le dernier exemple de cet article se basera sur *Bixi, Eau du Yang Zing* :
 - *Une fois par tour, durant la Main Phase ou Battle Phase de votre adversaire, vous pouvez : <ins>immédiatement après la résolution de cet effet</ins>, Invoquez par Synchronisation 1 Monstre Synchro, en utilisant uniquement des monstres "Yang Zing" que vous contrôlez (ceci est un Effet Rapide).*
@@ -131,13 +131,13 @@ Est-ce qu'une Chaîne est actuellement en cours de résolution ? Ici, ce n'est p
 
         *Lorsqu'un ou plusieurs monstres vont être Invoqués, OU lorsqu'une Carte Magie/Piège ou un effet de monstre qui inclut un effet qui Invoque Spécialement un ou plusieurs monstres est activé : payez 2000 LP ; annulez l'Invocation ou l'activation, et si vous le faites, détruisez-les.*
 
-3. Que se passerait-il si Joueur A tentait d'invoquer par Invocation Xyz *Dante, Voyageur des Abysses Ardents* à la place ?
+3. Que se passerait-il si Joueur A tentait d'Invoquer par Invocation Xyz *Dante, Voyageur des Abysses Ardents* à la place ?
 
    - *Dante, Voyageur des Abysses Ardents* : 
 
         *Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 carte "Abysses Ardents" (cette carte exclue) dans votre Cimetière ; ajoutez-la à votre main.*
 
-4. Joueur A active *Voleur d'Esprit* sur *Bixi, Eau du Yang Zing*, mais Joueur B chaîne en utilisant les effets de *Bixi*, l'utilisant avec d'autres monstres afin d'invoquer par Invocation Synchro *Dragon Rose Noire*. Joueur A peut-il annuler l'Invocation Synchro de *Dragon Rose Noire* ?
+4. Joueur A active *Voleur d'Esprit* sur *Bixi, Eau du Yang Zing*, mais Joueur B chaîne en utilisant les effets de *Bixi*, l'utilisant avec d'autres monstres afin d'Invoquer par Invocation Synchro *Dragon Rose Noire*. Joueur A peut-il annuler l'Invocation Synchro de *Dragon Rose Noire* ?
 
    - *Bixi, Eau du Yang Zing* :
 
@@ -174,7 +174,7 @@ Est-ce qu'une Chaîne est actuellement en cours de résolution ? Ici, ce n'est p
 
  5. **Non.**
  
-      *Puisque l'Invocation Synchro de Rose Noire n'est pas l'une des dernières actions à avoir lieu (Voleur d'Esprit essaie toujours de résoudre après l'invocation de Rose Noire), son effet ne peut pas être activé.*
+      *Puisque l'Invocation Synchro de Rose Noire n'est pas l'une des dernières actions à avoir lieu (Voleur d'Esprit essaie toujours de résoudre après l'Invocation de Rose Noire), son effet ne peut pas être activé.*
 </details>
 
 Le prochain article portera sur le [Timing d'effet rapide](7_Timing_Effet_Rapide.md).

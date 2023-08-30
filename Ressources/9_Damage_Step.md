@@ -56,7 +56,7 @@ Le dommage de combat est infligé ici. Puis, les effets suivants s'activent, en 
   - *Après le calcul des dommages, lorsque cette carte combat un monstre de l'adversaire : vous pouvez bannir le monstre, et aussi, bannissez cette carte.*
 - Les effets déclenchés par un monstre étant retourné face recto, comme celui de *Soldat Pingouin*.
 
-A préciser que certaines cartes comme *Trappe Sans Fond* ne pourront pas être activées lors de la Damage Step, donc ne pourront pas être utilisées en réponse à l'invocation de *Tragoedia*.
+A préciser que certaines cartes comme *Trappe Sans Fond* ne pourront pas être activées lors de la Damage Step, donc ne pourront pas être utilisées en réponse à l'Invocation de *Tragoedia*.
 
 Revenons sur *Dame Guerrière D.D.* attaquant mon *Soldat Pingouin* : leurs effets, si activés, formeraient une Chaîne, répondant aux [règles du SEGOC](3_Effets_Declencheurs.md) :
 
@@ -155,7 +155,7 @@ Ce quiz est plus compliqué que les précédent. Souvenez-vous que le nombre de 
  
  3. **Seul mon *Abysspike* s'activera, dans une nouvelle Chaîne.** 
       
-      *Résolvons la Chaîne de la question (2) : l'Invocation Spéciale du Abysspike de mon adversaire n'est pas l'une des dernières actions à avoir lieu, alors que l'Invocation Spéciale du mien l'est, donc seul le mien peut s'activer (puisque Abysspike est un [effet optionnel 'lorsque'](4_When_Optionnels.md)).*
+      *Résolvons la Chaîne de la question (2) : l'Invocation Spéciale du Abysspike de mon adversaire n'est pas l'une des dernières actions à avoir lieu, alors que l'Invocation Spéciale du mien l'est, donc seul le mien peut s'activer (puisque Abysspike est un [effet optionnel "lorsque"](4_When_Optionnels.md)).*
 
  4. **Chain Link 1 : *Kalidor* | Chain Link 2 : *Taupe Géante Néo-Spacien***
  

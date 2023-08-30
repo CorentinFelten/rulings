@@ -4,7 +4,7 @@
 Vos cartes vous en expliquent plus sur leur fonctionnement que ce que l'on pourrait croire. Les cartes sorties, ou réimprimées, après 2011, soit une grande majorité des cartes utilisées aujourd'hui, ont été écrites en *Problem Solving Card Text* (PSCT, ou Texte de Carte pour de la Résolution de Problèmes). Cela veut dire qu'avec un peu de connaissances, il est possible de connaître beaucoup d'informations supplémentaires sur le fonctionnement d'un effet de carte, et ce uniquement depuis son texte. 
 
 ## PSCT et Chaînes
-A travers le PSCT, il est possible de dire si un effet démarre une Chaîne ou non. En plus de l'importance évidente des Chaînes dans Yu-Gi-Oh!, certaines cartes mentionnent des effets activés, comme *Majesty's Fiend* et *Shadow-Imprisoning Mirror*, donc il est important de savoir quels effets s'activent et lesquels ne s'activent pas.
+A travers le PSCT, il est possible de dire si un effet démarre une Chaîne ou non. En plus de l'importance évidente des Chaînes dans Yu-Gi-Oh!, certaines cartes mentionnent des effets activés, comme *Démon de la Majesté* et *Miroir Absorbant des Ténèbres*, donc il est important de savoir quels effets s'activent et lesquels ne s'activent pas.
 
 **Un effet démarre une Chaîne si, et seulement si, il a un deux-points *( : )* ou un point-virgule *( ; ).***
 
@@ -15,7 +15,7 @@ Par exemple, prenez *Graff, Malebranche des Abysses Ardents* :
   - *Si vous ne contrôlez aucune Carte Magie/Piège : vous pouvez Invoquer Spécialement cette carte depuis votre main.*
   - *Si cette carte est envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 monstre "Abysses Ardents" ("Graff, Malebranche des Abysses Ardents" exclu) depuis votre Deck.*
 
-Quel effet de *Graff* démarre une Chaîne ? On peut voir que son effet d'Invoquer Spécialement depuis le deck démarre une Chaîne, puisqu'il a un deux-points dedans. On peut également voir que l'effet de s'Invoquer Spécialement depuis la main démarre ue Chaîne. Cependant, son effet de se détruire si le joueur ne contrôle pas de monstre "Abysses Ardents" ne démarre PAS de Chaîne, puisqu'il n'a ni deux-points ni point-virgule. 
+Quel effet de *Graff* démarre une Chaîne ? On peut voir que son effet d'Invoquer Spécialement depuis le deck démarre une Chaîne, puisqu'il a un deux-points dedans. On peut également voir que l'effet de s'Invoquer Spécialement depuis la main démarre une Chaîne. Cependant, son effet de se détruire si le joueur ne contrôle pas de monstre "Abysses Ardents" ne démarre PAS de Chaîne, puisqu'il n'a ni deux-points ni point-virgule. 
 
 Un autre exemple est *Perdez 1 Tour* :
 
@@ -23,9 +23,9 @@ Un autre exemple est *Perdez 1 Tour* :
 
 L'effet de changer un monstre en Position de Défense démarre une Chaîne, parce qu'il a un deux-points. Cependant, son effet d'annuler les effets de monstres n'en démarre pas, parce qu'il n'a ni deux-points ni point-virgule. 
 
-Une Invocation Normale, attaque, pose d'un Monstre / Magie / Piège etc... ne démarrent PAS de Chaîne : ces points sont mentionnés dans le livret de règles page 47. Seules des activations de cartes et effets démarrent des Chaînes. Activer des Cartes Magies et Pièges démarrent toujours une Chaîne, peu importe la présence ou non de deux-points et point-virgule, et ceux apparaissant dans le texte sont présent simplement pour structurer l'effet. 
+Une Invocation Normale, attaque, pose d'un Monstre / Magie / Piège etc... ne démarrent PAS de Chaîne : ces points sont mentionnés dans le livret de règles page **47**. Seules des activations de cartes et effets démarrent des Chaînes. Activer des Cartes Magies et Pièges démarrent toujours une Chaîne, peu importe la présence ou non de deux-points et point-virgule, et ceux apparaissant dans le texte sont présent simplement pour structurer l'effet. 
 
-Toutes les phrases dans le texte d'une carte sans deux-points ou point-virgule ne sont pas des effets continus : certaines sont des conditions. Le PSCT n'est pas encore capable de les différentier pour nous, donc elles sont à interpréter au cas-par-cas. Par exemple, la première phrase de l'effet de *Denko Sekka* est une condition, tandis que la seconde est clairement un effet continu :
+Toutes les phrases dans le texte d'une carte sans deux-points ou point-virgule ne correspondent pas des effets continus : certaines sont des conditions. Le PSCT n'est pas encore capable de les différentier pour nous, donc elles sont à interpréter au cas-par-cas. Par exemple, la première phrase de l'effet de *Denko Sekka* est une condition, tandis que la seconde est clairement un effet continu :
 
 - *Non Invocable Spécialement. Tant que vous ne contrôlez aucune Magie/Piège Posé, aucun joueur ne peut ni Poser de Magies/Pièges ni activer de Cartes Magie/Piège qui sont Posées sur le Terrain.*
 
@@ -52,25 +52,25 @@ A quoi sert la virgule ? Ce point est un petit peu plus technique.
 L'effet de *Chevalier Exciton Colonie du Mal* illustre bien ce point : 
 - *Une fois par Chaîne, durant votre Main Phase ou la Battle Phase de votre adversaire, si votre adversaire a plus de cartes en tout dans sa main et sur son Terrain que vous (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; détruisez toutes les autres cartes sur le Terrain, et aussi, votre adversaire ne reçoit pas de dommages complémentaires ce tour.*
 
-La partie "si votre adversaire a plus de cartes" est avant la virgule, donc il s'agit d'une condition d'activation. Elle explicite que l'adversaire doit avoir plus de cartes afin que l'effet soit activable. Donc même si l'adversaire Chaîne des cartes pour en avoir moins sur leur terrain à la résolution, l'effet d'*Exciton* aura quand même lieu.
+La partie "si votre adversaire a plus de cartes" est avant la virgule, donc il s'agit d'une condition d'activation. Elle explicite que l'adversaire doit avoir plus de cartes afin que l'effet soit activable. Donc même si l'adversaire Chaîne des cartes pour en avoir moins sur son terrain à la résolution, l'effet d'*Exciton* se résoudra quand même.
 
-Si une carte a une condition à l'activation ET la résolution, elle spécifiera quelque chose comme la dernière phrase de *Grenouille d'Arbre* (anciennement Rainette) :
+Si une carte a une condition à l'activation ET la résolution, elle spécifiera quelque chose comme la dernière phrase de *Grenouille d'Arbre* (anciennement *Rainette*) :
 - *Une fois par tour, durant votre Standby Phase, si cette carte est dans votre Cimetière et que vous ne contrôlez pas "Grenouille d'Arbre" : vous pouvez Invoquer Spécialement cette carte. <ins>Vous ne devez contrôler aucune Carte Magie/Piège pour activer et résoudre cet effet.</ins>*
 
 ## Assemblage des règles
 Certains effets n'auront pas de conditions spécifiques pour activer leurs effets, ou même d'actions à effectuer à leur activation, donc ils n'auront pas besoin de deux-points ou point-virgules. Mais dans l'ensemble, un effet typique qui démarre une Chaîne aura la structure suivante :
 
-<span style="color: magenta;">Condition d'activation de l'effet</span> : <span style="color: orange;">action à effectuer à son activation</span> ; <span style="color: green;">actions à effectuer lors de la résolution de l'effet</span>
+<ins>Condition d'activation de l'effet</ins> : <ins>action à effectuer à son activation</ins> ; <ins>actions à effectuer lors de la résolution de l'effet</ins>
 
 ## C'est l'heure du Quiz !
 Utilisez ce que l'ont vient d'apprendre pour répondre aux questions suivantes.
 
 1. Quel(s) effet(s) démarre une chaîne ?
-   - L'effet de *Grapha, Seigneur Dragon du Monde Ténébreux* de s'invoquer Spécialement du Cimetière :
+   - L'effet de *Grapha, Seigneur Dragon du Monde Ténébreux* de s'Invoquer Spécialement du Cimetière :
        
        *Vous pouvez Invoquer Spécialement cette carte (depuis votre Cimetière) en renvoyant 1 monstre "Monde Ténébreux" que vous contrôlez ("Grapha, Seigneur Dragon du Monde Ténébreux" exclu) à la main.*
 
-   - L'effet de *Simorgh des Ténèbres* de s'invoquer Spécialement depuis la main : 
+   - L'effet de *Simorgh des Ténèbres* de s'Invoquer Spécialement depuis la main : 
      
       *Si cette carte est dans votre main : vous pouvez bannir 1 monstre TÉNÈBRES et 1 monstre VENT depuis votre Cimetière ; Invoquez Spécialement cette carte.*
 
@@ -126,7 +126,7 @@ Utilisez ce que l'ont vient d'apprendre pour répondre aux questions suivantes.
       *N'avoir aucune carte en main n'est pas uniquement une condition d'activation, comme l'effet de Archdémon Enfernité le précise explicitement*
 </details>
 
-Ce n'est pas la dernière fois que nous parlerons de PSCT ! D'autres éléments viendront tout au long de cette série. Si vous souhaitez en lire plus sur le PSCT en général, vous pouvez consulter les [articles officiels Konami sur le sujet](https://yugiohblog.konami.com/articles/?tag=problem-solving-card-text).
+Ce n'est pas la dernière fois que nous parlerons de PSCT ! D'autres éléments viendront tout au long de cette série. Si vous souhaitez en lire plus sur le PSCT en général, vous pouvez consulter les [articles officiels Konami sur le sujet](https://yugiohblog.konami.com/articles/?tag=problem-solving-card-text) (rédigés en Anglais).
 
 Enfin, avant d'appliquer les règles énoncées plus haut, veillez à vous assurer que la carte est bien écrite en PSCT ! Comme décrit au début, la grande majorité des cartes que vous rencontrerez sont écrites en PSCT, mais si une carte est ancienne et n'a pas été réimprimée depuis longtemps, alors les règles énoncées ne s'appliqueront pas.
 

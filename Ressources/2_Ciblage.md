@@ -40,7 +40,7 @@ Un autre exemple est *Trappe* :
 - *Lorsque votre adversaire Invoque Normalement ou par Flip un monstre avec min. 1000 ATK : <ins>ciblez</ins> le monstre ; détruisez la <ins>cible</ins>.*
 
 Puisque l'effet mentionne la 'cible' après le point-virgule, il ne détruira le monstre ciblé que s'il a toujours 1000 ou plus d'ATK en résolution. Si l'adversaire chaîne une carte comme 
-*Rétrécissement* (ou *Livre de la Lune*), pour que le monstre ait moins de 1000 ATK (ou qu'il soit face verso, donc pour que son ATK ne puisse pas être déterminée), alors *Trappe* ne le détruira pas.
+*Rétrécissement* (ou *Le Livre de la Lune*), pour que le monstre ait moins de 1000 ATK (ou qu'il soit face verso, donc pour que son ATK ne puisse pas être déterminée), alors *Trappe* ne le détruira pas.
 
 **Si un effet n'utilise pas le mot 'cible' après le point-virgule, lisez la carte attentivement pour déterminer quelles conditions doivent être correctes en résolution.**
 
@@ -49,9 +49,9 @@ Par exemple, penchons-nous sur *Trappe Sans Fond* :
 
 Bien que la carte ne cible pas, le texte nous dit que les monstres ont besoin d'avoir 1500 d'ATK ou plus à la résolution. Si un effet est Chaîné, réduisant leur ATK en dessous de 1500, alors *Trappe Sans Fond* ne détruira ni bannira ces monstres.
 
-Un [article dédié](www.ygorganization.com/chooseyourtarget/) à ce petit point de règle et à son application sur les cartes comme *Illusionniste d'Effet* est disponible.
+Un [article dédié](https://ygorganization.com/chooseyourtarget) (rédigé en Anglais) à ce petit point de règle et à son application sur les cartes comme *Illusionniste d'Effet* est disponible.
 
-Il est important de noter que les effets ne suivent pas les cartes lorsqu'elles changent de localisation (terrain, Cimetière, etc). Pour plus de simplicité, utilisons *Monster Reborn* pour illustrer ce point :
+Il est important de noter que les effets **ne suivent pas les cartes** lorsqu'elles changent de localisation (terrain, Cimetière, etc). Pour plus de simplicité, utilisons *Monster Reborn* pour illustrer ce point :
 - *Ciblez 1 monstre dans l'un des Cimetières ; Invoquez-le Spécialement.*
 
 Si *Corbeau D.D.* est Chaîné sur la carte ciblée par *Monster Reborn*, alors le monstre ne sera pas Invoqué Spécialement, puisqu'il n'est plus dans la même localisation, bien que *Monster Reborn* spécifie "Invoquez-le Spécialement".
@@ -62,7 +62,7 @@ Lorsqu'un effet cible plusieurs cartes, il existe différents niveaux d'importan
 **Si l'effet ne spécifie pas 'les cibles' après le point-virgule, il n'a pas besoin que les conditions de ciblages soient correctes en résolution.**
 
 Ce point est le cas le plus libre. Par exemple, *Arsenal Zenmaioh Automate* :
-- *Une fois par tour : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 2 cartes Posées sur le Terrain ; détruisez-les.*
+- *Une fois par tour : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 2 cartes Posées sur le Terrain ; détruisez-<ins>les</ins>.*
 
 L'effet n'utilise pas le mot 'cibles' après son point-virgule, donc comme dans un cas de cible unique, il n'accorde pas d'importance au fait que la moindre cible ne soit plus Posée lorsque l'effet résout. Il ne fait également pas attention à s'il est incapable de détruire une des cibles : il essaiera tout de même de détruire l'autre cible. C'est donc le cas le plus flexible.
 
@@ -96,28 +96,28 @@ Puisque l'effet précise 'tous les 5', si un *Corbeau D.D.* est chaîné pour ba
 
 2. Vrai ou Faux : Si l'effet de *Calcab, Malebranche des Abysses Ardents* cible un *Appel de l'Être Hanté* Posé, et que *Appel de l'Être Hanté* est Chaîné à l'effet de *Calcab*, *Appel de l'Être Hanté* est quand même retourné à la main quand l'effet de *Calcab* résout.
 
-    *Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 Carte Magie/Piège Posée sur le Terrain ; renvoyez la cible à la main.*
+     - *Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 Carte Magie/Piège Posée sur le Terrain ; renvoyez la cible à la main.*
 
 3. Vrai ou Faux : Si *Livre de la Lune* est Chaîné pour passer face verso la cible du second effet de *Castel, le Mousquetaire Chasse-Ciel*, la cible est quand même renvoyée au Deck.
     
-    *Vous pouvez détacher 2 Matériels de cette carte, puis ciblez 1 autre carte face recto sur le Terrain ; mélangez-la dans le Deck.*
+    - *Vous pouvez détacher 2 Matériels de cette carte, puis ciblez 1 autre carte face recto sur le Terrain ; mélangez-la dans le Deck.*
 
 4. Joueur A active l'effet de *Général Enfernité*, et Joueur B Chaîne en défaussant *Corbeau D.D.* pour son effet, afin de bannir une des cibles de *Général Enfernité*. Que se passe-t-il ?
     
-    *Si vous n'avez aucune carte dans votre main : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 2 monstres "Enfernité" de max. Niveau 3 dans votre Cimetière ; Invoquez-les Spécialement depuis le Cimetière, mais leurs effets sont annulés.*
+    - *Si vous n'avez aucune carte dans votre main : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 2 monstres "Enfernité" de max. Niveau 3 dans votre Cimetière ; Invoquez-les Spécialement depuis le Cimetière, mais leurs effets sont annulés.*
 
-   - Les deux cibles sont Invoquées Spécialement
-   - Seule la cible non-bannie est Invoquée Spécialement
-   - Aucune des cibles n'est Invoquée Spécialement
+- Les deux cibles sont Invoquées Spécialement
+- Seule la cible non-bannie est Invoquée Spécialement
+- Aucune des cibles n'est Invoquée Spécialement
 
 
-5. L'effet de *Kappa Vert* cible 2 cartes Piège Posées. L'une d'entre elles est Chaînée. Que se passe-t-il ?
+1. L'effet de *Kappa Vert* cible 2 cartes Piège Posées. L'une d'entre elles est Chaînée. Que se passe-t-il ?
 
-    *FLIP : Ciblez 2 Cartes Magie/Piège Posées sur le Terrain ; détruisez les cibles.*
+    - *FLIP : Ciblez 2 Cartes Magie/Piège Posées sur le Terrain ; détruisez les cibles.*
 
-   - Les deux cibles sont détruites
-   - Seule la cible non-Chaînée est détruite
-   - Aucune des cibles n'est détruite
+- Les deux cibles sont détruites
+- Seule la cible non-Chaînée est détruite
+- Aucune des cibles n'est détruite
 
 <details>
 <summary>Réponses</summary>
@@ -128,7 +128,7 @@ Puisque l'effet précise 'tous les 5', si un *Corbeau D.D.* est chaîné pour ba
 
  2. **Faux.** 
    
-      *Calcab cible une carte posée, et retourne 'la cible' à la main, donc la carte a toujours besoin d'être Posée en résolution pour que Calcab la renvoie.*
+      *Calcab cible une carte Posée, et retourne 'la cible' à la main, donc la carte a toujours besoin d'être Posée en résolution pour que Calcab la renvoie.*
  
  3. **Vrai.** 
       

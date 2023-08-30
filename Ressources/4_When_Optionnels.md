@@ -1,8 +1,8 @@
 # Démystification de rulings
 
-# Effets Optionnels 'Lorsque'
+# Effets Optionnels "Lorsque"
 
-Cet article concerne le point de règle souvent confus et mal interprété des effets optionnels 'lorsque'. 
+Cet article concerne le point de règle souvent confus et mal interprété des effets optionnels "lorsque". 
 
 Avant de commencer, n'oubliez pas de lire le dernier article sur le [SEGOC](3_Effets_Declencheurs.md) !
 

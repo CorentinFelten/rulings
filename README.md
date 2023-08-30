@@ -37,5 +37,5 @@ Le RC2, ou *Rulings Comprehension 2*, est actuellement le plus haut niveau de te
 - Seuls les Judges déjà enregistrés auprès de Konami peuvent tenter de passer le test en personne. Le RC1 est donc nécessaire pour tenter de passer le RC2, et il faut être inscrit sur le Konami Judge Program.
 - Un CARD GAME ID (anciennement Cossy ID) est nécessaire pour passer le test.
 - Un score de 80% ou plus est requis afin de valider le RC2.
-- Il est fortement déconseillé de discuter des questions et réponses du RC2 avec d'autres personnes, test réussi ou non.
+- Il est **fortement déconseillé** de discuter des questions et réponses du RC2 avec d'autres personnes, **test réussi ou non**.
 - Le test est généralement fini entre 20 et 45 minutes. Le Représentant Konami vous donnera la note de votre RC2 sur place, et vous informera de votre réussite ou non.

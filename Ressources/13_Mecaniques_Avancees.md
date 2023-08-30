@@ -94,7 +94,7 @@ Nous utiliserons l'exemple de *Bujin Yamato* comme exemple de cette clause :
 
 **Il n'est pas possible de tenter d'Invoquer une autre copie de *Bujin Yamato* tant que vous en contrôlez déjà une (bien qu'une autre copie puisse être Posée).**
 
-A noter que cette règle s'applique également pour Sacrifier un *Kaiju* pour en invoquer un second :
+A noter que cette règle s'applique également pour Sacrifier un *Kaiju* pour en Invoquer un second :
 - *Vous ne pouvez contrôler qu'1 monstre "Kaiju".*
 
 Il est impossible de tenter l'action d'Invocation du second *Kaiju*, même si cette action se débarrasserait du premier. Ce point devrait vous rappeler les principes de [Légalité d'Activation](11_Legalite_Activation.md).

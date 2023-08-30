@@ -14,7 +14,7 @@ Ces deux points sont différents !
 Pourquoi ce point a-t-il de l'importance ? Comme exemple, penchons nous sur *Avertissement Divin* : 
 - *Lorsqu'un ou plusieurs monstres vont être Invoqués, OU lorsqu'une Carte Magie/Piège ou un effet de monstre qui inclut un effet qui Invoque Spécialement un ou plusieurs monstres est activé : payez 2000 LP ; annulez l'Invocation ou l'activation, et si vous le faites, détruisez-les.*
 
-*Avertissement Divin* explique qu'il peut annuler l'activation de CARTES Magies / Pièges qui peuvent invoquer. *Avertissement Divin* ne dit pas qu'il peut annuler l'activation d'EFFETS de Magies / Piège qui peuvent invoquer.
+*Avertissement Divin* explique qu'il peut annuler l'activation de CARTES Magies / Pièges qui peuvent Invoquer. *Avertissement Divin* ne dit pas qu'il peut annuler l'activation d'EFFETS de Magies / Piège qui peuvent Invoquer.
 
 Pourquoi cette distinction est importante ? Regardons la carte Magie Continue *Canon Enfernité* :
 - *Une fois par tour : vous pouvez envoyer 1 monstre "Enfernité" depuis votre main au Cimetière. Vous pouvez envoyer cette carte au Cimetière, puis ciblez max. 2 monstres "Enfernité" dans votre Cimetière ; Invoquez-les Spécialement. Vous ne devez avoir aucune carte dans votre main pour activer et résoudre cet effet.*

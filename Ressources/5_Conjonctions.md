@@ -11,7 +11,7 @@ Les 4 conjonctions principales sont *puis*, *et si vous le faites*, *et aussi* e
 
     *Ciblez 1 monstre Zombie dans votre Cimetière et 1 monstre dans le Cimetière de votre adversaire ; Invoquez Spécialement la première cible, <ins>et aussi</ins>, bannissez la seconde cible.*
 
-Ici, l'effet est de la forme 'faire A, et aussi faire B', où A est l'invocation spéciale de la première cible, et B le bannissement de la seconde cible. La structure est similaire pour les autres conjonctions :
+Ici, l'effet est de la forme 'faire A, et aussi faire B', où A est l'Invocation Spéciale de la première cible, et B le bannissement de la seconde cible. La structure est similaire pour les autres conjonctions :
 - *Nékroz de Valkyrus* :
     
     *Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir 1 carte "Nékroz" depuis votre Cimetière et défausser cette carte ; annulez l'attaque, <ins>puis</ins> terminez la Battle Phase.*
@@ -147,7 +147,7 @@ Nous reviendrons sur la légalité d'activation dans un article futur.
  
  3. **Le monstre ciblé reste sur le terrain.** 
       
-      *Pont Célèste emploie "et si vous le faites", ce qui veut dire que si le monstre tellchevalier ne peut pas être invoqué spécialement, la cible ne peut pas être mélangée sur le terrain.*
+      *Pont Célèste emploie "et si vous le faites", ce qui veut dire que si le monstre tellchevalier ne peut pas être Invoqué Spécialement, la cible ne peut pas être mélangée sur le terrain.*
 
  4. **Oui.** 
  
