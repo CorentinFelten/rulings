@@ -23,7 +23,7 @@ Voyons un exemple. Supposons que *Tireur de l'Atlantide* et *Sirènemure Abyssgu
 
     *Vous pouvez défausser 2 autres monstres EAU au Cimetière ; Invoquez Spécialement cette carte depuis votre main. Lorsqu'elle est Invoquée de cette façon : vous pouvez ajouter 1 Magie/Piège "-Abysses" depuis votre Deck à votre main. Vous pouvez Sacrifier 1 autre monstre EAU en Position d'Attaque ; durant chaque Battle Phase ce tour, cette carte peut faire une seconde attaque.*
 
-<ins>Chain Link 1</ins> : L'effet de *Megalo* pour s'Invoquer, défaussant *Tireur de l'Atlantide* et *Gunde*. A noter que l'effet de *Megalo* démarre effectivement une chaîne, puisque son effet possède un point-virgule.
+<ins>Chain Link 1</ins> : L'effet de *Megalo* pour s'Invoquer, défaussant *Tireur de l'Atlantide* et *Gunde*. À noter que l'effet de *Megalo* démarre effectivement une chaîne, puisque son effet possède un point-virgule.
 
 Les effets de *Tireur* et de *Gunde* ne s'activent pas encore, bien qu'ils aient techniquement rempli leurs conditions d'activation. Ils attendent que la Chaîne en cours soit résolue avant de s'activer.
 
@@ -33,7 +33,7 @@ A ce moment là, on regarde quels effets ont été déclenchés et veulent s'act
 
 Cette situation, lorsque plusieurs effets déclencheurs veulent s'activer en même temps, est appelée SEGOC : Simultaneous Effects Go On Chain (ou Effets Simultanés Vont En Chaîne en français, mais nous resterons avec le terme de SEGOC lors de cette série).
 
-(Note importante : la situation de 'Missing Timing' (ou les effets optionnels 'When' VS 'If') sera expliquée dans le prochain article, et ne sera pas abordée dans celui-ci.)
+(Note importante : la situation de 'Missing Timing' (ou les effets optionnels "Lorsque" VS "Si") sera expliquée dans le prochain article, et ne sera pas abordée dans celui-ci.)
 
 ## SEGOC
 **Lorsque plusieurs effets déclencheurs veulent s'activer en même temps, ils le font dans l'ordre suivant :**
@@ -65,9 +65,9 @@ Joueur A contrôle *Dante, Voyageur des Abysses Ardents*, avec *Cir, Malebranche
 
 *Dante* et *Cir* sont tous deux des effets optionnels du **JT**, et rencontrent tous deux leurs conditions d'activation au même moment. Ils iront donc sur la Chaîne en premier en tant que CL1 et CL2 dans l'ordre du choix du **JT**. *Bête* déclenche son effet optionnel pour le **NJT**, donc il viendra après les deux premiers en tant que CL3. 
 
-<ins>Chain Link 1</ins> et <ins>Chain Link 2</ins> : *Dante* et *Cir* (peu importe l'ordre)
+- <ins>Chain Link 1</ins> et <ins>Chain Link 2</ins> : *Dante* et *Cir* (peu importe l'ordre)
 
-<ins>Chain Link 3</ins> : *Bête*
+- <ins>Chain Link 3</ins> : *Bête*
 
 Revenons à l'exemple avec *Tireur*, *Gunde* et *Megalo* :
 - *Tireur de l'Atlantide* :
@@ -88,36 +88,38 @@ Revenons à l'exemple avec *Tireur*, *Gunde* et *Megalo* :
 
 *Tireur*, *Gunde* et *Megalo* on tous les trois validé la condition d'activation de leurs effets. *Tireur* est un effet obligatoire du **JT**, donc il s'active en premier. *Gunde* et *Megalo* sont tous deux des effets optionnels du **JT**, donc ils peuvent être activés dans l'ordre du choix du **JT**.
 
-<ins>Chain Link 1</ins> : *Tireur*, ciblant une carte Posée
-<ins>Chain Link 2</ins> : *Gunde*, ciblant un Sirènemure dans le Cimetière
-<ins>Chain Link 3</ins> : second effet de *Megalo*
+- <ins>Chain Link 1</ins> : *Tireur*, ciblant une carte Posée
+
+- <ins>Chain Link 2</ins> : *Gunde*, ciblant un Sirènemure dans le Cimetière
+
+- <ins>Chain Link 3</ins> : second effet de *Megalo*
 
 Les Chaînes ont été développées entièrement dans les exemples ci-dessus, car c'est une bonne pratique de les construire correctement et les résoudre attentivement. 
 
 ## Points divers
 Il est important de s'assurer que tous les effets déclencheurs ont été utilisés pour la construction de la Chaîne avant qu'un des joueurs puisse Chaîner des effets rapides. Même les cartes Pièges Contre ne peuvent pas être utilisées pendant que des effets déclencheurs sont ajoutés à la Chaîne. Ce point est important, car pour pouvoir annuler l'activation d'un effet, il faut que l'effet soit Chaîné directement à cette activation.
 
-Certaines cartes Magies et Piège ont des effets qui s'activent lorsqu'une condition est remplie, pendant que la carte Magie / Piège est face recto. Ces effets sont comparables à des effets déclencheurs, et fonctionnent de la même manière que les effets déclencheurs. Ils respecteront ainsi les règles de SEGOC. 
+Certaines cartes Magie et Piège ont des effets qui s'activent lorsqu'une condition est remplie, pendant que la carte Magie / Piège est face recto. Ces effets sont comparables à des effets déclencheurs, et fonctionnent de la même manière que les effets déclencheurs. Ils respecteront ainsi les règles de SEGOC. 
 
 Un bon exemple de ce type d'effet est le second effet d'*Espace de Négation* :
 - *Aucun joueur ne peut Invoquer Spécialement de monstres. Si une carte est envoyée depuis le Deck ou Terrain à votre Cimetière : détruisez cette carte.*
 
 Quelques avertissements :
-1. SEGOC ne s'applique pas sur les effets s'activant durant une Phase ou Step précise (par exemple lors de la Standby Phase, ou la End Step de la Battle Phase). Ces effets s'activent et se résolvent dans des Chaînes séparées.
+1. SEGOC ne s'applique pas sur les effets s'activant durant certaines Phases ou Step précises (par exemple lors de la Standby Phase, ou la End Step de la Battle Phase). Ces effets s'activent et se résolvent dans des Chaînes séparées.
 
-Par exemple, supposons que vous avez deux *Lyla la Magicienne, Seigneur Lumière* sur le terrain :
-- *Une fois par tour, durant votre End Phase : envoyez les 3 cartes du dessus de votre Deck au Cimetière.*
+    Par exemple, supposons que vous avez deux *Lyla la Magicienne, Seigneur Lumière* sur le Terrain :
+    - *Une fois par tour, durant votre End Phase : envoyez les 3 cartes du dessus de votre Deck au Cimetière.*
 
-Les effets des deux Lyla ne forment pas une Chaîne durant la End Phase : ils s'active et se résolvent séparément.
+    Les effets des deux Lyla ne forment pas une Chaîne durant la End Phase : ils s'active et se résolvent séparément.
 
-2. Il existe une exception unique à la règle de SEGOC. Pour résumer, il n'est pas possible d'activer plusieurs effets déclencheurs qui implique une Invocation Spéciale de la main (ou des effets déclencheurs qui s'activent de la main et qui Invoquent Spécialement). Par exemple, il n'est pas possible d'activer 1 *Gorz, l'Émissaire des Ténèbres* et 1 *Tragoedia* en réponse à une attaque, malgré le fait qu'en appliquant strictement la règle de SEGOC, les deux cartes s'activeraient en Chaîne. 
-- *Gorz, l'Émissaire des Ténèbres* :
+2. Il existe une exception unique à la règle de SEGOC. Pour résumer, il n'est pas possible d'activer plusieurs effets déclencheurs dans la même chaîne qui impliquent une Invocation Spéciale de la main (ou des effets déclencheurs qui s'activent de la main et qui Invoquent Spécialement). Par exemple, il n'est pas possible d'activer 1 *Gorz, l'Émissaire des Ténèbres* **et** 1 *Tragoedia* en réponse à une attaque, malgré le fait qu'en appliquant strictement la règle de SEGOC, les deux cartes s'activeraient en Chaîne. 
+   - *Gorz, l'Émissaire des Ténèbres* :
 
-    *Lorsque vous recevez des dommages d'une carte possédée par votre adversaire : vous pouvez Invoquer Spécialement cette carte depuis votre main.*
+       *Lorsque vous recevez des dommages d'une carte possédée par votre adversaire : vous pouvez Invoquer Spécialement cette carte depuis votre main.*
 
-- *Tragoedia* :
+   - *Tragoedia* :
 
-    *Lorsque vous recevez des dommages de combat : vous pouvez Invoquer Spécialement cette carte depuis votre main.*
+       *Lorsque vous recevez des dommages de combat : vous pouvez Invoquer Spécialement cette carte depuis votre main.*
 
 ## C'est l'heure du Quiz !
 
@@ -189,7 +191,7 @@ Les effets des deux Lyla ne forment pas une Chaîne durant la End Phase : ils s'
 
  4. ***Espace de Négation* s'active après que l'effet de *Troupe Exilée* ait été résolu. L'effet de *Faucon* ne pourra pas être activé.** 
  
-      *Bien que l'effet d'Espace de Négation soit déclenché immédiatement, il n'est pas chaîné à l'effet de Troupe Exilée : il attend de s'activer dans la Chaîne suivante. Après la résolution de Troupe Exilée, Espace de Négation et Faucon ont tous deux été déclenchés, mais comme Espace de Négation est encore sur le terrain à ce moment précis, son effet continu s'applique toujours, donc l'effet de Faucon ne peut pas être activé.*
+      *Bien que l'effet d'Espace de Négation soit déclenché immédiatement, il n'est pas chaîné à l'effet de Troupe Exilée : il attend de s'activer dans la Chaîne suivante. Après la résolution de Troupe Exilée, Espace de Négation et Faucon ont tous deux été déclenchés, mais comme Espace de Négation est encore sur le Terrain à ce moment précis, son effet continu s'applique toujours, donc l'effet de Faucon ne peut pas être activé.*
 
  5. **Ce n'est pas possible.** 
  

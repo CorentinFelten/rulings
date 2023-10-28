@@ -1,7 +1,7 @@
 # Démystification de rulings
 
 # Mécaniques Avancées
-Bienvenu sur le dernier article de cette série. Si vous êtes arrivé jusque là, félicitations ! Vous méritez votre diplôme de connaissances de rulings. 
+Bienvenu sur le dernier article de cette série. Si vous êtes arrivé jusque-là, félicitations ! Vous méritez votre diplôme de connaissances de rulings. 
 
 Il existe quelques mécaniques de jeu importantes à mentionner. Cet article peut servir de référence lorsqu'une situation potentielle impliquant ces mécaniques survient (au moins jusqu'à ce que vous ayez retenu ces points par cœur !)
 
@@ -26,7 +26,7 @@ Ensuite, nous avons des effets comme *Double Invocation* et *Chaîne d'Invocatio
 
     *Ce tour, vous pouvez mener 2 Invocations/Poses Normales, pas uniquement 1.*
 
-Ces cartes changent votre nombre d'Invocation Normale par défaut pour le tour. Ensuite, vous pouvez rajouter des Invocations supplémentaires par dessus. Par exemple, *Double Invocation* + *Eidos* implique que vous aurez 2 Invocations Normales par défaut + 1 Invocation supplémentaire pour *Eidos*, pour un total de 3.
+Ces cartes changent votre nombre d'Invocation Normale par défaut pour le tour. Ensuite, vous pouvez rajouter des Invocations supplémentaires par-dessus. Par exemple, *Double Invocation* + *Eidos* implique que vous aurez 2 Invocations Normales par défaut + 1 Invocation supplémentaire pour *Eidos*, pour un total de 3.
 
 Enfin, il existe beaucoup d'effets d'Invocations Normales supplémentaires qui sont formulées comme *Yosenju Kama 1* :
 - *Si cette carte est Invoquée Normalement, vous pouvez : immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre "Yosenju" ("Yosenju Kama 1" exclu) depuis votre main.*
@@ -36,7 +36,7 @@ Ces effets laissent le joueur effectuer une Invocation Normale à la résolution
 Ce type d'effets est complètement différent des effets présentés plus tôt. Puisque l'Invocation a lieu à la résolution de l'effet en lui-même, il est possible d'en effectuer autant par tour que d'effet incluant une Invocation, de manière complètement indépendante au nombre d'Invocations Normales autorisées ce tour. 
 
 ## Oubli
-Après qu'un monstre ait été Invoqué, il commence à retenir une certaine quantité d'information, comme sa période d'Invocation, exactement comment il a été Invoqué, quels effets s'appliquent sur lui, etc. Quand un monstre n'est plus face recto pendant un moment, il 'oublie' certaines informations, mais se souvient d'autres. Ce changement peut avoir lieu lorsqu'il est changé face verso (par *Le Livre de la Lune* par exemple), ou banni temporairement (par *Farfa, Malebranche des Abysses Ardents* par exemple). 
+Après qu'un monstre ait été Invoqué, il commence à retenir une certaine quantité d'information, comme sa période d'Invocation, exactement comment il a été Invoqué, quels effets s'appliquent sur lui, etc. Quand un monstre n'est plus face recto pendant un moment, il "oublie" certaines informations, mais se souvient d'autres. Ce changement peut avoir lieu lorsqu'il est changé face verso (par *Le Livre de la Lune* par exemple), ou banni temporairement (par *Farfa, Malebranche des Abysses Ardents* par exemple). 
 
 Nous allons donc observer les informations que les monstres oublient et celles qu'ils n'oublient pas. 
 
@@ -46,19 +46,19 @@ Nous allons donc observer les informations que les monstres oublient et celles q
     Par exemple, *Pousse de Bambou Naturia* oubliera s'il a été Invoqué en Sacrifiant un monstre *Naturia* :
     - *Tant que vous contrôlez cette carte face recto qui a été Invoquée par Sacrifice en Sacrifiant un monstre "Naturia", votre adversaire ne peut pas activer de Cartes Magie/Piège.*
 
-    Cependant, si le monstre oublie qu'il a été Invoqué en Sacrifiant un monstre spécifique ou un matériel spécifique, il n'oublie pas une méthode générale d'Invocation Spéciale (comme Invocation Sacrifice, Invocation Fusion, Invocation Synchro etc). Par exemple, un monstre Invoqué par Sacrifice banni temporairement sera toujours protégé par *Assaut des Monarques* lorsqu'il revient sur le terrain.
+    Cependant, si le monstre oublie qu'il a été Invoqué en Sacrifiant un monstre spécifique ou un matériel spécifique, il n'oublie pas une méthode générale d'Invocation Spéciale (comme Invocation Sacrifice, Invocation Fusion, Invocation Synchro etc). Par exemple, un monstre Invoqué par Sacrifice banni temporairement sera toujours protégé par *Assaut des Monarques* lorsqu'il revient sur le Terrain.
 
 - **Il oubliera les effets appliqués précédemment.**
 
     Par exemple, un monstre Synchro perdra ses augmentations de matériaux *Yang Zing*, comme celui de *Taotie, Ombre du Yang Zing* :
-    - *La possession d'un Monstre Synchro sur le Terrain qui a utilisé cette carte comme Matériel de Synchro ne peut pas changée.*
+    - *La possession d'un Monstre Synchro sur le Terrain qui a utilisé cette carte comme Matériel de Synchro ne peut pas changer.*
 
     Aussi, un monstre Invoqué par *Assaut des Rois du Feu* ne sera pas détruit si passé face verso, puis repassé face recto avant la End Phase :
     - *Si votre adversaire contrôle un monstre et que vous n'en contrôlez aucun : Invoquez Spécialement 1 monstre FEU Bête, Bête-Guerrier ou Bête Ailée depuis votre Deck. Ses effets sont annulés, et aussi, il est détruit durant la End Phase. Vous ne pouvez activer qu'1 "Assaut des Rois du Feu" par tour.*
 
 - **Il n'oubliera pas quelles cartes spécifiques ont été utilisées pour son Invocation.**
 
-    Si un monstre Synchro est passé face verso, puis de nouveau face recto, et est ciblé par *Désynchronisation*, les matériels utilisés pour son Invocation pourront être Invoqués Spécialement. 
+    Si un monstre Synchro est passé face verso, puis de nouveau face recto et est ciblé par *Désynchronisation*, les matériels utilisés pour son Invocation pourront être Invoqués Spécialement. 
 
 - **Il n'oubliera pas s'il a été Invoqué Spécialement ou non.**
 
@@ -75,7 +75,7 @@ Nous allons donc observer les informations que les monstres oublient et celles q
     Si vous Invoquez par Xyz un monstre, le passez face verso, puis de nouveau face recto, votre adversaire ne pourra pas envoyer de monstres du Deck pour l'effet de *Fusion Marionnette de l'Ombre* :
     - *Invoquez par Fusion 1 Monstre Fusion "Marionnette de l'Ombre" depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain comme Matériel Fusion. Si votre adversaire contrôle un monstre qui a été Invoqué Spécialement depuis l'Extra Deck, vous pouvez aussi utiliser des monstres dans votre Deck comme Matériel Fusion.*
 
-    Cependant, si le monstre n'est que temporairement banni, votre adversaire pourra utiliser des monstres du Deck lorsque le votre sera revenu.
+    Cependant, si le monstre n'est que temporairement banni, votre adversaire pourra utiliser des monstres du Deck lorsque le vôtre sera revenu.
 
     Un monstre ne gagnera pas non plus de boost d'ATK de *Temple du Soleil* si Invoqué du Cimetière, puis passé face verso, puis face recto, mais il gagnera bien le boost s'il n'est que banni temporairement :
     - *Les monstres face recto que vous contrôlez qui ont été Invoqués Spécialement depuis le Cimetière gagnent 300 points d'ATK.*
@@ -88,27 +88,27 @@ L'effet de *Bujin Yamato* se termine comme suit :
 De même, la majorité des monstres *Corrompu* possède cette ligne de texte : 
 - *Il ne peut y avoir qu'1 monstre "Corrompu" face recto sur le Terrain.*
 
-Tout d'abord, cette clause de contrôle unique est bien un effet, et peut être annulée par des effets comme *Absorption de Compétences*. Cependant, à la différence d'un effet Continu, il s'applique dans (presque) tous les emplacements, y compris la main, le Cimetière et si la carte est bannie, mais **pas** lorsque le monstre est face verso. 
+Tout d'abord, cette clause de contrôle unique est bien un effet et peut être annulée par des effets comme *Absorption de Compétences*. Cependant, à la différence d'un effet Continu, il s'applique dans (presque) tous les emplacements, y compris la main, le Cimetière et si la carte est bannie, mais **pas** lorsque le monstre est face verso. 
 
 Nous utiliserons l'exemple de *Bujin Yamato* comme exemple de cette clause :
 
 **Il n'est pas possible de tenter d'Invoquer une autre copie de *Bujin Yamato* tant que vous en contrôlez déjà une (bien qu'une autre copie puisse être Posée).**
 
-A noter que cette règle s'applique également pour Sacrifier un *Kaiju* pour en Invoquer un second :
+À noter que cette règle s'applique également pour Sacrifier un *Kaiju* pour en Invoquer un second :
 - *Vous ne pouvez contrôler qu'1 monstre "Kaiju".*
 
 Il est impossible de tenter l'action d'Invocation du second *Kaiju*, même si cette action se débarrasserait du premier. Ce point devrait vous rappeler les principes de [Légalité d'Activation](11_Legalite_Activation.md).
 
-**De la même manière, même si *Absorption de Compétences* est présente sur le terrain, il est impossible de tenter d'Invoquer la seconde copie de *Bujin Yamato* depuis la main ou le Cimetière, puisque l'effet de la seconde copie dans la main / Cimetière s'applique toujours.**
+**De la même manière, même si *Absorption de Compétences* est présente sur le Terrain, il est impossible de tenter d'Invoquer la seconde copie de *Bujin Yamato* depuis la main ou le Cimetière, puisque l'effet de la seconde copie dans la main / Cimetière s'applique toujours.**
 
-- Il est possible de changer le nom d'un monstre pour qu'il devienne *Bujin Yamato* tant que vous en contrôlez un (comme avec l'effet de *Fantôme du Chaos*), mais la copie la plus récente sur le terrain sera détruite automatiquement par mécanique de jeu.
-- Il est possible de prendre contrôle d'une autre copie de *Bujin Yamato*, mais la copie la plus récente sur votre terrain sera détruite par mécanique de jeu.
-- Si un *Bujin Yamato* est sur le terrain et qu'une autre est déjà bannie temporairement, comme par l'effet de *Farfa, Malebranche des Abysses Ardents*, alors durant la End Phase, le monstre banni ne pourra pas retourner sur le terrain et sera envoyé au Cimetière automatiquement par mécanique de jeu.
+- Il est possible de changer le nom d'un monstre pour qu'il devienne *Bujin Yamato* tant que vous en contrôlez un (comme avec l'effet de *Fantôme du Chaos*), mais la copie la plus récente sur le Terrain sera détruite automatiquement par mécanique de jeu.
+- Il est possible de prendre contrôle d'une autre copie de *Bujin Yamato*, mais la copie la plus récente sur votre Terrain sera détruite par mécanique de jeu.
+- Si un *Bujin Yamato* est sur le Terrain et qu'une autre est déjà bannie temporairement, comme par l'effet de *Farfa, Malebranche des Abysses Ardents*, alors durant la End Phase, le monstre banni ne pourra pas retourner sur le Terrain et sera envoyé au Cimetière automatiquement par mécanique de jeu.
 - Supposons que vous contrôlez deux *Bujin Yamato*, dont un Posé. Si ce *Bujin Yamato* face verso est attaqué, et retourné face recto par l'attaque, il sera détruit par mécanique de jeu immédiatement après le calcul des dommages, peu importe s'il avait été marqué pour destruction ou non (à cause de l'effet du *Bujin Yamato* déjà face recto). (Voir l'article sur la [Damage Step](9_Damage_Step.md) pour plus d'informations.)
-- Enfin, pour finir, si plusieurs monstres *Corrompu* sont sur le terrain face verso, et retournés face recto simultanément par un effet, comme celui de *Cessez-le-Feu* :
-  - *Si un monstre en Position de Défense face verso ou un Monstre à Effet est sur le Terrain : changez tous les monstres en Position de Défense face verso sur le Terrain en Position de Défense face recto (les effets de monstres Flip ne sont pas activés à ce moment), et aussi, infligez 500 points de dommages à votre adversaire pour chaque Monstre à Effet sur le Terrain.*
+- Enfin, pour finir, si plusieurs monstres *Corrompu* sont sur le Terrain face verso, et retournés face recto simultanément par un effet, comme celui de *Cessez-le-Feu* :
+    - *Si un monstre en Position de Défense face verso ou un Monstre à Effet est sur le Terrain : changez tous les monstres en Position de Défense face verso sur le Terrain en Position de Défense face recto (les effets de monstres Flip ne sont pas activés à ce moment), et aussi, infligez 500 points de dommages à votre adversaire pour chaque Monstre à Effet sur le Terrain.*
 
-    Les monstres du Joueur du tour seront retournés face recto strictement avant, puisque (d'après le livret de règles) le Joueur du tour réalise les actions simultanées en premier. Donc si deux monstres *Corrompu* sont posés, un sur chaque côté du terrain, le monstre du non-Joueur du tour sera détruit. (A noter que *Cessez-le-Feu* finira de se résoudre en premier, donc les dommages seront infligés avant qu'un monstre ne soit détruit). 
+    Les monstres du Joueur du tour seront retournés face recto strictement avant, puisque (d'après le livret de règles) le Joueur du tour réalise les actions simultanées en premier. Donc si deux monstres *Corrompu* sont posés, un sur chaque côté du Terrain, le monstre du non-Joueur du tour sera détruit. (À noter que *Cessez-le-Feu* finira de se résoudre en premier, donc les dommages seront infligés avant qu'un monstre ne soit détruit). 
 
     Si les deux monstres sont contrôlés par le même joueur, il choisira lequel garder et lequel détruire.
 
@@ -133,7 +133,7 @@ Il est impossible de tenter l'action d'Invocation du second *Kaiju*, même si ce
       
  2. **Les monstres Spirit n'oublient pas qu'ils ont été Invoqués ce tour, donc ils retournent à la main.** 
  
- 3. **L'activation de *Contrôle Mental* est légale, et le nouveau Kaiju sera détruit par mécanique de jeu.** 
+ 3. **L'activation de *Contrôle Mental* est légale et le nouveau Kaiju sera détruit par mécanique de jeu.** 
 
  4. **Le Kaiju est marqué pour destruction par le combat normalement, mais est détruit par mécanique de jeu après le calcul des dommages.** 
 
@@ -142,7 +142,7 @@ Il est impossible de tenter l'action d'Invocation du second *Kaiju*, même si ce
 </details>
 
 ## Et ensuite..?
-Les sujets abordés ici ont été sélectionnés pour vous donner une base solide en terme de mécaniques de jeu que vous rencontrerez. Donc en travaillant de manière assidue à travers cette série, vous devriez être capable de répondre à la majorité des questions de rulings que vous rencontrerez. 
+Les sujets abordés ici ont été sélectionnés pour vous donner une base solide en termes de mécaniques de jeu que vous rencontrerez. Donc en travaillant de manière assidue à travers cette série, vous devriez être capable de répondre à la majorité des questions de rulings que vous rencontrerez. 
 
 Cependant, **il y a beaucoup de questions que nous n'aurons pas traité**. Par exemple, que se passe-t-il lorsqu'un monstre *Abysses Ardents* active son effet dans la main pour s'Invoquer Spécialement, mais qu'il ne peut pas être Invoqué à la résolution à cause de *Combat en Présence de l'Empereur* ou *Espace de Négation* ? Pour des questions comme celle-ci, il est essentiel de suivre des forums de rulings pour plus de clarification, ou bien obtenir clarification directement de la part d'un Head Judge à un événement, puisqu'ils sont la seule autorité pour l'événement. (Le monstre *Abysses Ardents* reste en main, d'ailleurs).
 
@@ -150,4 +150,6 @@ Si vous ne pouvez rien trouver sur Google, n'hésitez pas à demander !
 
 Je ne peux pas vous amener plus loin de mon côté. Si vous souhaitez en apprendre plus et découvrir des rulings plus avancés, le mieux est de faire des recherches de votre côté pour des situations plus corsées. 
 
-J'espère que cette série vous aura plu !
+J'espère que cette série vous aura plu, et que ma traduction vous aura été utile ! 
+
+Je tiens de nouveau à remercier [**Bilaterus**](https://ygorganization.com/author/bilaterus/page/2/) pour ses articles très bien rédigés.

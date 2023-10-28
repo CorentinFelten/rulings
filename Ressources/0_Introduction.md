@@ -15,7 +15,7 @@ Je peux penser à au moins cinq raisons pour justifier apprendre les rulings :
 
 2. **Connaître des rulings peut vous permettre d'éviter d'atterrir dans des game states illégaux**. Par exemple, si vous activez *Destruction de Cartes* et défaussez *Hérisson Marionnette de l'Ombre* et *Broww, Chasseur du Monde Ténébreux* au Cimetière, *Broww* doit être Chain Link 1 et *Hérisson* Chain Link 2 dans la chaîne d'après, donc vous devrez d'abord chercher une carte puis piocher. Si vous piochez puis cherchez une carte, votre adversaire ne pourra pas dire quelle carte aura été piochée, donc le game state ne pourra pas être réparé. Cette erreur pourrait vous coûter une game loss dans le pire des cas, et vous devriez remettre la carte cherchée de *Hérisson* dans le meilleur des cas.
 
-3. **La connaissance de rulings aide pour la construction de decks**. En connaissant bien vos rulings, lire une nouvelle carte et comprendre comment elle s'intègre dans un deck uniquement en lisant son texte devient beaucoup plus facile, surtout pour déterminer si la carte sera intéressante ou non.
+3. **La connaissance de rulings aide pour la construction de decks**. En connaissant bien vos rulings, lire une nouvelle carte et comprendre comment elle s'intègre dans un Deck uniquement en lisant son texte devient beaucoup plus facile, surtout pour déterminer si la carte sera intéressante ou non.
 
 4. **Être à l'aise avec les rulings peut vous faire gagner** à vous, votre adversaire, et votre Judge, **du temps** dans un duel, ce qui peut être crucial, surtout dans des tournois ayant une limite de temps.
 
@@ -61,7 +61,7 @@ Voici quelques questions rapides pour tester des points importants. Les réponse
    - Déclaration d'attaque
 
 
-4. Vrai ou Faux : les Matériels Xyz sont des cartes sur le terrain.
+4. Vrai ou Faux : les Matériels Xyz sont des cartes sur le Terrain.
 
 5. Vrai ou Faux : Si vous envoyez un Monstre Synchro de votre Extra Deck au Cimetière, vous pouvez ensuite l'Invoquer par Invocation Spéciale depuis le Cimetière avec des effets de cartes.
 

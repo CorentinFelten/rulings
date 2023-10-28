@@ -51,7 +51,7 @@ Bien que la carte ne cible pas, le texte nous dit que les monstres ont besoin d'
 
 Un [article dédié](https://ygorganization.com/chooseyourtarget) (rédigé en Anglais) à ce petit point de règle et à son application sur les cartes comme *Illusionniste d'Effet* est disponible.
 
-Il est important de noter que les effets **ne suivent pas les cartes** lorsqu'elles changent de localisation (terrain, Cimetière, etc). Pour plus de simplicité, utilisons *Monster Reborn* pour illustrer ce point :
+Il est important de noter que les effets **ne suivent pas les cartes** lorsqu'elles changent de localisation (Terrain, Cimetière, etc). Pour plus de simplicité, utilisons *Monster Reborn* pour illustrer ce point :
 - *Ciblez 1 monstre dans l'un des Cimetières ; Invoquez-le Spécialement.*
 
 Si *Corbeau D.D.* est Chaîné sur la carte ciblée par *Monster Reborn*, alors le monstre ne sera pas Invoqué Spécialement, puisqu'il n'est plus dans la même localisation, bien que *Monster Reborn* spécifie "Invoquez-le Spécialement".

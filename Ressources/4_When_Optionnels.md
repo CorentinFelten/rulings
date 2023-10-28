@@ -2,16 +2,16 @@
 
 # Effets Optionnels "Lorsque"
 
-Cet article concerne le point de règle souvent confus et mal interprété des effets optionnels "lorsque". 
+Cet article concerne le point de règle souvent confus et mal interprété des effets optionnels "Lorsque". 
 
 Avant de commencer, n'oubliez pas de lire le dernier article sur le [SEGOC](3_Effets_Declencheurs.md) !
 
-## Règle fondamentale des effets optionnels "lorsque"
-**Un effet optionnel "lorsque" ne peut être activé que lorsque sa condition d'activation correspond à "l'une des dernières actions à se dérouler".**
+## Règle fondamentale des effets optionnels "Lorsque"
+**Un effet optionnel "Lorsque" ne peut être activé que lorsque sa condition d'activation correspond à "l'une des dernières actions à se dérouler".**
 
-Cette règle explique qu'il est nécessaire d'activer un effet optionnel "lorsque" **exactement** "lorsque" ce dernier rencontre sa condition d'activation. La difficulté réside dans savoir quand une action est "une des dernières actions à avoir lieu" du point de vue des mécaniques de jeu.
+Cette règle explique qu'il est nécessaire d'activer un effet optionnel "lorsque" **exactement** "Lorsque" ce dernier rencontre sa condition d'activation. La difficulté réside dans savoir quand une action est "une des dernières actions à avoir lieu" du point de vue des mécaniques de jeu.
 
-A noter que cette mécanique ne s'applique pas aux effets obligatoires, ni aux effets employant un "si" plutôt qu'un "lorsque".
+À noter que cette mécanique ne s'applique pas aux effets obligatoires, ni aux effets employant un "Si" plutôt qu'un "Lorsque".
 
 Voyons un premier exemple :
 
@@ -24,71 +24,77 @@ Joueur A contrôle *Main de Feu*. Joueur B active *Typhon d'Espace Mystique* pou
 
     *<ins>Lorsque</ins> cette carte en votre possession est détruite par une carte de votre adversaire et envoyée à votre Cimetière : <ins>vous pouvez</ins> cibler 1 monstre qu'il contrôle ; détruisez la cible, puis vous pouvez Invoquer Spécialement 1 "Main de Glace" depuis votre Deck.*
 
-<ins>Chain Link 1</ins> : *Typhon d'Espace Mystique*
+Construction de la Chaîne :
 
-<ins>Chain Link 2</ins> : *Interruption de Raigeki*
+- <ins>Chain Link 1</ins> : *Typhon d'Espace Mystique*
+
+- <ins>Chain Link 2</ins> : *Interruption de Raigeki*
 
 Résolution de la Chaîne :
 
-<ins>Chain Link 2</ins> résout : *Interruption de Raigeki* détruit *Main de Feu*
+- <ins>Chain Link 2</ins> résout : *Interruption de Raigeki* détruit *Main de Feu*
 
-<ins>Chain Link 1</ins> résout : *Typhon d'Espace Mystique* détruit sa cible
+- <ins>Chain Link 1</ins> résout : *Typhon d'Espace Mystique* détruit sa cible
 
-L'effet de *Main de Feu* est un "lorsque" optionnel, et sa destruction n'est pas l'une des dernières actions à avoir lieu. Son effet ne peut donc pas être activé dans ce cas de figure.
+L'effet de *Main de Feu* est un "Lorsque" optionnel, et sa destruction n'est pas l'une des dernières actions à avoir lieu. Son effet ne peut donc pas être activé dans ce cas de figure.
 
 Cette règle s'applique également pour les cartes Magies et Pièges.
 
-Joueur A active *Gobelin Parvenu*, et Joueur B décide de chaîner *Appel de l'Être Hanté*, afin d'Invoquer Spécialement *Dragon Blanc aux Yeux Bleus*. Joueur A a une *Trappe Sans Fond* de Posée sur le terrain.
+Joueur A active *Gobelin Parvenu*, et Joueur B décide de chaîner *Appel de l'Être Hanté*, afin d'Invoquer Spécialement *Dragon Blanc aux Yeux Bleus*. Joueur A a une *Trappe Sans Fond* de Posée sur le Terrain.
 - *Lorsque votre adversaire Invoque un ou plusieurs monstres avec min. 1500 ATK : détruisez ces monstres avec min. 1500 ATK, et si vous le faites, bannissez-les.*
 
-<ins>Chain Link 1</ins> : *Gobelin Parvenu*
+Construction de la Chaîne :
 
-<ins>Chain Link 2</ins> : *Appel de l'Être Hanté*
+- <ins>Chain Link 1</ins> : *Gobelin Parvenu*
+
+- <ins>Chain Link 2</ins> : *Appel de l'Être Hanté*
 
 Résolution de la Chaîne :
 
-<ins>Chain Link 2</ins> résout : *Appel de l'Être Hanté* invoque *Dragon Blanc aux Yeux Bleus*
+- <ins>Chain Link 2</ins> résout : *Appel de l'Être Hanté* invoque *Dragon Blanc aux Yeux Bleus*
 
-<ins>Chain Link 1</ins> résout : Joueur A pioche sa carte
+- <ins>Chain Link 1</ins> résout : Joueur A pioche sa carte
 
-*Trappe sans fond* utilise un "lorsque", activer une carte Magie / Piège est optionnel, et l'Invocation du monstre n'était pas "l'une des dernières actions à avoir lieu", donc elle ne peut pas être activée, tout comme l'exemple avec *Main de Feu*.
+*Trappe sans fond* emploie un "Lorsque", activer une carte Magie / Piège est optionnel, et l'Invocation du monstre n'était pas "l'une des dernières actions à avoir lieu", donc elle ne peut pas être activée, tout comme l'exemple avec *Main de Feu*.
 
 ## Plus d'exemples
 Jusque là, il était assez évident de déterminer si la condition d'activation était "l'une des dernières choses à avoir lieu" ou non. Nous allons maintenant nous pencher sur des cas légèrement plus complexes. 
 
 Joueur A active la Magie de Terrain *Ville des Engrenages* :
-- *Lorsque cette carte est détruite et envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 monstre "Rouages Ancients" depuis votre main, Deck ou Cimetière.*
+- *<ins>Lorsque</ins> cette carte est détruite et envoyée au Cimetière : <ins>vous pouvez</ins> Invoquer Spécialement 1 monstre "Rouages Ancients" depuis votre main, Deck ou Cimetière.*
 
-A noter que cet effet déclencheur est un effet optionnel "lorsque", et donc est capable de manquer de s'activer si sa destruction n'est pas "l'une des dernières actions à avoir lieu".
+À noter que cet effet déclencheur est un effet optionnel "Lorsque", et donc est capable de manquer de s'activer si sa destruction n'est pas "l'une des dernières actions à avoir lieu".
 
-Supposons que Joueur B chaîne *Typhon d'Espace Mystique* à l'activation de *Ville des Engrenages* du Joueur A sur le terrain.
+Supposons que Joueur B chaîne *Typhon d'Espace Mystique* à l'activation de *Ville des Engrenages* du Joueur A sur le Terrain.
 
-<ins>Chain Link 1</ins> : Activation de *Ville des Engrenages* sur le terrain
+- <ins>Chain Link 1</ins> : Activation de *Ville des Engrenages* sur le Terrain
 
-<ins>Chain Link 2</ins> : *Typhon d'Espace Mystique* ciblant *Ville des Engrenages*
+- <ins>Chain Link 2</ins> : *Typhon d'Espace Mystique* ciblant *Ville des Engrenages*
 
 Résolution de la Chaîne :
 
-<ins>Chain Link 2</ins> résout : *Typhon d'Espace Mystique* détruit *Ville des Engrenages*
+- <ins>Chain Link 2</ins> résout : *Typhon d'Espace Mystique* détruit *Ville des Engrenages*
 
-<ins>Chain Link 1</ins> résout : *Ville des Engrenages* résout sur le terrain (mais elle résout sans effet puisqu'elle vient d'être détruite)
+- <ins>Chain Link 1</ins> résout : *Ville des Engrenages* résout sur le Terrain (mais elle résout sans effet puisqu'elle vient d'être détruite)
 
-Notons que *Ville des Engrenages* a été détruite, mais son effet sur le terrain tente tout de même de se résoudre en tant que Chain Link 1. Dans cette situation, le fait que *Ville des Engrenages* "tente de se résoudre" est la dernière chose qui a lieu, tandis que sa destruction ne l'est pas. C'est pourquoi l'effet déclencheur de *Ville des Engrenages* manque de s'activer.
+Notons que *Ville des Engrenages* a été détruite, mais son effet sur le Terrain tente tout de même de se résoudre en tant que Chain Link 1. Dans cette situation, le fait que *Ville des Engrenages* "tente de se résoudre" est la dernière chose qui a lieu, tandis que sa destruction ne l'est pas. C'est pourquoi l'effet déclencheur de *Ville des Engrenages* manque de s'activer.
 
 Supposons que Joueur B chaîne *Brouilleur Magique*, pour annuler l'activation de *Ville des Engrenages*.
 - *Lorsqu'une Carte Magie est activée : défaussez 1 carte ; annulez l'activation, et si vous le faites, détruisez-la.*
 
-<ins>Chain Link 1</ins> : Activation de *Ville des Engrenages* sur le terrain
+Construction de la Chaîne :
 
-<ins>Chain Link 2</ins> : *Brouilleur Magique*
+- <ins>Chain Link 1</ins> : Activation de *Ville des Engrenages* sur le Terrain
+
+- <ins>Chain Link 2</ins> : *Brouilleur Magique*
 
 Résolution de la Chaîne :
 
-<ins>Chain Link 2</ins> résout : *Brouilleur Magique* annule l'activation de *Ville des Engrenages* et la détruit
+- <ins>Chain Link 2</ins> résout : *Brouilleur Magique* annule l'activation de *Ville des Engrenages* et la détruit
 
-<ins>Chain Link 1</ins> résout : (rien)
+- <ins>Chain Link 1</ins> résout : (rien)
 
-Comme *Brouilleur Magique* annule l'activation, les effets de *Ville des Engrenages* sur le terrain n'essaient pas de résoudre du tout. C'est pourquoi il est possible de dire que la destruction de *Ville des Engrenages* était effectivement l'une des dernières choses à avoir lieu, donc son effet déclencheur peut s'activer normalement. 
+Comme *Brouilleur Magique* annule l'activation, les effets de *Ville des Engrenages* sur le Terrain n'essaient pas de résoudre du tout. C'est pourquoi il est possible de dire que la destruction de *Ville des Engrenages* était effectivement l'une des dernières choses à avoir lieu, donc son effet déclencheur peut s'activer normalement. 
 
 ## Effet optionnels "Lorsque" et SEGOC
 
@@ -113,9 +119,9 @@ Regardons si l'un des effets peut manquer son créneau d'activation. La destruct
 
 Maintenant que les effets à activer ont été décidés, la prochaine étape concerne l'ordre d'activation de ces effets. *Soldat de Carte* est un effet obligatoire du **NJT**, et *Bixi* est un effet facultatif du **JT**, donc d'après les règles du SEGOC, les effets s'activeront dans la Chaîne suivante dans cet ordre :
 
-<ins>Chain Link 1</ins> : *Soldat de Carte*
+- <ins>Chain Link 1</ins> : *Soldat de Carte*
 
-<ins>Chain Link 2</ins> : *Bixi*
+- <ins>Chain Link 2</ins> : *Bixi*
 
 (Si les règles du SEGOC mentionnées ici ne vous sont pas familières, n'hésitez pas à lire ou relire l'article précédent)
 

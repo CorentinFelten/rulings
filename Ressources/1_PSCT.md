@@ -15,7 +15,7 @@ Par exemple, prenez *Graff, Malebranche des Abysses Ardents* :
   - *Si vous ne contrôlez aucune Carte Magie/Piège : vous pouvez Invoquer Spécialement cette carte depuis votre main.*
   - *Si cette carte est envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 monstre "Abysses Ardents" ("Graff, Malebranche des Abysses Ardents" exclu) depuis votre Deck.*
 
-Quel effet de *Graff* démarre une Chaîne ? On peut voir que son effet d'Invoquer Spécialement depuis le deck démarre une Chaîne, puisqu'il a un deux-points dedans. On peut également voir que l'effet de s'Invoquer Spécialement depuis la main démarre une Chaîne. Cependant, son effet de se détruire si le joueur ne contrôle pas de monstre "Abysses Ardents" ne démarre PAS de Chaîne, puisqu'il n'a ni deux-points ni point-virgule. 
+Quel effet de *Graff* démarre une Chaîne ? On peut voir que son effet d'Invoquer Spécialement depuis le Deck démarre une Chaîne, puisqu'il a un deux-points dedans. On peut également voir que l'effet de s'Invoquer Spécialement depuis la main démarre une Chaîne. Cependant, son effet de se détruire si le joueur ne contrôle pas de monstre "Abysses Ardents" ne démarre PAS de Chaîne, puisqu'il n'a ni deux-points ni point-virgule. 
 
 Un autre exemple est *Perdez 1 Tour* :
 
@@ -52,7 +52,7 @@ A quoi sert la virgule ? Ce point est un petit peu plus technique.
 L'effet de *Chevalier Exciton Colonie du Mal* illustre bien ce point : 
 - *Une fois par Chaîne, durant votre Main Phase ou la Battle Phase de votre adversaire, si votre adversaire a plus de cartes en tout dans sa main et sur son Terrain que vous (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; détruisez toutes les autres cartes sur le Terrain, et aussi, votre adversaire ne reçoit pas de dommages complémentaires ce tour.*
 
-La partie "si votre adversaire a plus de cartes" est avant la virgule, donc il s'agit d'une condition d'activation. Elle explicite que l'adversaire doit avoir plus de cartes afin que l'effet soit activable. Donc même si l'adversaire Chaîne des cartes pour en avoir moins sur son terrain à la résolution, l'effet d'*Exciton* se résoudra quand même.
+La partie "si votre adversaire a plus de cartes" est avant la virgule, donc il s'agit d'une condition d'activation. Elle explicite que l'adversaire doit avoir plus de cartes afin que l'effet soit activable. Donc même si l'adversaire Chaîne des cartes pour en avoir moins sur son Terrain à la résolution, l'effet d'*Exciton* se résoudra quand même.
 
 Si une carte a une condition à l'activation ET la résolution, elle spécifiera quelque chose comme la dernière phrase de *Grenouille d'Arbre* (anciennement *Rainette*) :
 - *Une fois par tour, durant votre Standby Phase, si cette carte est dans votre Cimetière et que vous ne contrôlez pas "Grenouille d'Arbre" : vous pouvez Invoquer Spécialement cette carte. <ins>Vous ne devez contrôler aucune Carte Magie/Piège pour activer et résoudre cet effet.</ins>*

@@ -3,24 +3,24 @@
 # Divers Rulings
 Dans cet article, nous passerons en revue différentes zones de règles : le Game State, et enfin, le sujet mystère...
 
-N'oubliez pas de jeter un œil au dernier article, sur les [légalité d'activation](11_Legalite_Activation.md) !
+N'oubliez pas de jeter un œil au dernier article, sur les [légalités d'activation](11_Legalite_Activation.md) !
 
 ## Le Game State
 Le Game State correspond à l'emplacement de chaque carte connue par chaque joueur. Naturellement, le Game State évolue au fur et à mesure que les joueurs piochent des cartes et effectuent des actions. 
 
-A noter que l'ordre du deck est aléatoire, donc son ordre ne fait pas partie du Game State (sauf si des effets comme *Zombie Épidémique* sont utilisés pour placer une carte au dessus du Deck). Donc si je mélange le Deck, le Game State n'est pas changé. De plus, 'connaître des cartes' ne fait pas non plus partie du Game State : si je révèle une carte de ma main ou une carte Posée sans raison particulière, alors le Game State n'est pas brisé. 
+À noter que l'ordre du Deck est aléatoire, donc son ordre ne fait pas partie du Game State (sauf si des effets comme *Zombie Épidémique* sont utilisés pour placer une carte au-dessus du Deck). Donc si je mélange le Deck, le Game State n'est pas changé. De plus, "connaître des cartes" ne fait pas non plus partie du Game State : si je révèle une carte de ma main ou une carte Posée sans raison particulière, alors le Game State n'est pas brisé. 
 
-Si le Game State ne peut pas être réparé de sorte à ce que les deux joueurs peuvent vérifier, alors le Game State est dit irréparable. Voyons quelques exemples. 
+Si le Game State ne peut pas être réparé de sorte que les deux joueurs peuvent vérifier, alors le Game State est dit irréparable. Voyons quelques exemples. 
 
-*Joueur A a 5 cartes en main (et Joueur B ne les connais pas). Joueur A pioche une carte illégalement, puis mélange sa main, et Joueur B ne sait pas identifier quelle carte Joueur A a pioché.*
+*Joueur A a 5 cartes en main (et Joueur B ne les connait pas). Joueur A pioche une carte illégalement, puis mélange sa main et Joueur B ne sait pas identifier quelle carte Joueur A a pioché.*
 
 Il est impossible pour Joueur B de s'assurer que Joueur A reposera la bonne carte dans son Deck pour réparer le Game State, il s'agit donc d'un Game State irréparable. 
 
-*Joueur A envoie 3 cartes du dessus de son Deck au Cimetière durant la End Phase via l'effet d'un monstre Seigneur Lumière, avant que Joueur B ne remarque que Absorption de Compétences aurait du l'annuler.*
+*Joueur A envoie 3 cartes du dessus de son Deck au Cimetière durant la End Phase via l'effet d'un monstre Seigneur Lumière, avant que Joueur B ne remarque qu'Absorption de Compétences aurait dû l'annuler.*
 
 Les 3 cartes envoyées au Cimetière ont été vues par les deux joueurs, donc le Game State est considéré comme réparable.
 
-Les policies de Konami expliquent que des cartes accidentellement piochées / envoyées du Deck au Cimetière doivent être révélées aux deux joueurs et renvoyées au dessus du Deck sans le mélanger. Ceci s'applique également au second cas, vu ci-dessus : Joueur A devra renvoyer les 3 cartes au dessus de son Deck dans le bon ordre.
+Les policies de Konami expliquent que des cartes accidentellement piochées / envoyées du Deck au Cimetière doivent être révélées aux deux joueurs et renvoyées au-dessus du Deck sans le mélanger. Ceci s'applique également au second cas, vu ci-dessus : Joueur A devra renvoyer les 3 cartes au-dessus de son Deck dans le bon ordre.
 
 En général, si un seul joueur est responsable pour créer un Game State irréparable, il sera pénalisé d'un Game Loss (C'est-à-dire qu'il sera considéré comme ayant perdu le Duel en cours, mais pas le Match). 
 
@@ -28,7 +28,7 @@ En général, si un seul joueur est responsable pour créer un Game State irrép
 ## Modificateurs d'ATK
 Les bases des modificateurs d'ATK ne sont pas si difficiles qu'elles paraissent. Cependant, elles restent complexes à comprendre. Nous allons donc les décomposer et les parcourir lentement, mais ces points demandent de la concentration.
 
-A tout moment, les monstres ont une ATK originale et une ATK actuelle. L'ATK d'un monstre est son ATK originelle, sauf si une carte ou effet la modifie. 
+À tout moment, les monstres ont une ATK originale et une ATK actuelle. L'ATK d'un monstre vaut son ATK originelle, sauf si une carte ou effet la modifie. 
 
 Quels types de modificateurs d'ATK existent ? Les types principaux sont les suivants. 
 
@@ -37,7 +37,7 @@ Quels types de modificateurs d'ATK existent ? Les types principaux sont les suiv
     Ces modificateurs s'appliquent, comme leur nom indique, de manière continue. Par exemple, l'effet d'augmentation d'ATK de (la Magie Continue) *Formation Feu - Tenki* est appliqué de manière continue :
     - *Tous les monstres Bête-Guerrier que vous contrôlez gagnent 100 ATK.*
 
-    Le terme 'effet continu' explique tout ce qu'il y a à connaître sur le type d'effet. Si un monstre de type Bête-Guerrier devient inaffecté par les effets de cartes Magie / Piège, alors l'augmentation d'ATK de *Tenki* arrêtera de s'appliquer.
+    Le terme "effet continu" résume tout ce qu'il faut connaître sur le type d'effet. Si un monstre de type Bête-Guerrier devient inaffecté par les effets de cartes Magie / Piège, alors l'augmentation d'ATK de *Tenki* arrêtera de s'appliquer.
 
 - **Effets persistants**
 
@@ -46,7 +46,7 @@ Quels types de modificateurs d'ATK existent ? Les types principaux sont les suiv
 
     <ins>Chain Link 1</ins> : *Boost d'Ego*
 
-    <ins>Résolution de la Chaîne</ins> : *Boost d'Ego* se résout, augmentant l'ATK de la cible.
+    Résolution de la Chaîne : *Boost d'Ego* se résout, augmentant l'ATK de la cible.
 
     L'effet de *Boost d'Ego* persiste après que la Chaîne ait résolue. Même si le monstre devient inaffecté par les effets de cartes Magie / Piège après que *Boost d'Ego* ait résolu, il ne perdra PAS ses 1000 ATK, parce que *Boost d'Ego* a déjà été appliqué sur le monstre.
 
@@ -65,25 +65,25 @@ Les effets fixant l'ATK d'origine de monstres à l'Invocation rentre également 
 
 Donc si *Illusionniste d'Effet* ou *Absorption de Compétence* est utilisé pour annuler les effets de *Dragon Léviathan* après que son effet ait résolu, ou s'il est utilisé sur *Barbaros* n'importe quand après son Invocation Normale, alors leurs effets arrêteraient de s'appliquer et leur ATK reviendrait à leur ATK d'origine.
 
-A l'inverse, si l'effet peut s'appliquer à d'autres monstres, les modifications sont persistantes. Prenons par exemple *Numéro 20 : Giga-Brillant* :
+À l'inverse, si l'effet peut s'appliquer à d'autres monstres, les modifications sont persistantes. Prenons par exemple *Numéro 20 : Giga-Brillant* :
 - *Une fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; tous les monstres face recto que vous contrôlez actuellement gagnent 300 ATK.*
 
 L'effet de *Giga-Brillant* peut affecter d'autres monstres. Si *Absorption de Compétences* ou *Compétence de Percée* est utilisée après la résolution de l'effet de *Giga-Brillant*, alors le boost d'ATK persistera, tant sur lui-même que sur tous les autres monstres affectés par cet effet.
 
 Maintenant, la dernière catégorie de modificateurs d'ATK :
 
-- **Effets de 'gel'**
+- **Effets de "gel"**
 
-Ces modificateurs forcent l'ATK d'un monstre à 'devenir' une certaine valeur. 
+Ces modificateurs forcent l'ATK d'un monstre à "devenir" une certaine valeur. 
 
-Les effets qui (démarrent une Chaîne et) divisent par deux, doublent, ou 'changent' l'ATK rentrent aussi dans cette catégorie. Cependant, les effets s'appliquant de manière continue, qui changent l'ATK d'origine et ceux qui échangent l'ATK et la DEF ont des interactions plus compliquées, et ne seront pas considérés comme dans cette catégorie dans cet article. 
+Les effets qui (démarrent une Chaîne et) divisent par deux, doublent, ou "changent" l'ATK rentrent aussi dans cette catégorie. Cependant, les effets s'appliquant de manière continue, qui changent l'ATK d'origine et ceux qui échangent l'ATK et la DEF ont des interactions plus compliquées, et ne seront pas considérés comme dans cette catégorie dans cet article. 
 
 Un très bon exemple est celui de *Champion Héroïque - Excalibur* :
 - *Une fois par tour : vous pouvez détacher 2 Matériels de cette carte ; jusqu'à la fin du tour de votre adversaire, l'ATK de cette carte devient le double de son ATK d'origine.*
 
     ATK: 2000 | DEF: 2000
 
-Les effets gelant sont nommés de cette manière pour une raison : ils 'gèlent' l'ATK à une valeur spécifiée. La connexion que tout autre modificateur avait précédemment à ce monstre est rompue.
+Les effets gelant sont nommés de cette manière pour une raison : ils "gèlent" l'ATK à une valeur spécifiée. La connexion que tout autre modificateur avait précédemment à ce monstre est rompue.
 
 Voyons ce point en action. Supposons que j'Invoque par Xyz *Excalibur* alors que mon adversaire contrôle *Tours Apoqliphort* :
 - *Tous les monstres Invoqués Spécialement perdent 500 ATK/DEF.*
@@ -92,7 +92,7 @@ Voyons ce point en action. Supposons que j'Invoque par Xyz *Excalibur* alors que
 
 *Excalibur* aura donc 1500 ATK après son Invocation Xyz. Mais si son effet s'active, son ATK deviendra 4000. Elle ne sera pas réduite à 3500. L'effet de gel brise la connexion de l'effet de *Tours* sur *Excalibur*, bien que l'effet de *Tours* continue à s'appliquer.
 
-Une fois que l'effet d'*Excalibur* arrête de s'appliquer (mais que *Tours* est toujours sur le terrain), son ATK se dégèle : il retombe à son ATK d'origine de 2000, puis l'effet continu de *Tours* recommence à s'appliquer, puisqu'il est continu. Les effets persistants ne se réappliqueraient pas : si *Boost d'Ego* avait été utilisé sur *Excalibur* pour lui donner 1000 ATK avant qu'*Excalibur* n'utilise son effet, *Excalibur* reviendrait à 2000 et non pas 3000.
+Une fois que l'effet d'*Excalibur* arrête de s'appliquer (mais que *Tours* est toujours sur le Terrain), son ATK se dégèle : il retombe à son ATK d'origine de 2000, puis l'effet continu de *Tours* recommence à s'appliquer, puisqu'il est continu. Les effets persistants ne se réappliqueraient pas : si *Boost d'Ego* avait été utilisé sur *Excalibur* pour lui donner 1000 ATK avant qu'*Excalibur* n'utilise son effet, *Excalibur* reviendrait à 2000 et non pas 3000.
 
 Étrange, n'est-ce-pas ? C'est le fonctionnement général des effets de gel. 
 
@@ -116,11 +116,11 @@ Vous devriez maintenant pouvoir comprendre cette interaction très intéressante
 
 Prenons ceci étape par étape. 6 cartes en main nous dit que *Tragoedia* aurait initialement 3600 ATK. L'effet de *Mistral* gèle ensuite l'ATK de *Tragoedia* à 1800. Souvenez-vous que le gel brise la connexion à tout modificateur d'ATK s'appliquant précédemment... incluant l'effet continu de *Tragoedia*. Donc même après que mon adversaire pioche une carte, et peu importe combien de cartes mon adversaire a en main et défausse, l'ATK de *Tragoedia* restera bloquée à 1800 !
 
-Il existe bien plus de modificateurs compliqués et d'interactions, et très peu de personnes capables d'expliquer en détail les profondeurs des règles autour de *Rétrécissement*. Cependant, nous ne nous pencherons pas plus en détail sur ces points. Si besoin, n'hésitez pas à consulter des articles plus avancés, et demander sur des forums réputés. 
+Il existe bien plus de modificateurs compliqués et d'interactions, et très peu de personnes capables d'expliquer en détail les profondeurs des règles autour de *Rétrécissement*. Cependant, nous ne nous pencherons pas plus en détail sur ces points. Si besoin, n'hésitez pas à consulter des articles plus avancés et demander sur des forums réputés. 
 
 ## C'est l'heure du Quiz !
 
-1. J'active *Pot de Dualité* et révèle 3 cartes, en ajoute une à ma main et mélange les autres dans le Deck. Je réalise alors que j'ai *Erreur* face recto sur mon terrain :
+1. J'active *Pot de Dualité* et révèle 3 cartes, en ajoute une à ma main et mélange les autres dans le Deck. Je réalise alors que j'ai *Erreur* face recto sur mon Terrain :
    - *Aucun joueur ne peut ajouter de cartes depuis son Deck à sa main, sauf en les piochant.*
 
     L'activation de *Pot de Dualité* était-elle légale ? Si non, comment réparer le Game State ?
@@ -129,7 +129,7 @@ Il existe bien plus de modificateurs compliqués et d'interactions, et très peu
 
     - *Si cette carte est envoyée au Cimetière : ajoutez 1 "Dragon Blanc aux Yeux Bleus" depuis votre Deck à votre main.*
 
-    Cependant, je m'aperçois que je n'ai plus de *Dragon Blanc aux Yeux Bleus* dans mon deck : les trois exemplaires sont dans mon Cimetière. Mon activation était-elle correcte ?
+    Cependant, je m'aperçois que je n'ai plus de *Dragon Blanc aux Yeux Bleus* dans mon Deck : les trois exemplaires sont dans mon Cimetière. Mon activation était-elle correcte ?
 
 3. Supposons que je contrôle la carte Magie Continue *Formation Feu - Tenki*, et que j'Invoque *Bujin Yamato* (avec 1800 d'ATK d'origine). Supposons maintenant que je veuille utiliser l'effet de *Bujingi Grue* en attaquant avec :
 
@@ -140,8 +140,6 @@ Il existe bien plus de modificateurs compliqués et d'interactions, et très peu
     - *Bujingi Grue* : 
 
         *Durant le calcul des dommages (du tour de chaque joueur), si un monstre "Bujin" de Type Bête-Guerrier que vous contrôlez combat un monstre de votre adversaire : vous pouvez envoyer cette carte depuis votre main au Cimetière ; durant ce calcul des dommages uniquement, l'ATK de votre monstre devient le double de son ATK d'origine.*
-
-
 
     Quelle est l'ATK de *Yamato* après que l'effet de *Grue* ait résolu ? Quelle est l'ATK de *Yamato* après que l'effet de *Grue* arrête de s'appliquer ?
 
@@ -158,7 +156,7 @@ Il existe bien plus de modificateurs compliqués et d'interactions, et très peu
  
  3. **3600, puis 1900.** 
       
-      *L'effet de Grue gèle l'ATK de Yamato à 3600. L'effet de Tenki ne s'applique plus par dessus, puisque sa connexion à Yamato a été coupée. Ensuite, puisque le boost de Tenki s'applique de manière continu, il recommencera à augmenter l'ATK de Yamato une fois que l'effet de Grue arrête de s'appliquer et que l'ATK de Yamato est dégelée.*
+      *L'effet de Grue gèle l'ATK de Yamato à 3600. L'effet de Tenki ne s'applique plus par-dessus, puisque sa connexion à Yamato a été coupée. Ensuite, puisque le boost de Tenki s'applique de manière continue, il recommencera à augmenter l'ATK de Yamato une fois que l'effet de Grue arrête de s'appliquer et que l'ATK de Yamato est dégelée.*
 
 </details>
 

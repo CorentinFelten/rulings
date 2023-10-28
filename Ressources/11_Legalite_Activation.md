@@ -1,7 +1,7 @@
 # Démystification de rulings
 
 # Légalité d'Activation
-Dans cet article, nous utiliserons le terme de 'tentative' pour étudier différents rulings pour savoir si une action ou activation est légale. 
+Dans cet article, nous utiliserons le terme de "tentative" pour étudier différents rulings pour savoir si une action ou activation est légale. 
 
 N'oubliez pas de jeter un œil au dernier article sur les [annulations](10_Annulations.md) !
 
@@ -10,10 +10,10 @@ N'oubliez pas de jeter un œil au dernier article sur les [annulations](10_Annul
 L'effet (important) de *Fossile Dyna Pachycéphalosaure* est le suivant :
 - *Aucun joueur ne peut Invoquer Spécialement de monstres.*
 
-Si cet effet est lu et interprété "*Aucun joueur ne peut (tenter d') Invoquer Spécialement de monstres.*", cette interprétation aide à comprendre pourquoi il n'est pas possible d'utiliser *Fossile Dyna* pour une Invocation Synchro ou Xyz, ou en tant que Sacrifice pour une Invocation Spéciale : bien que ces actions résulteraient en *Fossile Dyna* en dehors du terrain, il n'est simplement pas possible de les tenter tant que *Fossile Dyna* reste face recto.
+Si cet effet est lu et interprété "*Aucun joueur ne peut (tenter d') Invoquer Spécialement de monstres.*", cette interprétation aide à comprendre pourquoi il n'est pas possible d'utiliser *Fossile Dyna* pour une Invocation Synchro ou Xyz, ou en tant que Sacrifice pour une Invocation Spéciale : bien que ces actions résulteraient en *Fossile Dyna* en dehors du Terrain, il n'est simplement pas possible de les tenter tant que *Fossile Dyna* reste face recto.
 
 ## Si une Invocation Spéciale est annulée, *Pot de Dualité* peut-il être activé par la suite ?
-*Pot de Dualité* a la clause suivante :
+L'effet de *Pot de Dualité* contient la clause suivante :
 - *Vous ne pouvez pas Invoquer Spécialement durant le tour où vous activez cette carte.*
 
 Le facteur important dans ce cas est de savoir si une Invocation Spéciale a été réussie ou non. *Pot de Dualité* ne peut pas être activé si une Invocation Spéciale a effectivement eu lieu ce tour.
@@ -31,24 +31,24 @@ Si *Avertissement Divin* annule l'activation de *Prêtre Invocateur*, alors *Pot
 *Combat en Présence de l'Empereur* a l'effet suivant :
 - *Chaque joueur ne peut contrôler qu'1 Attribut de monstre. Envoyez tous les autres monstres face recto qu'il contrôle au Cimetière.*
 
-Rivalry fonctionne sur le même principe, mais pour les Types.
+*Rivalité* fonctionne sur le même principe, mais pour les Types.
 
-De la même manière que pour *Fossile Dyna Pachycéphalosaure*, il n'est pas possible de tenter une Invocation Xyz d'un monstre TERRE en utilisant deux monstres TÉNÈBRE. Cette action correspond à une tentative de contrôle d'un monstre d'un attribut différent.
+De la même manière que pour *Fossile Dyna Pachycéphalosaure*, il n'est pas possible de tenter une Invocation Xyz d'un monstre TERRE en utilisant deux monstres TÉNÈBRE sous *Combat en Présence de l'Empereur*. Cette action correspond à une tentative de contrôle d'un monstre d'un attribut différent.
 
 Il existe différents rulings plus simple à comprendre une fois que ces principes sont assimilés. 
 
 ## Principe de Coûts
 Voyons directement le principe de coût : **Si un joueur ne peut pas payer son coût, alors il ne peut pas activer son effet.**
 
-Les cartes comme *Loi des Ténèbres, HÉROS Masqué* sont responsable de ce genre de situation :
+Les cartes comme *Loi des Ténèbres, HÉROS Masqué* sont responsables de ce genre de situation :
 - *Les cartes envoyées au Cimetière de votre adversaire sont bannies à la place.*
 
-Tant que *Loi des Ténèbres* est face recto sur le terrain de votre adversaire, il est simplement impossible d'envoyer des cartes de votre main au Cimetière.
+Tant que *Loi des Ténèbres* est face recto sur le Terrain de votre adversaire, il est simplement impossible d'envoyer des cartes de votre main ou Deck au Cimetière.
 
 Regardons maintenant *Illusionniste d'Effet* :
 - *Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière, puis ciblez 1 Monstre à Effet contrôlé par votre adversaire ; jusqu'à la fin de ce tour, annulez les effets du monstre face recto contrôlé par votre adversaire.*
 
-Le coût d'*Illusionniste d'Effet* implique de l'envoyer au Cimetière, mais tant que *Loi des Ténèbres* est sur le terrain, il est impossible d'envoyer une carte au Cimetière. Puisqu'il n'est pas possible de payer le coût d'*Illusionniste d'Effet*, son effet ne peut pas être activé.
+Le coût d'*Illusionniste d'Effet* implique de l'envoyer au Cimetière, mais tant que *Loi des Ténèbres* est sur le Terrain, il est impossible d'envoyer une carte au Cimetière. Puisqu'il n'est pas possible de payer le coût d'*Illusionniste d'Effet*, son effet ne peut pas être activé.
 
 Si une carte ne spécifie pas qu'elle a besoin d'être envoyée au Cimetière (par exemple, quand elle précise juste d'être Sacrifiée ou défaussée), alors ses effets peuvent toujours être activés.
 
@@ -63,12 +63,12 @@ Par exemple, l'effet de *Sangan* pour ajouter du Deck à sa destruction s'active
 
 Bien entendu, tant que *Rai-Oh* est face recto à la résolution, l'effet de *Sangan* résoudra sans ajouter de carte. 
 
-Cependant, si *Démon de la Majesté* est sur le terrain, l'effet de *Sangan* ne s'activerait simplement pas :
+Cependant, si *Démon de la Majesté* est sur le Terrain, l'effet de *Sangan* ne s'activerait simplement pas :
 - *Aucun joueur ne peut activer d'effets de monstre.*
 
 ## Défausser et Invoquer Spécialement la carte défaussée avec *Lumina l'Invocatrice, Seigneur Lumière*
 
-Une question commune est de savoir si cet effet peut être utilisé pour sacrifier un monstre Seigneur Lumière Niveau 4 ou moins, et Invoquer Spécialement ce même monstre. 
+Une question fréquente est de savoir si cet effet peut être utilisé pour défausser un monstre Seigneur Lumière Niveau 4 ou moins et Invoquer Spécialement ce même monstre. 
 
 L'effet en question de *Lumina* est le suivant :
 - *Une fois par tour : vous pouvez défausser 1 carte, puis ciblez 1 monstre "Seigneur Lumière" de max. Niveau 4 dans votre Cimetière ; Invoquez-le Spécialement.*
@@ -78,15 +78,15 @@ Dans un premier cas, si le Cimetière n'a pas de monstre Seigneur Lumière, il e
 Cependant, si vous avez une cible Seigneur Lumière valide dans le Cimetière, alors il est possible d'Invoquer le monstre défaussé. L'activation est légale, donc il est possible de défausser un monstre Seigneur Lumière, et comme le mot-clef 'puis' explique que la cible est sélectionnée dans un second temps, il est possible de cibler le monstre défaussé. 
 
 ## Plus de rulings
-Cette section est remplie de divers rulings à voir avec le concept de légalité d'activation. En les étudiants, il devient plus simple de comprendre quand il est possible ou non d'activer différents effets. 
+Cette section est remplie de divers rulings à voir avec le concept de légalité d'activation. En les étudiant, il devient plus simple de comprendre quand il est possible ou non d'activer différents effets. 
 
 Voici quelques rulings concernant des actions impossibles :
 
-- Il N'EST PAS POSSIBLE d'activer *Trappe sans Fond* tant que *Mur de Fer Impérial* est déjà résolu face recto sur le terrain. *L'effet tente de bannir alors que Mur de Fer est déjà résolu.*
+- Il N'EST PAS POSSIBLE d'activer *Trappe sans Fond* tant que *Mur de Fer Impérial* est déjà résolu face recto sur le Terrain. *L'effet tente de bannir alors que Mur de Fer est déjà résolu.*
 
-- Il N'EST PAS POSSIBLE d'activer *Cohue Cérébrale* sans avoir une carte en main, même si le joueur 'sait' qu'il sera capable de déclarer la bonne carte. *Si son adversaire n'a pas la carte en main en résolution, le joueur ne serait pas capable de défausser quoi que ce soit.*
+- Il N'EST PAS POSSIBLE d'activer *Cohue Cérébrale* sans avoir une carte en main, même si le joueur sait qu'il sera capable de déclarer la bonne carte. *Si son adversaire n'a pas la carte en main en résolution, le joueur ne serait pas capable de défausser quoi que ce soit.*
 
-- Il N'EST PAS POSSIBLE d'activer *Trou Noir* si le terrain est vide. *Il n'est pas possible d'activer une carte ne faisant rien.*
+- Il N'EST PAS POSSIBLE d'activer *Trou Noir* si le Terrain est vide. *Il n'est pas possible d'activer une carte ne faisant rien.*
 
 Voici ensuite quelques rulings concernant des actions possibles :
 
@@ -96,100 +96,98 @@ Voici ensuite quelques rulings concernant des actions possibles :
 
 - Il EST POSSIBLE d'activer *Trappe sans Fond* sur l'Invocation de *Beelze des Dragons Diaboliques*. *Bien qu'une carte ne peut pas être détruite, il est toujours possible de tenter de la détruire.*
 
-- Il EST POSSIBLE d'activer *Trappe sans Fond* sur l'Invocation de *Tours Apoqliphort*. *Similaire au ruling précédent, celui-ci explique que même si une carte n'est pas affectée par des effets de cartes Piège, il est toujours possible de tenter d'utiliser des pièges dessus.*
+- Il EST POSSIBLE d'activer *Trappe sans Fond* sur l'Invocation de *Tours Apoqliphort*. *Similaire au ruling précédent, celui-ci explique que même si une carte n'est pas affectée par des effets de cartes Piège, il est toujours possible de tenter d'utiliser des effets de Piège dessus.*
 
-- Il EST POSSIBLE d'activer *Sacrifice Inutile* tant que *Macro Cosmos* est face recto sur le terrain. *Bien que toutes les cartes sont bannies au lieu d'être envoyées au Cimetière, il est toujours possible de tenter d'envoyer des cartes au Cimetière en résolution d'effet, mais n'oubliez pas le principe de coûts.*
+- Il EST POSSIBLE d'activer *Sacrifice Inutile* tant que *Macro Cosmos* est face recto sur le Terrain. *Bien que toutes les cartes sont bannies au lieu d'être envoyées au Cimetière, il est toujours possible de tenter d'envoyer des cartes au Cimetière en résolution d'effet, mais n'oubliez pas le principe de coûts.*
 
 Il existe bien évidemment plus de détails concernant la légalité d'activation que nous ne traiterons pas ici, et ce point peut être assez velu en dehors des cas couverts ici. Pour les cas les plus complexes, il est conseillé de consulter un article ou vérifier le ruling au cas par cas.
 
 ## C'est l'heure du Quiz !
 Utilisez les rulings plus hauts pour répondre aux questions suivantes. Si vous n'êtes pas sur, n'hésitez pas à remonter pour identifier le ruling le plus cohérent à la situation.
 
-1. Quels effets peuvent être activés tant que *Macro Cosmos* est face recto sur le terrain ?
+1. Quels effets peuvent être activés tant que *Macro Cosmos* est face recto sur le Terrain ?
 
-- *Lancea - Artéfact* :
+    - *Lancea - Artéfact* :
 
-    *Durant le tour de votre adversaire (Effet Rapide) : vous pouvez Sacrifier cette carte depuis votre main ou Terrain face recto ; le reste de ce tour, aucun joueur ne peut bannir de cartes.*
+        *Durant le tour de votre adversaire (Effet Rapide) : vous pouvez Sacrifier cette carte depuis votre main ou Terrain face recto ; le reste de ce tour, aucun joueur ne peut bannir de cartes.*
 
-- Cet effet de *Nékroz de Valkyrus* :
+    - Cet effet de *Nékroz de Valkyrus* :
 
-    *Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir 1 carte "Nékroz" depuis votre Cimetière et défausser cette carte ; annulez l'attaque, puis terminez la Battle Phase.*
+        *Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir 1 carte "Nékroz" depuis votre Cimetière et défausser cette carte ; annulez l'attaque, puis terminez la Battle Phase.*
 
-- Cet effet de *Reine Harpie* :
+    - Cet effet de *Reine Harpie* :
 
-    *Vous pouvez défausser cette carte au Cimetière ; ajoutez 1 "Terrain de Chasse des Harpies" depuis votre Deck à votre main.*
+        *Vous pouvez défausser cette carte au Cimetière ; ajoutez 1 "Terrain de Chasse des Harpies" depuis votre Deck à votre main.*
 
-- Cet effet de *Cancrelat Maxx* :
+    - Cet effet de *Cancrelat Maxx* :
 
-    *Durant le tour de chaque joueur : vous pouvez envoyer cette carte depuis votre main au Cimetière ; ce tour, chaque fois que votre adversaire Invoque Spécialement un ou plusieurs monstres, piochez immédiatement 1 carte.*
+        *Durant le tour de chaque joueur : vous pouvez envoyer cette carte depuis votre main au Cimetière ; ce tour, chaque fois que votre adversaire Invoque Spécialement un ou plusieurs monstres, piochez immédiatement 1 carte.*
 
 
 2. Quels manières d'Invoquer par Xyz *Numéro 39 : Utopie* sont légales ?
 
-- En utilisant deux *Chasseur Numéral* :
+    - En utilisant deux *Chasseur Numéral* :
 
-    *Aucun joueur ne peut Invoquer Spécialement de Monstres Xyz "Numéro".*
+        *Aucun joueur ne peut Invoquer Spécialement de Monstres Xyz "Numéro".*
 
-- En utilisant deux monstres de Type Bête tant que *Rivalité des Seigneurs de Guerre* est sur le terrain :
+    - En utilisant deux monstres de Type Bête tant que *Rivalité des Seigneurs de Guerre* est sur le Terrain :
 
-    *Chaque joueur ne peut contrôler qu'1 Type de monstre.*
+        *Chaque joueur ne peut contrôler qu'1 Type de monstre.*
 
-- En Invoquant par Xyz après que l'activation de l'effet de *Voiturcarte D* ait été annulée par *Colère Divine* :
+    - En Invoquant par Xyz après que l'activation de l'effet de *Voiturcarte D* ait été annulée par *Colère Divine* :
 
-    *Durant votre Main Phase 1, si cette carte a été Invoquée Normalement ce tour : vous pouvez Sacrifier cette carte ; piochez 2 cartes, puis passez à la End Phase. Vous ne pouvez pas Invoquer Spécialement durant le tour où vous activez cet effet.*
-
-
-3. Quels effets peuvent être / vont être activés tant que *Dragon de Foudre Koa'ki Meiru* est face recto sur le terrain ? On suppose que le joueur n'a que des monstres LUMIÈRE et TÉNÈBRE dans le Cimetière.
-
-- *Dragon de Foudre Koa'ki Meiru* :
-
-    *Aucun joueur ne peut Invoquer Spécialement de monstres LUMIÈRE ou TÉNÈBRES.*
+        *Durant votre Main Phase 1, si cette carte a été Invoquée Normalement ce tour : vous pouvez Sacrifier cette carte ; piochez 2 cartes, puis passez à la End Phase. Vous ne pouvez pas Invoquer Spécialement durant le tour où vous activez cet effet.*
 
 
-- Cet effet de *Dragon de la Lumière et des Ténèbres* :
+3. Quels effets peuvent être / vont être activés tant que *Dragon de Foudre Koa'ki Meiru* est face recto sur le Terrain ? On suppose que le joueur n'a que des monstres LUMIÈRE et TÉNÈBRE dans le Cimetière.
 
-    *Lorsque cette carte est détruite et envoyée au Cimetière : ciblez 1 monstre dans votre Cimetière (si possible) ; détruisez toutes les cartes que vous contrôlez, et aussi, Invoquez Spécialement le monstre (s'il y en a un).*
+    - *Dragon de Foudre Koa'ki Meiru* :
 
-- *Le Livre de la Vie*
+        *Aucun joueur ne peut Invoquer Spécialement de monstres LUMIÈRE ou TÉNÈBRES.*
 
-    *Ciblez 1 monstre Zombie dans votre Cimetière et 1 monstre dans le Cimetière de votre adversaire ; Invoquez Spécialement la première cible, et aussi, bannissez la seconde cible.*
 
-- *Pacte avec le Diable* en ciblant *Dragon de Foudre Koa'ki Meiru* (avec uniquement des monstres LUMIÈRE et TÉNÈBRE en main) :
+    - Cet effet de *Dragon de la Lumière et des Ténèbres* :
 
-    *Ciblez 1 monstre Invoqué Spécialement sur l'un des Terrains ; envoyez-le au Cimetière, et si vous le faites, Invoquez Spécialement 1 Monstre Normal de max. Niveau 4 depuis votre main.*
+        *Lorsque cette carte est détruite et envoyée au Cimetière : ciblez 1 monstre dans votre Cimetière (si possible) ; détruisez toutes les cartes que vous contrôlez, et aussi, Invoquez Spécialement le monstre (s'il y en a un).*
 
+    - *Le Livre de la Vie*
+
+        *Ciblez 1 monstre Zombie dans votre Cimetière et 1 monstre dans le Cimetière de votre adversaire ; Invoquez Spécialement la première cible, et aussi, bannissez la seconde cible.*
+
+    - *Pacte avec le Diable* en ciblant *Dragon de Foudre Koa'ki Meiru* (avec uniquement des monstres LUMIÈRE et TÉNÈBRE en main) :
+
+        *Ciblez 1 monstre Invoqué Spécialement sur l'un des Terrains ; envoyez-le au Cimetière, et si vous le faites, Invoquez Spécialement 1 Monstre Normal de max. Niveau 4 depuis votre main.*
 
 
 4. Dans quelles circonstances l'activation de *Stellnova Alpha* est-elle possible ?
 
-- *Stellnova Alpha* :
+    - *Stellnova Alpha* :
 
-    *Lorsqu'une Carte Magie/Piège ou un effet de monstre est activé : envoyez 1 monstre "tellchevalier" face recto que vous contrôlez au Cimetière ; annulez l'activation, et si vous le faites, détruisez la carte, puis piochez 1 carte.*
+        *Lorsqu'une Carte Magie/Piège ou un effet de monstre est activé : envoyez 1 monstre "tellchevalier" face recto que vous contrôlez au Cimetière ; annulez l'activation, et si vous le faites, détruisez la carte, puis piochez 1 carte.*
 
 
-- Pour annuler l'effet de *Protecteur Mortuaire* dans le Cimetière :
+    - Pour annuler l'effet de *Protecteur Mortuaire* dans le Cimetière :
 
-    *Durant le tour de votre adversaire : vous pouvez bannir cette carte depuis votre Cimetière ; ce tour, annulez la prochaine attaque de monstre contrôlé par votre adversaire (ceci est un Effet Rapide).*
+        *Durant le tour de votre adversaire : vous pouvez bannir cette carte depuis votre Cimetière ; ce tour, annulez la prochaine attaque de monstre contrôlé par votre adversaire (ceci est un Effet Rapide).*
 
-- Tant que votre adversaire contrôle un *Protecteur du Sanctuaire* sur le terrain :
+    - Tant que votre adversaire contrôle un *Protecteur du Sanctuaire* sur le Terrain :
 
-    *Votre adversaire ne peut pas piocher de cartes excepté durant les Draw Phase.*
+        *Votre adversaire ne peut pas piocher de cartes excepté durant les Draw Phase.*
 
-- Pour annuler l'effet de *Évolzar Solda* (avec 2 Matériels) :
+    - Pour annuler l'effet de *Évolzar Solda* (avec 2 Matériels) :
 
-    *Non destructible par des effets de carte tant qu'elle a du Matériel. Lorsque votre adversaire Invoque Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez détacher 1 Matériel de cette carte ; détruisez ces monstres.*
+        *Non destructible par des effets de carte tant qu'elle a du Matériel. Lorsque votre adversaire Invoque Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez détacher 1 Matériel de cette carte ; détruisez ces monstres.*
 
-- Tant que *Décret Royal* est face recto :
+    - Tant que *Décret Royal* est face recto :
 
-    *Annulez tous les autres effets de Piège sur le Terrain.*
+        *Annulez tous les autres effets de Piège sur le Terrain.*
 
-- Pour annuler l'effet de *Ryko le Chasseur, Seigneur Lumière* retourné durant la Damage Step :
+    - Pour annuler l'effet de *Ryko le Chasseur, Seigneur Lumière* retourné durant la Damage Step :
 
-    *FLIP : Appliquez ces effets (simultanément).*
+        *FLIP : Appliquez ces effets (simultanément).*
 
-    - *Vous pouvez détruire 1 carte sur le Terrain.*
-    - *Envoyez les 3 cartes du dessus de votre Deck au Cimetière.*
-
+        - *Vous pouvez détruire 1 carte sur le Terrain.*
+        - *Envoyez les 3 cartes du dessus de votre Deck au Cimetière.*
 
 
 <details>
@@ -205,7 +203,7 @@ Utilisez les rulings plus hauts pour répondre aux questions suivantes. Si vous 
  
  3. **L'effet de *Dragon de la Lumière et des Ténèbres*.** 
       
-      *Dragon de la Lumière et des Ténèbres a un effet obligatoire, donc il doit s'activer d'après le principe des effets obligatoires. Le Livre de la Vie et Pacte avec le Diable tentent tous deux d'Invoquer Spécialement, donc ils ne peuvent pas être activés. A noter que la conjonction 'et aussi' du Livre de la Vie, et le fait que Pacte avec le Diable enverrait Dragon de Foudre au Cimetière ne sont tous deux pas significatif pour déterminer la légalité de l'action dans ce cas.*
+      *Dragon de la Lumière et des Ténèbres a un effet obligatoire, donc il doit s'activer d'après le principe des effets obligatoires. Le Livre de la Vie et Pacte avec le Diable tentent tous deux d'Invoquer Spécialement, donc ils ne peuvent pas être activés. À noter que la conjonction 'et aussi' du Livre de la Vie, et le fait que Pacte avec le Diable enverrait Dragon de Foudre au Cimetière ne sont tous deux pas significatifs pour déterminer la légalité de l'action dans ce cas.*
 
  4. **Tous les cas, sauf lorsque *Protecteur du Sanctuaire* est face recto.**
  
@@ -213,5 +211,5 @@ Utilisez les rulings plus hauts pour répondre aux questions suivantes. Si vous 
 
 </details>
 
-Nous arrivons à l'avant-dernier article, concernant le [Game State, et un sujet mystère !](12_Divers.md) Quel est-il ? Découvrez-le dans le prochain article !
+Nous arrivons à l'avant-dernier article, concernant le [Game State et un sujet mystère !](12_Divers.md) Quel est-il ? Découvrez-le dans le prochain article !
 
