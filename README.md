@@ -1,10 +1,10 @@
 # Démystification de rulings
 
-Cet ensemble de documents est une traduction en français des articles publiés sur YGOrganization par [**Bilaterus**](https://ygorganization.com/author/bilaterus/page/2/) entre 2015 et 2016, dont le but est de clarifier des points de règles dans Yu-Gi-Oh!. 
+Cet ensemble de documents est une traduction en français des articles publiés sur YGOrganization par [**Bilaterus**](https://ygorganization.com/author/bilaterus/page/2/) entre 2015 et 2016 en anglais, dont le but est de clarifier des points de règles dans Yu-Gi-Oh!. 
 
 Il est vivement conseillé de lire ces articles dans l'ordre, puisque certains se basent sur des points de règles expliqués dans les articles précédents.
 
-## Sommaire :
+## Sommaire
 - [0 - Introduction](Ressources/0_Introduction.md)
 - [1 - PSCT](Ressources/1_PSCT.md)
 - [2 - Ciblage](Ressources/2_Ciblage.md)
@@ -61,7 +61,7 @@ Cette ressource vous permet également d'identifier le bon effet à appliquer po
 
 Dernier point concernant l'anglais, n'oubliez pas que Yu-Gi-Oh!, en tant que jeu compétitif, est souvent anglophone dans ses termes techniques. Aucun terme anglophone ne sera employé dans ces documents (autant que possible), afin de faciliter la lecture pour des francophones ne les connaissant pas, mais je vous encourage à vous renseigner et vous former à l'international pour améliorer votre niveau !
 
-## Ressources complémentaires :
+## Ressources complémentaires
 - [Ruling - Livret de Règles](https://www.yugioh-card.com/en/downloads/rulebook/SD_RuleBook_EN_10.pdf)
 - [RC1 - Rulings Comprehension 1](https://yugiohblog.konami.com/judgetest/agegate.php?l=&test=rulings)
 - [Base de données officielle](https://www.db.yugioh-card.com/yugiohdb/)
