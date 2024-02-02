@@ -17,7 +17,7 @@ Je peux penser à au moins cinq raisons pour justifier apprendre les rulings :
 
 3. **La connaissance de rulings aide pour la construction de decks**. En connaissant bien vos rulings, lire une nouvelle carte et comprendre comment elle s'intègre dans un Deck uniquement en lisant son texte devient beaucoup plus facile, surtout pour déterminer si la carte sera intéressante ou non.
 
-4. **Être à l'aise avec les rulings peut vous faire gagner** à vous, votre adversaire, et votre Judge, **du temps** dans un duel, ce qui peut être crucial, surtout dans des tournois ayant une limite de temps.
+4. **Être à l'aise avec les rulings peut vous faire gagner**, à vous, votre adversaire, et votre Judge, **du temps** dans un duel, ce qui peut être crucial, surtout dans des tournois ayant une limite de temps.
 
 5. **Être à l'aise avec les rulings libère de la charge mentale pour vous aider à vous concentrer sur un jeu optimal**.
 
@@ -66,7 +66,7 @@ Voici quelques questions rapides pour tester des points importants. Les réponse
 5. Vrai ou Faux : Si vous envoyez un Monstre Synchro de votre Extra Deck au Cimetière, vous pouvez ensuite l'Invoquer par Invocation Spéciale depuis le Cimetière avec des effets de cartes.
 
 <details>
-<summary>Réponses</summary>
+<summary>Réponses (cliquez dessus pour les afficher)</summary>
     
  1. **Les Magies Rapides et les Pièges Continus.** 
       
