@@ -1,7 +1,7 @@
 # Démystification de rulings
 
 # Damage Step
-La Damage Step est une zone de règles très mystérieuse et complexe. Dans cet article, nous développerons votre intuition pour comprendre sa structure. 
+La Damage Step est une zone de règles mystérieuse et complexe. Dans cet article, nous tenterons de développer votre intuition pour en comprendre sa structure. 
 
 Cet article est en lien avec le dernier sur la [Battle Phase](8_Battle_Phase.md).
 
@@ -66,9 +66,9 @@ Revenons sur *Dame Guerrière D.D.* attaquant mon *Soldat Pingouin* : leurs effe
 
 Le terme "marqué pour destruction" a été mentionné plus tôt. Ce point est probablement le plus étrange jusque-là. Un monstre "marqué pour destruction" est toujours sur le Terrain, mais le jeu reconnaît qu'il partira bientôt au Cimetière en conséquence du combat.
 
-Qu'est-ce que "marqué pour destruction" veut dire ? Une conséquence de ce marquage est que mon *Soldat Pingouin* est toujours sur le Terrain jusqu'à ce point, et jusqu'à la prochaine partie de la Damage Step. 
+Que veut dire "marqué pour destruction" ? Une conséquence de ce marquage est que mon *Soldat Pingouin* est toujours sur le Terrain jusqu'à ce point, et jusqu'à la prochaine partie de la Damage Step. 
 
-Une autre conséquence du marquage implique que *Soldat Pingouin* ne pourra ni s'affecter ni se cibler avec son propre effet (il ne pourra donc pas se retourner lui-même à la main). Aucune autre carte ne peut le retourner à la main ou au Deck non plus, mais la carte peut toujours être détruite, bannie ou avoir ses effets annulés. 
+Une autre conséquence du marquage implique que *Soldat Pingouin* ne pourra ni s'affecter ni se cibler avec son propre effet (il ne pourra donc pas se retourner lui-même à la main). Aucune autre carte ne peut le retourner à la main ou au Deck, mais la carte peut toujours être détruite, bannie ou avoir ses effets annulés.
 
 Dans l'exemple donné plus tôt, supposons que *Dame Guerrière D.D.* a détruit *Soldat Pingouin* au combat. *Soldat Pingouin* est maintenant marqué pour destruction, donc il ne peut pas se cibler avec son propre effet. De plus, si *Dame Guerrière D.D.* active son effet, elle pourra bannir *Soldat Pingouin* malgré tout (ce qui est attendu de l'effet de *Dame Guerrière D.D.*, finalement).
 
@@ -84,7 +84,7 @@ Comme d'habitude, les effets qui mentionnent une activation à ce stade, soit "�
 Souvenez-vous de l'article sur les timings d'effets rapides que le jeu n'avancera pas jusqu'à ce que tous les effets ont fini de s'activer. Donc si *Abysslinde* Invoque Spécialement un monstre comme *Sirènemure Abysspike*, son effet déclencheur s'activera toujours dans cette partie de la Damage Step (et *Trappe Sans Fond* ne pourra pas s'activer) :
 - *Lorsque cette carte est Invoquée Normalement ou Spécialement : vous pouvez défausser 1 monstre EAU au Cimetière ; ajoutez 1 monstre EAU de Niveau 3 depuis votre Deck à votre main.*
 
-Ce point est le dernier, et après ce stade le combat est fini. Après la résolution de la Damage Step, le joueur du tour retourne en Battle Step et le joueur peut déclarer une nouvelle attaque. Mais s'il en déclare une nouvelle, il devra repasser par toutes ces étapes de nouveau.
+Il s'agit de la dernière portion de la Damage Step, et après ce stade le combat est fini. Après la résolution de la Damage Step, le joueur du tour retourne en Battle Step et peut déclarer une nouvelle attaque. S'il en déclare une nouvelle, il devra repasser par toutes ces étapes de nouveau.
 
 ## Points divers
 Certaines cartes empêchent des cartes et effets de s'activer durant la Damage Step. Un bon exemple est *Armades, Gardien des Frontières* :
@@ -171,7 +171,7 @@ Ce quiz est plus compliqué que les précédent. Souvenez-vous que le nombre de 
 
 7. **Non.**
 
-    *Rat Géant perd le combat, et est marqué pour destruction. Cependant, Dragon Rouge Archdémon le détruit après le calcul des dommages, avant qu'il ne soit envoyé au Cimetière à cause du combat.*
+    *Rat Géant perd le combat, et est marqué pour destruction. Cependant, Dragon Rouge Archdémon le détruit par effet après le calcul des dommages, avant qu'il ne soit envoyé au Cimetière à cause du combat. Le Rat Géant n'est donc pas détruit par combat mais par effet, et ne peut pas s'activer.*
 </details>
 
 Si vous avez réussi à venir jusque là, félicitations ! Le plus dur est fait. Vous avez assez de connaissances pour gérer une grande variété de situations complexes. 

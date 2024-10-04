@@ -6,11 +6,11 @@ Dans cet article, nous passerons en revue différentes zones de règles : le Gam
 N'oubliez pas de jeter un œil au dernier article, sur les [légalités d'activation](11_Legalite_Activation.md) !
 
 ## Le Game State
-Le Game State correspond à l'emplacement de chaque carte connue par chaque joueur. Naturellement, le Game State évolue au fur et à mesure que les joueurs piochent des cartes et effectuent des actions. 
+Le Game State (traduisible en État de Jeu, en français) correspond à l'emplacement de chaque carte connue par chaque joueur. Naturellement, le Game State évolue au fur et à mesure que les joueurs piochent des cartes et effectuent des actions. 
 
 À noter que l'ordre du Deck est aléatoire, donc son ordre ne fait pas partie du Game State (sauf si des effets comme *Zombie Épidémique* sont utilisés pour placer une carte au-dessus du Deck). Donc si je mélange le Deck, le Game State n'est pas changé. De plus, "connaître des cartes" ne fait pas non plus partie du Game State : si je révèle une carte de ma main ou une carte Posée sans raison particulière, alors le Game State n'est pas brisé. 
 
-Si le Game State ne peut pas être réparé de sorte que les deux joueurs peuvent vérifier, alors le Game State est dit irréparable. Voyons quelques exemples. 
+Si le Game State ne peut pas être réparé de sorte que les deux joueurs peuvent le vérifier, alors le Game State est dit irréparable. Voyons quelques exemples. 
 
 *Joueur A a 5 cartes en main (et Joueur B ne les connait pas). Joueur A pioche une carte illégalement, puis mélange sa main et Joueur B ne sait pas identifier quelle carte Joueur A a pioché.*
 
@@ -37,7 +37,7 @@ Quels types de modificateurs d'ATK existent ? Les types principaux sont les suiv
     Ces modificateurs s'appliquent, comme leur nom indique, de manière continue. Par exemple, l'effet d'augmentation d'ATK de (la Magie Continue) *Formation Feu - Tenki* est appliqué de manière continue :
     - *Tous les monstres Bête-Guerrier que vous contrôlez gagnent 100 ATK.*
 
-    Le terme "effet continu" résume tout ce qu'il faut connaître sur le type d'effet. Si un monstre de type Bête-Guerrier devient inaffecté par les effets de cartes Magie / Piège, alors l'augmentation d'ATK de *Tenki* arrêtera de s'appliquer.
+    Le terme "effet continu" résume tout ce qu'il faut connaître sur le type d'effet. Si un monstre de type Bête-Guerrier devient inaffecté par les effets de cartes Magie / Piège, ou s'il change de type et n'est plus Bête-Guerrier, alors l'augmentation d'ATK de *Tenki* arrêtera de s'appliquer.
 
 - **Effets persistants**
 
@@ -48,7 +48,7 @@ Quels types de modificateurs d'ATK existent ? Les types principaux sont les suiv
 
     Résolution de la Chaîne : *Boost d'Ego* se résout, augmentant l'ATK de la cible.
 
-    L'effet de *Boost d'Ego* persiste après que la Chaîne ait résolue. Même si le monstre devient inaffecté par les effets de cartes Magie / Piège après que *Boost d'Ego* ait résolu, il ne perdra PAS ses 1000 ATK, parce que *Boost d'Ego* a déjà été appliqué sur le monstre.
+    L'effet de *Boost d'Ego* persiste après que la Chaîne ait résolue. Même si le monstre devient inaffecté par les effets de cartes Magie / Piège après que *Boost d'Ego* ait résolu, **il ne perdra pas** ses 1000 ATK, parce que *Boost d'Ego* a déjà été appliqué sur le monstre.
 
 Les effets persistants et continus appliquent des modificateurs de manière opposée, donc il est important de déterminer à quel type d'effet chaque carte correspond. 
 
@@ -112,7 +112,7 @@ Vous devriez maintenant pouvoir comprendre cette interaction très intéressante
 
     (Il s'agit d'un autre effet continu.)
 
-*Mon adversaire a 6 cartes en main. J'active l'effet de Mistral, puis je finis mon tour et mon adversaire pioche pour sa Draw Phase. Quelle est l'ATK de Tragoedia maintenant ?*
+*Mon adversaire a 6 cartes en main. J'active l'effet de Mistral en ciblant Tragoedia, puis je finis mon tour et mon adversaire pioche pour sa Draw Phase. Quelle est l'ATK de Tragoedia maintenant ?*
 
 Prenons ceci étape par étape. 6 cartes en main nous dit que *Tragoedia* aurait initialement 3600 ATK. L'effet de *Mistral* gèle ensuite l'ATK de *Tragoedia* à 1800. Souvenez-vous que le gel brise la connexion à tout modificateur d'ATK s'appliquant précédemment... incluant l'effet continu de *Tragoedia*. Donc même après que mon adversaire pioche une carte, et peu importe combien de cartes mon adversaire a en main et défausse, l'ATK de *Tragoedia* restera bloquée à 1800 !
 
@@ -148,11 +148,11 @@ Il existe bien plus de modificateurs compliqués et d'interactions, et très peu
     
  1. **L'activation était illégale, et les cartes révélées devront être placée dans le bon ordre au dessus du Deck.** 
    
-      *Les policies Konami expliquent que les cartes révélées accidentellement doivent être montrées aux deux joueurs et remises dans le Deck dans le bon ordre, sans le mélanger.*
+      *Les policies Konami expliquent que les cartes révélées accidentellement doivent être montrées aux deux joueurs et remises dans le Deck dans le bon ordre, sans le mélanger. Le joueur ayant activé illégalement Pot de Dualité doit donc récupérer les deux cartes mélangées dans son Deck ainsi que la carte ajoutée, les remettre dans l'ordre précédent, mélanger son Deck et replacer les trois cartes au dessus du Deck.*
       
  2. **L'activation était légale.** 
    
-      *L'effet de Pierre Blanche est obligatoire, donc tant que son activation n'est pas explicitement empêchée, alors il doit être activé (voir [l'article précédent](11_Legalite_Activation.md)).*
+      *L'effet de Pierre Blanche est obligatoire, donc tant que son activation n'est pas explicitement empêchée, alors il doit être activé, même s'il ne peut pas résoudre (voir [l'article précédent](11_Legalite_Activation.md)).*
  
  3. **3600, puis 1900.** 
       
