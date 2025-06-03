@@ -2,12 +2,12 @@
 
 # Invocations
 
-Cet article revient à un élément plus simple mais tout aussi fondamental du jeu : les Invocations.
+Cet article revient à un élément plus simple, mais tout aussi fondamental du jeu : les Invocations.
 
 N'oubliez pas de jeter un œil à l'article précédent sur les [conjonctions](5_Conjonctions.md) !
 
 ## Procédure complète d'Invocation Normale
-Afin d'effectuer une Invocation Normale ou une Invocation Sacrifice, il faut sélectionner un monstre à Invoquer, Sacrifier des monstres si nécessaire, sélectionner une Zone Monstre, et déclarer l'intention d'Invoquer ce monstre. 
+Afin d'effectuer une Invocation Normale ou une Invocation Sacrifice, il faut sélectionner un monstre à Invoquer, Sacrifier des monstres si nécessaire, sélectionner une Zone Monstre et déclarer l'intention d'Invoquer ce monstre. 
 
 Ce point précis est connu (non-officiellement) comme la Fenêtre d'Annulation d'Invocation (Summon Negation Window en anglais). Il s'agit du moment pendant lequel activer des effets qui peuvent annuler l'Invocation, comme *Corne du Paradis* :
 - *Lorsqu'un ou plusieurs monstres vont être Invoqués : Sacrifiez 1 monstre ; annulez l'Invocation, et si vous le faites, détruisez les monstres.*
@@ -48,7 +48,7 @@ Mais celui-ci ne l'est pas :
 - <ins>Chain Link 1</ins> : *Trappe Sans Fond*
 
 ## Résumé 
-1. Le joueur sélectionne un monstre, effectue les Sacrifices nécessaires, et déclare son intention d'Invoquer le monstre. Celui-ci n'est pas sur le Terrain tant que la Fenêtre d'Annulation d'Invocation n'est pas passée.
+1. Le joueur sélectionne un monstre, effectue les Sacrifices nécessaires et déclare son intention d'Invoquer le monstre. Celui-ci n'est pas sur le Terrain tant que la Fenêtre d'Annulation d'Invocation n'est pas passée.
 2. Si la Fenêtre est passée, et que l'Invocation a lieu avec succès, le monstre touche le Terrain et les joueurs peuvent répondre à l'Invocation 
 
 ## Invocation et Timing
@@ -57,13 +57,13 @@ Comme vous pouvez le voir, Invoquer est un processus assez long. Une fois de plu
 C'est pourquoi quand certains monstres comme *Dragon Pulsar de Lumière* sont Sacrifiés pour une Invocation Sacrifice, le fait qu'ils soient envoyés du Terrain au Cimetière n'est pas l'une des dernières actions à avoir lieu, donc leur effet ne peut pas être activé :
 - *Lorsque cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez cibler 1 monstre TÉNÈBRES Dragon de min. Niveau 5 dans votre Cimetière ; Invoquez Spécialement la cible.*
 
-La même chose a lieu en cas de Pose par Sacrifice : le joueur Sacrifie les monstres, et pose la carte, donc il ne pourra pas les activer de cette manière non plus.
+La même chose a lieu en cas de Pose par Sacrifice : le joueur Sacrifie les monstres et pose la carte, donc il ne pourra pas les activer de cette manière non plus.
 
 ## Invocations Spéciales
 Il existe différentes manières d'Invoquer Spécialement des monstres, et beaucoup d'entre eux ont des effets spécifiques qui le permettent. Nous sommes déjà capables de différencier des effets de monstre s'Invoquant Spécialement qui démarrent une Chaîne de ceux qui n'en démarrent pas (rappel : les effets démarrent une Chaîne si, et seulement si, ils ont un deux-points ou un point-virgule dans l'effet). Les Invocations Spéciales fonctionnent de la même manière que présenté plus tôt, en remplaçant les Sacrifices par l'envoi au Cimetière ou la superposition des matériels pour les Invocations Synchros ou Xyz, ou en respectant le texte de la carte en général.
 
 ## Annulation d'Invocations
-Observons de plus près les annulations d'Invocations. Afin d'annuler une Invocation, la clef est de se demander : **est-ce qu'une Chaîne est actuellement en train de se résoudre ?** Puisqu'il est impossible d'interrompre une Chaîne en cours de résolution, il est impossible d'activer un effet pendant la Fenêtre d'Annulation d'Invocation, donc l'Invocation est automatiquement considérée comme complétée avec succès, et les joueurs peuvent y répondre après que la Chaîne ait fini de résoudre (du moment qu'il n'y a pas de conflit de condition d'activation).
+Observons de plus près les annulations d'Invocations. Afin d'annuler une Invocation, la clef est de se demander : **est-ce qu'une Chaîne est actuellement en train de se résoudre ?** Puisqu'il est impossible d'interrompre une Chaîne en cours de résolution, il est impossible d'activer un effet pendant la Fenêtre d'Annulation d'Invocation, donc l'Invocation est automatiquement considérée comme complétée avec succès et les joueurs peuvent y répondre après que la Chaîne ait fini de résoudre (du moment qu'il n'y a pas de conflit de condition d'activation).
 
 Par exemple, prenons *Soldat du Lustre Noir - Émissaire du Commencement* :
 - *Doit d'abord être Invoquée Spécialement (depuis votre main) en bannissant 1 monstre LUMIÈRE et 1 monstre TÉNÈBRES depuis votre Cimetière.*
@@ -90,12 +90,12 @@ Résolution de la Chaîne : *Prêtresse* s'Invoque Spécialement
 
 De nouveau, cette Invocation Spéciale a lieu pendant que la Chain Link 1 est en train de se résoudre, donc rien ne peut être activé pendant la Fenêtre d'Annulation d'Invocation.
 
-Il est toujours possible cependant d'annuler les activations de *Polymérisation* ou de *Prêtresse*. Les Invocations elles-mêmes ne peuvent simplement pas être annulées, du moment que l'effet résout avec succès. Par exemple, il est toujours possible d'annuler l'effet de *Polymérisation* avec une carte comme *Annihilateur de Magie*, ou annuler l'Invocation Spéciale de *Prêtresse* en chaînant une carte comme *Espace de Négation*.
+Il est toujours possible cependant d'annuler les activations de *Polymérisation* ou de *Prêtresse*. Les Invocations elles-mêmes ne peuvent simplement pas être annulées, du moment que l'effet résout avec succès. Par exemple, il est toujours possible d'annuler l'effet de *Polymérisation* avec une carte comme *Annihilateur de Magie* ou annuler l'Invocation Spéciale de *Prêtresse* en chaînant une carte comme *Espace de Négation*.
 
 Dans un article sur les mécaniques d'Invocation, il serait impensable de ne pas mentionner *Avertissement Divin* :
 - *Lorsqu'un ou plusieurs monstres vont être Invoqués, OU lorsqu'une Carte Magie/Piège ou un effet de monstre qui inclut un effet qui Invoque Spécialement un ou plusieurs monstres est activé : payez 2000 LP ; annulez l'Invocation ou l'activation, et si vous le faites, détruisez-les.*
 
-La première partie du texte annule les Invocations, tout comme *Corne Céleste Ténébreuse*. Cependant, la seconde partie du texte explique que la carte peut annuler l'activation de cartes Magie, Piège, et des effets de Monstres. Ce point veut dire que la carte peut être chaînée à *Polymérisation* et à l'effet de *Prêtresse* plus haut, non pas pour annuler les Invocations mais les cartes elles-mêmes, puisque leurs activations impliquent une Invocation Spéciale.
+La première partie du texte annule les Invocations, tout comme *Corne Céleste Ténébreuse*. Cependant, la seconde partie du texte explique que la carte peut annuler l'activation de cartes Magie, Piège et des effets de Monstres. Ce point veut dire que la carte peut être chaînée à *Polymérisation* et à l'effet de *Prêtresse* plus haut, non pas pour annuler les Invocations, mais les cartes elles-mêmes, puisque leurs activations impliquent une Invocation Spéciale.
 
 Le dernier exemple de cet article se basera sur *Bixi, Eau du Yang Zing* :
 - *Une fois par tour, durant la Main Phase ou Battle Phase de votre adversaire, vous pouvez : <ins>immédiatement après la résolution de cet effet</ins>, Invoquez par Synchronisation 1 Monstre Synchro, en utilisant uniquement des monstres "Yang Zing" que vous contrôlez (ceci est un Effet Rapide).*
@@ -121,7 +121,17 @@ Est-ce qu'une Chaîne est actuellement en cours de résolution ? Ici, ce n'est p
 
         *Durant le tour de chaque joueur, lorsqu'un monstre de min. Niveau 5 va être Invoqué Spécialement : vous pouvez détacher 1 Matériel Xyz de cette carte ; annulez l'Invocation Spéciale, et si vous le faites, détruisez-le.*
 
-2. Joueur A tente d'effectuer l'Invocation Synchro de *Virgile, Star du Rock des Abysses Ardents*, et Joueur B annule l'Invocation avec *Avertissement Divin*. L'effet de Virgil peut-il être activé ?
+   <details>
+   <summary>Réponse</summary>
+   <p>
+
+   <strong>Non.</strong><br>
+
+     <i>L'effet de Prêtresse démarre une Chaîne, donc son Invocation Spéciale a lieu pendant la résolution d'une Chaîne. L'effet de Cafard ne pourra donc pas être utilisé à ce moment.</i>
+   </p>
+   </details>
+
+2. Joueur A tente d'effectuer l'Invocation Synchro de *Virgile, Star du Rock des Abysses Ardents* et Joueur B annule l'Invocation avec *Avertissement Divin*. L'effet de Virgil peut-il être activé ?
 
     - *Virgile, Star du Rock des Abysses Ardents* :
 
@@ -131,11 +141,31 @@ Est-ce qu'une Chaîne est actuellement en cours de résolution ? Ici, ce n'est p
 
         *Lorsqu'un ou plusieurs monstres vont être Invoqués, OU lorsqu'une Carte Magie/Piège ou un effet de monstre qui inclut un effet qui Invoque Spécialement un ou plusieurs monstres est activé : payez 2000 LP ; annulez l'Invocation ou l'activation, et si vous le faites, détruisez-les.*
 
+     <details>
+     <summary>Réponse</summary>
+     <p>
+
+     <strong>Non.</strong><br>
+
+     <i>Virgil a besoin d'être détruit sur le Terrain. Si son Invocation est annulée, il n'aura jamais touché le Terrain.</i>
+     </p>
+     </details>
+
 3. Que se passerait-il si Joueur A tentait d'Invoquer par Invocation Xyz *Dante, Voyageur des Abysses Ardents* à la place ?
 
    - *Dante, Voyageur des Abysses Ardents* : 
 
         *Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 carte "Abysses Ardents" (cette carte exclue) dans votre Cimetière ; ajoutez-la à votre main.*
+
+   <details>
+   <summary>Réponse</summary>
+   <p>
+
+   <strong>L'effet de Dante pourra s'activer.</strong><br>
+
+   <i>Dante n'a pas besoin d'être envoyé spécifiquement depuis le Terrain au Cimetière, donc son effet pourra s'activer.</i>
+   </p>
+   </details>
 
 4. Joueur A active *Voleur d'Esprit* sur *Bixi, Eau du Yang Zing*, mais Joueur B chaîne en utilisant les effets de *Bixi*, l'utilisant avec d'autres monstres afin d'Invoquer par Invocation Synchro *Dragon Rose Noire*. Joueur A peut-il annuler l'Invocation Synchro de *Dragon Rose Noire* ?
 
@@ -151,30 +181,25 @@ Est-ce qu'une Chaîne est actuellement en cours de résolution ? Ici, ce n'est p
 
         *Ciblez 1 monstre face recto contrôlé par votre adversaire ; détruisez la cible, puis votre adversaire gagne 1000 LP.*
 
+   <details>
+   <summary>Réponse</summary>
+   <p>
+
+   <strong>Non.</strong><br>
+
+   <i>La Chain Link 1 est Voleur d'Esprit et la Chain Link 2 est Bixi. Rose Noire est Invoqué juste après la résolution de la Chain Link 2, mais avant la résolution de la Chain Link 1. Puisqu'une Chaîne est en cours de résolution, cette Invocation Synchro ne pourra pas être annulée.</i>
+   </p>
+   </details>
 5. Dans l'exemple ci-dessus, l'effet de *Dragon Rose Noire* peut-il être activé ?
 
-<details>
-<summary>Réponses</summary>
-    
- 1. **Non.** 
-   
-      *L'effet de Prêtresse démarre une Chaîne, donc son Invocation Spéciale a lieu pendant la résolution d'une Chaîne. L'effet de Cafard ne pourra donc pas être utilisé à ce moment.*
-      
- 2. **Non.** 
-   
-      *Virgil a besoin d'être détruit sur le Terrain. Si son Invocation est annulée, il n'aura jamais touché le Terrain.*
- 
- 3. **L'effet de Dante pourra s'activer.** 
-      
-      *Dante n'a pas besoin d'être envoyé spécifiquement depuis le Terrain au Cimetière, donc son effet pourra s'activer.*
+     <details>
+     <summary>Réponse</summary>
+     <p>
 
- 4. **Non.**
- 
-      *La Chain Link 1 est Voleur d'Esprit, et la Chain Link 2 est Bixi. Rose Noire est Invoqué juste après la résolution de la Chain Link 2, mais avant la résolution de la Chain Link 1. Puisqu'une Chaîne est en cours de résolution, cette Invocation Synchro ne pourra pas être annulée.*
+     <strong>Non.</strong><br>
 
- 5. **Non.**
- 
-      *Puisque l'Invocation Synchro de Rose Noire n'est pas l'une des dernières actions à avoir lieu (Voleur d'Esprit essaie toujours de résoudre après l'Invocation de Rose Noire), son effet ne peut pas être activé.*
-</details>
+     <i>Puisque l'Invocation Synchro de Rose Noire n'est pas l'une des dernières actions à avoir lieu (Voleur d'Esprit essaie toujours de résoudre après l'Invocation de Rose Noire), son effet ne peut pas être activé.</i>
+     </p>
+     </details>
 
 Le prochain article portera sur le [Timing d'effet rapide](7_Timing_Effet_Rapide.md).

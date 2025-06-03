@@ -97,7 +97,7 @@ Nous n'avons vu que quelques points complexes durant la Damage Step, mais il ne 
 Comme dit plus tôt, la Damage Step est complexe. Si vous avez trouvé cet article difficile à comprendre, c'est normal ! N'hésitez pas à revenir sur cet article plus tard et relire ces informations avant de tenter le quiz. 
 
 ## C'est l'heure du Quiz !
-Le quiz de cet article s'appuiera sur différents rulings et mécaniques étudiés lors des derniers articles, ainsi que ce que nous avons vu dans celui-ci. 
+Le quiz de cet article s'appuiera sur différents rulings et mécaniques étudiés lors des derniers articles, ainsi que ce que nous avons vu dans celui-ci. Ce quiz est plus compliqué que les précédents. Souvenez-vous que le nombre de réponses erronées n'a pas d'importance ! Ce qui compte, c'est d'apprendre quelque chose de chaque question.
 
 1. Quels effets peuvent être utilisés lorsque *Gorz, l'Émissaire des Ténèbres* active son effet pour s'Invoquer Spécialement lors de la Damage Step ?
    - *Trappe sans Fond* :
@@ -116,10 +116,36 @@ Le quiz de cet article s'appuiera sur différents rulings et mécaniques étudi�
 
         *Lorsqu'un ou plusieurs monstres vont être Invoqués, OU lorsqu'une Carte Magie/Piège ou un effet de monstre qui inclut un effet qui Invoque Spécialement un ou plusieurs monstres est activé : payez 2000 LP ; annulez l'Invocation ou l'activation, et si vous le faites, détruisez-les.*
 
-2. Mon *Sirènemure Abysslinde* attaque le *Abysslinde* de mon adversaire. Les deux sont en position d'attaque, et sont tous deux détruits au combat. Nous souhaitons tous les deux activer nos effets. Quelle est la Chaîne formée ?
+   <details>
+   <summary>Réponse</summary>
+   <p>
+   <strong>Seul <i>Avertissement Divin</i> pourra s'activer.</strong><br>
+   <i>Trappe Sans Fond et Chaîne Démoniaque ne peuvent pas être activées durant la Damage Step. Corne Céleste Ténébreuse et Avertissement Divin peuvent toutes deux être activées à ce stade, étant toutes deux des cartes Piège Contre, cependant Corne Céleste Ténébreuse ne peut pas annuler l'Invocation Spéciale de Gorz car l'effet de Gorz [démarre une Chaîne](6_Invocations.md).</i>
+   </p>
+   </details>
+
+2. Mon *Sirènemure Abysslinde* attaque le *Abysslinde* de mon adversaire. Les deux sont en position d'attaque et sont tous deux détruits au combat. Nous souhaitons tous les deux activer nos effets. Quelle est la Chaîne formée ?
     - *Si cette carte sur le Terrain est détruite et envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 monstre "Sirènemure" ("Sirènemure Abysslinde" exclu) depuis votre Deck.*
+
+     <details>
+     <summary>Réponse</summary>
+     <p>
+          <strong>Chain Link 1 : mon <i>Abysslinde</i> | Chain Link 2 : le <i>Abysslinde</i> de mon adversaire</strong><br>
+          <i>Les deux sont détruits par le combat et veulent s'activer en même temps : le SEGOC prend donc le dessus. Mon Abysslinde sera donc Chain Link 1, car je suis le joueur du tour.</i>
+     </p>
+     </details>
+
 3. Si les deux *Sirènemure Abysslinde* invoquent *Sirènemure Abysspike*, quelle est la Chaîne formée ?
    - *Lorsque cette carte est Invoquée Normalement ou Spécialement : vous pouvez défausser 1 monstre EAU au Cimetière ; ajoutez 1 monstre EAU de Niveau 3 depuis votre Deck à votre main.*
+
+   <details>
+   <summary>Réponse</summary>
+   <p>
+   <strong>Seul mon <i>Abysspike</i> s'activera, dans une nouvelle Chaîne.</strong><br>
+   <i>Résolvons la Chaîne de la question (2) : l'Invocation Spéciale du Abysspike de mon adversaire n'est pas l'une des dernières actions à avoir lieu, alors que l'Invocation Spéciale du mien l'est, donc seul le mien peut s'activer (puisque Abysspike est un [effet optionnel "lorsque"](4_When_Optionnels.md)).</i>
+   </p>
+   </details>
+
 4. Si je contrôle *Taupe Géante Néo-Spacien* et que j'attaque le *Kalidor, Allié de la Justice* de mon adversaire, que se passe-t-il ?
    - *Kalidor, Allié de la Justice* :
 
@@ -129,9 +155,35 @@ Le quiz de cet article s'appuiera sur différents rulings et mécaniques étudi�
 
         *Au début de la Damage Step, si cette carte combat un monstre de l'adversaire : vous pouvez renvoyer le monstre de l'adversaire ainsi que cette carte à la main.*
 
+   <details>
+   <summary>Réponse</summary>
+   <p>
+   <strong>Chain Link 1 : <i>Kalidor</i> | Chain Link 2 : <i>Taupe Géante Néo-Spacien</i></strong><br>
+   <i>Il s'agit d'un autre exemple de SEGOC, puisque les deux effets veulent s'activer au même moment au début de la Damage Step. L'effet de Kalidor est obligatoire, il devient donc Chain Link 1.</i>
+   </p>
+   </details>
+
 5. Supposons maintenant que je contrôle *Ehren le Moine, Seigneur Lumière* à la place, et que j'attaque le *Kalidor* de mon adversaire qui est en position de Défense face recto? Que se passe-t-il ? 
    - *Si cette carte attaque un monstre en Position de Défense, avant le calcul des dommages : mélangez le monstre dans le Deck.*
+
+   <details>
+   <summary>Réponse</summary>
+   <p>
+   <strong><i>Kalidor</i> détruit <i>Ehren</i>.</strong><br>
+   <i>L'effet d'Ehren s'active avant le calcul des dommages, une sous-étape venant après celle durant laquelle s'active Kalidor. Les effets ne forment donc pas de Chaîne. Puisque Ehren est détruit avant d'atteindre 'avant le calcul des dommages', son effet ne s'activera pas.</i>
+   </p>
+   </details>
+
 6. La réponse change-t-elle si le *Kalidor* était face verso ?
+
+     <details>
+     <summary>Réponse</summary>
+     <p>
+          <strong><i>Ehren</i> renvoie <i>Kalidor</i> à l'Extra Deck</strong><br>
+          <i>Kalidor est face verso au début de la Damage Step, et ne peut donc pas s'activer (et lorsqu'il est retourné face recto, ce n'est plus le début de la Damage Step). Ensuite, Ehren s'active après que Kalidor soit retourné face recto.</i>
+     </p>
+     </details>
+
 7. Si j'attaque le *Rat Géant* face verso de mon adversaire avec *Dragon Rouge Archdémon*, est-ce que l'effet de *Rat Géant* peut être activé ?
    - *Rat Géant* :
 
@@ -141,40 +193,16 @@ Le quiz de cet article s'appuiera sur différents rulings et mécaniques étudi�
 
         *Après le calcul des dommages, si cette carte a attaqué un monstre de l'adversaire en Position de Défense : détruisez tous les monstres en Position de Défense contrôlés par votre adversaire.*
 
-<details>
-<summary>Réponses</summary>
-Ce quiz est plus compliqué que les précédent. Souvenez-vous que le nombre de réponses erronnées n'a pas d'importance ! Ce qui compte, c'est d'apprendre quelque chose de chaque question.
-    
- 1. **Seul *Avertissement Divin* pourra s'activer.** 
-   
-      *Trappe Sans Fond et Chaîne Démoniaque ne peuvent pas être activées durant la Damage Step. Corne Céleste Ténébreuse et Avertissement Divin peuvent toutes deux être activées à ce stade, étant toutes deux des cartes Piège Contre, cependant Corne Céleste Ténébreuse ne peut pas annuler l'Invocation Spéciale de Gorz car l'effet de Gorz [démarre une Chaîne](6_Invocations.md).*
-      
- 2. **Chain Link 1 : mon *Abysslinde* | Chain Link 2 : le *Abysslinde* de mon adversaire** 
-   
-      *Les deux sont détruits par le combat et veulent s'activer en même temps : le SEGOC prend donc le dessus. Mon Abysslinde sera donc Chain Link 1, car je suis le joueur du tour.*
- 
- 3. **Seul mon *Abysspike* s'activera, dans une nouvelle Chaîne.** 
-      
-      *Résolvons la Chaîne de la question (2) : l'Invocation Spéciale du Abysspike de mon adversaire n'est pas l'une des dernières actions à avoir lieu, alors que l'Invocation Spéciale du mien l'est, donc seul le mien peut s'activer (puisque Abysspike est un [effet optionnel "lorsque"](4_When_Optionnels.md)).*
+   <details>
+   <summary>Réponse</summary>
+   <p>
+   <strong>Non.</strong><br>
+   <i>Rat Géant perd le combat et est marqué pour destruction. Cependant, Dragon Rouge Archdémon le détruit par effet après le calcul des dommages, avant qu'il ne soit envoyé au Cimetière à cause du combat. Le Rat Géant n'est donc pas détruit par combat, mais par effet, et ne peut pas s'activer.</i>
+   </p>
+   </details>
 
- 4. **Chain Link 1 : *Kalidor* | Chain Link 2 : *Taupe Géante Néo-Spacien***
- 
-      *Il s'agit d'un autre exemple de SEGOC, puisque les deux effets veulent s'activer au même moment au début de la Damage Step. L'effet de Kalidor est obligatoire, il devient donc Chain Link 1.*
 
- 5. ***Kalidor* détruit *Ehren*.**
- 
-      *L'effet d'Ehren s'active avant le calcul des dommages, une sous-étape venant après celle durant laquelle s'active Kalidor. Les effets ne forment donc pas de Chaîne. Puisqu'Ehren est détruit avant d'atteindre 'avant le calcul des dommages', son effet ne s'activera pas.*
-
-6. ***Ehren* renvoie *Kalidor* à l'Extra Deck**
-
-    *Kalidor est face verso au début de la Damage Step, et ne peut donc pas s'activer (et lorsqu'il est retourné face recto, ce n'est plus le début de la Damage Step). Ensuite, Ehren s'active après que Kalidor soit retourné face recto.*
-
-7. **Non.**
-
-    *Rat Géant perd le combat, et est marqué pour destruction. Cependant, Dragon Rouge Archdémon le détruit par effet après le calcul des dommages, avant qu'il ne soit envoyé au Cimetière à cause du combat. Le Rat Géant n'est donc pas détruit par combat mais par effet, et ne peut pas s'activer.*
-</details>
-
-Si vous avez réussi à venir jusque là, félicitations ! Le plus dur est fait. Vous avez assez de connaissances pour gérer une grande variété de situations complexes. 
+Si vous avez réussi à venir jusque-là, félicitations ! Le plus dur est fait. Vous avez assez de connaissances pour gérer une grande variété de situations complexes. 
 
 Plus que quelques articles dans cette série ! Le prochain portera sur les [annulations](10_Annulations.md).
 

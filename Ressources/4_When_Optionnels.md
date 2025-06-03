@@ -36,11 +36,11 @@ Résolution de la Chaîne :
 
 - <ins>Chain Link 1</ins> résout : *Typhon d'Espace Mystique* détruit sa cible
 
-L'effet de *Main de Feu* est un "Lorsque" optionnel, et sa destruction n'est pas l'une des dernières actions à avoir lieu. Son effet ne peut donc pas être activé dans ce cas de figure.
+L'effet de *Main de Feu* est un "Lorsque" optionnel et sa destruction n'est pas l'une des dernières actions à avoir lieu. Son effet ne peut donc pas être activé dans ce cas de figure.
 
 Cette règle s'applique également pour les cartes Magies et Pièges.
 
-Joueur A active *Gobelin Parvenu*, et Joueur B décide de chaîner *Appel de l'Être Hanté*, afin d'Invoquer Spécialement *Dragon Blanc aux Yeux Bleus*. Joueur A a une *Trappe Sans Fond* de Posée sur le Terrain.
+Joueur A active *Gobelin Parvenu* et Joueur B décide de chaîner *Appel de l'Être Hanté*, afin d'Invoquer Spécialement *Dragon Blanc aux Yeux Bleus*. Joueur A a une *Trappe Sans Fond* de Posée sur le Terrain.
 - *Lorsque votre adversaire Invoque un ou plusieurs monstres avec min. 1500 ATK : détruisez ces monstres avec min. 1500 ATK, et si vous le faites, bannissez-les.*
 
 Construction de la Chaîne :
@@ -55,10 +55,10 @@ Résolution de la Chaîne :
 
 - <ins>Chain Link 1</ins> résout : Joueur A pioche sa carte
 
-*Trappe sans fond* emploie un "Lorsque", activer une carte Magie / Piège est optionnel, et l'Invocation du monstre n'était pas "l'une des dernières actions à avoir lieu", donc elle ne peut pas être activée, tout comme l'exemple avec *Main de Feu*.
+*Trappe sans fond* emploie un "Lorsque", activer une carte Magie / Piège est optionnel et l'Invocation du monstre n'était pas "l'une des dernières actions à avoir lieu", donc elle ne peut pas être activée, tout comme l'exemple avec *Main de Feu*.
 
 ## Plus d'exemples
-Jusque là, il était assez évident de déterminer si la condition d'activation était "l'une des dernières choses à avoir lieu" ou non. Nous allons maintenant nous pencher sur des cas légèrement plus complexes. 
+Jusque-là, il était assez évident de déterminer si la condition d'activation était "l'une des dernières choses à avoir lieu" ou non. Nous allons maintenant nous pencher sur des cas légèrement plus complexes. 
 
 Joueur A active la Magie de Terrain *Ville des Engrenages* :
 - *<ins>Lorsque</ins> cette carte est détruite et envoyée au Cimetière : <ins>vous pouvez</ins> Invoquer Spécialement 1 monstre "Rouages Ancients" depuis votre main, Deck ou Cimetière.*
@@ -96,7 +96,7 @@ Résolution de la Chaîne :
 
 Comme *Brouilleur Magique* annule l'activation, les effets de *Ville des Engrenages* sur le Terrain n'essaient pas de résoudre du tout. C'est pourquoi il est possible de dire que la destruction de *Ville des Engrenages* était effectivement l'une des dernières choses à avoir lieu, donc son effet déclencheur peut s'activer normalement. 
 
-## Effet optionnels "Lorsque" et SEGOC
+## Effet optionnel "Lorsque" et SEGOC
 
 Cet article ainsi que l'article précédent se penchent sur les effets déclencheurs. Voyons comment cette mécanique interagit avec le SEGOC.
 
@@ -125,11 +125,11 @@ Maintenant que les effets à activer ont été décidés, la prochaine étape co
 
 (Si les règles du SEGOC mentionnées ici ne vous sont pas familières, n'hésitez pas à lire ou relire l'article précédent)
 
-Le point important dans cet exemple concerne l'activation de *Soldat de Carte*, qui n'empêche pas *Bixi* de s'activer. Il faut vérifier si les conditions d'activations de son effet sont bien remplies dans la dernière action que le jeu a enregistré après la résolution de la Chaîne, puis les nouveaux effets sont mis en accordance avec le SEGOC sur une nouvelle Chaîne. 
+Le point important dans cet exemple concerne l'activation de *Soldat de Carte*, qui n'empêche pas *Bixi* de s'activer. Il faut vérifier si les conditions d'activations de son effet sont bien remplies dans la dernière action que le jeu a enregistré après la résolution de la Chaîne, puis les nouveaux effets sont mis en accord avec le SEGOC sur une nouvelle Chaîne. 
 
 
 ## C'est l'heure du Quiz !
-Vous pouvez partir du principe que tous les effets dans les questions ci-dessous ont des activations légale : il n'y a pas de question piège.
+Vous pouvez partir du principe que tous les effets dans les questions ci-dessous ont des activations légales : il n'y a pas de question piège.
 
 1. Joueur A contrôle *Dragon Pulsar de Lumière* et *Soldat Canon*. Joueur A sacrifie *Dragon Pulsar de Lumière* pour l'effet de *Soldat Canon*.
 
@@ -143,6 +143,16 @@ Vous pouvez partir du principe que tous les effets dans les questions ci-dessous
 
     L'effet de *Dragon Pulsar de Lumière* peut-il être activé ?
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+
+    <strong>Non.</strong><br>
+
+    <i>Soldat Canon sacrifie en coût (puisque le sacrifice est marqué avant le point-virgule) donc le sacrifice de Dragon Pulsar de Lumière n'est pas la dernière action à avoir lieu. Si vous vous demandez si l'effet de Dragon Pulsar se chaîne à l'effet de Soldat Canon ou non, retenez que les effets déclencheurs s'activent toujours après que la chaîne actuelle (si elle existe) ait résolu.</i>
+    </p>
+    </details>
+
 2. Joueur A contrôle *Transe Archdémon* et Joueur B contrôle *Main de Glace*. Joueur A active *Trou Noir*.
    
     - *Transe Archdémon* :
@@ -155,6 +165,16 @@ Vous pouvez partir du principe que tous les effets dans les questions ci-dessous
 
     Après la résolution de *Trou Noir*, quelle Chaîne est formée ?
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+
+    <strong>Chain Link 1 : effet de <i>Transe Archdémon</i> | Chain Link 2 : effet de <i>Main de Glace</i></strong><br>
+
+    <i>Transe Archdémon et Main de Glace sont tous deux détruits dans l'une des dernières actions à avoir lieu, donc ils peuvent tous deux s'activer. D'après les règles du SEGOC, les effets optionnels du Joueur A rentrent en premier sur la chaîne, puis les effets optionnels du Joueur B. Aucun de ces effets ne manque son créneau d'activation.</i>
+    </p>
+    </details>
+
 3. Joueur A active le second effet de *Bixi, Eau du Yang Zing*, et Joueur B l'annule avec *Colère Divine*. 
     - *Bixi, Eau du Yang Zing* :
 
@@ -166,6 +186,16 @@ Vous pouvez partir du principe que tous les effets dans les questions ci-dessous
 
     Le premier effet de *Bixi* peut-il être activé ?
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+
+    <strong>Oui.</strong><br>
+
+    <i>L'effet en Chain Link 1 est celui de Bixi, et l'effet en Chain Link 2 est Colère Divine. Puisque Colère Divine annule l'activation de l'effet de Bixi, la Chain Link 1 disparaît et la dernière action à avoir lieu est la destruction de Bixi.</i>
+    </p>
+    </details>
+
 4. Supposons que le Joueur B chaîne l'effet de *Ogre Fantôme et Lapin des Neiges* au second effet de *Bixi* dans la question précédente.
     - *Ogre Fantôme et Lapin des Neiges* :
 
@@ -173,28 +203,15 @@ Vous pouvez partir du principe que tous les effets dans les questions ci-dessous
     
     Le premier effet de *Bixi* peut-il être activé ?
 
-<details>
-<summary>Réponses</summary>
-    
- 1. **Non.** 
-   
-      *Soldat Cannon sacrifie en coût (puisque le sacrifice est marqué avant le point-virgule) donc le sacrifice de Dragon Pulsar de Lumière n'est pas la dernière action à avoir lieu.*
+    <details>
+    <summary>Réponse</summary>
+    <p>
 
-      *Si vous vous demandez si l'effet de Dragon Pulsar se chaîne à l'effet de Soldat Canon ou non, retenez que les effets déclencheurs s'activent toujours après que la chaîne actuelle (si elle existe) ait résolu.*
+    <strong>Non.</strong><br>
 
-      
- 2. **Chain Link 1 : effet de *Transe Archdémon* | Chain Link 2 : effet de *Main de Glace*** 
-   
-      *Transe Archdémon et Main de Glace sont tous deux détruits dans l'une des dernières actions à avoir lieu, donc ils peuvent tous deux s'activer. D'après les règles du SEGOC, les effets optionnels du Joueur A rentrent en premier sur la chaîne, puis les effets optionnels du Joueur B. Aucun de ces effets ne manque son créneau d'activation.*
- 
- 3. **Oui.** 
-      
-      *L'effet en Chain Link 1 est celui de Bixi, et l'effet en Chain Link 2 est Colère Divine. Puisque Colère Divine annule l'activation de l'effet de Bixi, la Chain Link 1 disparaît, et la dernière action à avoir lieu est la destruction de Bixi.*
-
- 4. **Non.** 
- 
-      *Ogre Fantôme et Lapin des Neiges n'annule pas l'activation, donc en résolvant la chaîne, la destruction de Bixi ne sera pas "l'une des dernières actions à avoir lieu".*
-</details>
+    <i>Ogre Fantôme et Lapin des Neiges n'annule pas l'activation, donc en résolvant la chaîne, la destruction de Bixi ne sera pas "l'une des dernières actions à avoir lieu".</i>
+    </p>
+    </details>
 
 Nous verrons plus en détail cette mécanique, et la verrons en action, dans des articles à venir. 
 

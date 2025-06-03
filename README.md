@@ -61,12 +61,14 @@ Dernier point concernant l'anglais, n'oubliez pas que Yu-Gi-Oh!, en tant que jeu
 
 ## Ressources complémentaires
 
+**Information importante : le site de tests en ligne ne fonctionne actuellement plus sans VPN vers les Etats-Unis, les pages ne chargent plus en provenance d'Europe.**
+
 ### RC1 - Rulings Comprehension 1
 Le RC1, ou *Rulings Comprehension 1*, est la première qualification nécessaire pour devenir Judge dans les événements officiels Konami. Ce test est conçu pour évaluer les compétences de base du jeu. Le test est disponible au lien suivant : 
 - [Test RC1 - Rulings Comprehension 1](https://yugiohblog.konami.com/judgetest/agegate.php?l=&test=rulings).
 
 ### RC2 - Rulings Comprehension 2
-Le RC2, ou *Rulings Comprehension 2*, est actuellement le plus haut niveau de test fourni par Konami afin de valider des compétences en compréhension de règles et mécaniques de jeu dans Yu-Gi-Oh!. Ce test n'est possible à passer qu'en personne, à des tournois comme les YCS, WCQs et UDS. Ce test est conçu pour évaluer des connaissances avancées en mécaniques de jeu, ainsi que les interaction basées sur le Problem Solving Card Text (PSCT). Ce test requiert une très bonne connaissance en mécaniques de jeu, et une bonne compréhension et interprétation du PSCT. 
+Le RC2, ou *Rulings Comprehension 2*, est actuellement le plus haut niveau de test fourni par Konami afin de valider des compétences en compréhension de règles et mécaniques de jeu dans Yu-Gi-Oh!. Ce test n'est possible à passer qu'en personne, à des tournois comme les YCS, WCQs et UDS. Ce test est conçu pour évaluer des connaissances avancées en mécaniques de jeu, ainsi que les interactions basées sur le Problem Solving Card Text (PSCT). Ce test requiert une très bonne connaissance en mécaniques de jeu, et une bonne compréhension et interprétation du PSCT. 
 
 - Seuls les Judges déjà enregistrés auprès de Konami peuvent tenter de passer le test en personne. Le RC1 est donc nécessaire pour tenter de passer le RC2, et il faut être inscrit sur le Konami Judge Program.
 - Un CARD GAME ID (anciennement Cossy ID) est nécessaire pour passer le test.

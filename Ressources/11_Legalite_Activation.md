@@ -123,8 +123,15 @@ Utilisez les rulings plus hauts pour répondre aux questions suivantes. Si vous 
 
         *Durant le tour de chaque joueur : vous pouvez envoyer cette carte depuis votre main au Cimetière ; ce tour, chaque fois que votre adversaire Invoque Spécialement un ou plusieurs monstres, piochez immédiatement 1 carte.*
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>Les effets de <i>Lancea - Artéfact</i> et de <i>Nékroz de Valkyrus</i>.</strong><br>
+    <i>Lancea et Valkyrus ont uniquement besoin Sacrifice et de défausse respectivement, donc leurs effets peuvent être activés légalement, alors que Reine Harpie et Cancrelat Maxx spécifient le Cimetière, donc leurs effets ne peuvent pas s'activer sous le principe de coût.</i>
+    </p>
+    </details>
 
-2. Quels manières d'Invoquer par Xyz *Numéro 39 : Utopie* sont légales ?
+2. Quelles manières d'Invoquer par Xyz *Numéro 39 : Utopie* sont légales ?
 
     - En utilisant deux *Chasseur Numéral* :
 
@@ -138,6 +145,13 @@ Utilisez les rulings plus hauts pour répondre aux questions suivantes. Si vous 
 
         *Durant votre Main Phase 1, si cette carte a été Invoquée Normalement ce tour : vous pouvez Sacrifier cette carte ; piochez 2 cartes, puis passez à la End Phase. Vous ne pouvez pas Invoquer Spécialement durant le tour où vous activez cet effet.*
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>En Invoquant par Xyz après que l'activation de l'effet de <i>Voiturcarte D</i> ait été annulée par <i>Colère Divine</i>.</strong><br>
+    <i>Chasseur Numéral et Rivalité des Seigneurs de Guerre bloquent toute tentative d'Invocation Spéciale d'un monstre Numéro ou d'un Type non-Bête respectivement. Puisque l'activation de l'effet de Voiturcarte D a été annulé, c'est comme s'il n'avait jamais eu lieu, donc la condition d'empêcher les Invocations Spéciales ne s'applique pas.</i>
+    </p>
+    </details>
 
 3. Quels effets peuvent être / vont être activés tant que *Dragon de Foudre Koa'ki Meiru* est face recto sur le Terrain ? On suppose que le joueur n'a que des monstres LUMIÈRE et TÉNÈBRE dans le Cimetière.
 
@@ -158,6 +172,13 @@ Utilisez les rulings plus hauts pour répondre aux questions suivantes. Si vous 
 
         *Ciblez 1 monstre Invoqué Spécialement sur l'un des Terrains ; envoyez-le au Cimetière, et si vous le faites, Invoquez Spécialement 1 Monstre Normal de max. Niveau 4 depuis votre main.*
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>L'effet de <i>Dragon de la Lumière et des Ténèbres</i>.</strong><br>
+    <i>Dragon de la Lumière et des Ténèbres a un effet obligatoire, donc il doit s'activer d'après le principe des effets obligatoires. Le Livre de la Vie et Pacte avec le Diable tentent tous deux d'Invoquer Spécialement, donc ils ne peuvent pas être activés. À noter que la conjonction 'et aussi' du Livre de la Vie et le fait que Pacte avec le Diable enverrait Dragon de Foudre au Cimetière ne sont tous deux pas significatifs pour déterminer la légalité de l'action dans ce cas.</i>
+    </p>
+    </details>
 
 4. Dans quelles circonstances l'activation de *Stellnova Alpha* est-elle possible ?
 
@@ -189,27 +210,13 @@ Utilisez les rulings plus hauts pour répondre aux questions suivantes. Si vous 
         - *Vous pouvez détruire 1 carte sur le Terrain.*
         - *Envoyez les 3 cartes du dessus de votre Deck au Cimetière.*
 
-
-<details>
-<summary>Réponses</summary>
-    
- 1. **Les effets de *Lancea - Artéfact* et de *Nékroz de Valkyrus*.** 
-   
-      *Lancea et Valkyrus ont uniquement besoin Sacrifice et de défausse respectivement, donc leurs effets peuvent être activés légalement, alors que Reine Harpie et Cancrelat Maxx spécifient le Cimetière, donc leurs effets ne peuvent pas s'activer sous le principe de coût.*
-      
- 2. **En Invoquant par Xyz après que l'activation de l'effet de *Voiturcarte D* ait été annulée par *Colère Divine*.** 
-   
-      *Chasseur Numéral et Rivalité des Seigneurs de Guerre bloquent toute tentative d'Invocation Spéciale d'un monstre Numéro ou d'un Type non-Bête respectivement. Puisque l'activation de l'effet de Voiturcarte D a été annulé, c'est comme s'il n'avait jamais eu lieu, donc la condition d'empêcher les Invocations Spéciales ne s'applique pas.*
- 
- 3. **L'effet de *Dragon de la Lumière et des Ténèbres*.** 
-      
-      *Dragon de la Lumière et des Ténèbres a un effet obligatoire, donc il doit s'activer d'après le principe des effets obligatoires. Le Livre de la Vie et Pacte avec le Diable tentent tous deux d'Invoquer Spécialement, donc ils ne peuvent pas être activés. À noter que la conjonction 'et aussi' du Livre de la Vie, et le fait que Pacte avec le Diable enverrait Dragon de Foudre au Cimetière ne sont tous deux pas significatifs pour déterminer la légalité de l'action dans ce cas.*
-
- 4. **Tous les cas, sauf lorsque *Protecteur du Sanctuaire* est face recto.**
- 
-      *Alpha peut toujours s'activer et tenter de détruire Protecteur Mortuaire dans le Cimetière (tout comme Colère Divine) ainsi que pour Solda (tout comme Beelze et Trappe sans Fond). Il peut également s'être activé sous Décret, bien que ses effets seraient annulés (tout comme les effets de monstre sous Absorption de Compétence). Enfin, souvenez-vous qu'Alpha peut être utilisée lors de la Damage Step, puisqu'il s'agit d'une carte Contre Piège. Cependant, lorsque Protecteur du Sanctuaire est face recto, il n'est pas possible de tenter de piocher pour Alpha, donc Alpha ne peut pas être activée.*
-
-</details>
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>Tous les cas, sauf lorsque <i>Protecteur du Sanctuaire</i> est face recto.</strong><br>
+    <i>Alpha peut toujours s'activer et tenter de détruire Protecteur Mortuaire dans le Cimetière (tout comme Colère Divine) ainsi que pour Solda (tout comme Beelze et Trappe sans Fond). Il peut également s'être activé sous Décret, bien que ses effets seraient annulés (tout comme les effets de monstre sous Absorption de Compétence). Enfin, souvenez-vous qu'Alpha peut être utilisé lors de la Damage Step, puisqu'il s'agit d'une carte Contre Piège. Cependant, lorsque Protecteur du Sanctuaire est face recto, il n'est pas possible de tenter de piocher pour Alpha, donc Alpha ne peut pas être activée.</i>
+    </p>
+    </details>
 
 Nous arrivons à l'avant-dernier article, concernant le [Game State et un sujet mystère !](12_Divers.md) Quel est-il ? Découvrez-le dans le prochain article !
 

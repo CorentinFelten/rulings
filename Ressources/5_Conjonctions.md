@@ -11,7 +11,7 @@ Les 4 conjonctions principales sont <ins>*puis*</ins>, <ins>*et si vous le faite
 
     *Ciblez 1 monstre Zombie dans votre Cimetière et 1 monstre dans le Cimetière de votre adversaire ; Invoquez Spécialement la première cible, <ins>et aussi</ins>, bannissez la seconde cible.*
 
-Ici, l'effet est de la forme 'faire A, *et aussi* faire B', où A est l'Invocation Spéciale de la première cible, et B le bannissement de la seconde cible. La structure est similaire pour les autres conjonctions :
+Ici, l'effet est de la forme 'faire A, *et aussi* faire B', où A est l'Invocation Spéciale de la première cible et B le bannissement de la seconde cible. La structure est similaire pour les autres conjonctions :
 - *Nékroz de Valkyrus* :
     
     *Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir 1 carte "Nékroz" depuis votre Cimetière et défausser cette carte ; annulez l'attaque, <ins>puis</ins> terminez la Battle Phase.*
@@ -84,7 +84,7 @@ Supposons que je déclare une attaque. Mon adversaire active l'effet de *Nékroz
     
     *Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir 1 carte "Nékroz" depuis votre Cimetière et défausser cette carte ; annulez l'attaque, <ins>puis</ins> terminez la Battle Phase.*
 
-*Valkyrus* ne peut donc plus annuler l'attaque, puisque le monstre n'est plus entrain d'attaquer. Comme *Valkyrus* utilise la conjonction *puis*, il ne pourra pas terminer la Battle Phase.
+*Valkyrus* ne peut donc plus annuler l'attaque, puisque le monstre n'est plus en train d'attaquer. Comme *Valkyrus* utilise la conjonction *puis*, il ne pourra pas terminer la Battle Phase.
 
 Supposons maintenant que j'active *Le Livre de la Vie*, et que mon adversaire utilise son *Corbeau D.D.* pour bannir ma cible de type Zombie dans mon Cimetière.
 - *Le Livre de la Vie* :
@@ -94,12 +94,12 @@ Supposons maintenant que j'active *Le Livre de la Vie*, et que mon adversaire ut
 Comme *Le Livre de la Vie* utilise la conjonction *et aussi*, bien que je ne puisse pas Invoquer Spécialement ma première cible à la résolution, la seconde cible sera tout de même bannie.
 
 ## "Et"
-Il existe une conjonction supplémentaire, en plus des 4 mentionnées plus haut : *et*. Lorsqu'un effet dit 'faire A *et* B', il explique que A et B sont simultanés en terme de timing. Cependant, contrairement à *et si vous le faites* et *et aussi*, la conjonction demande de pouvoir réaliser A et B à la résolution, et dans le cas où l'un des deux n'est pas réalisable, l'effet ne fera rien.
+Il existe une conjonction supplémentaire, en plus des 4 mentionnées plus haut : *et*. Lorsqu'un effet dit 'faire A *et* B', il explique que A et B sont simultanés en termes de timing. Cependant, contrairement à *et si vous le faites* et *et aussi*, la conjonction demande de pouvoir réaliser A et B à la résolution, et dans le cas où l'un des deux n'est pas réalisable, l'effet ne fera rien.
 
 Par exemple, *Numéro 53 : Heart-eartH* utilise la conjonction *et* :
 - *Lorsque cette carte sur le Terrain est détruite par un effet de carte tant qu'elle n'a pas de Matériel Xyz : vous pouvez Invoquer Spécialement 1 "Numéro 92 : Dragon Heart-eartH" depuis votre Extra Deck <ins>et</ins> lui attacher cette carte depuis le Cimetière comme Matériel Xyz. (Cette Invocation Spéciale est traitée comme une Invocation Xyz.)*
 
-Dans cet effet, la partie A est l'Invocation Spéciale de *Numéro 92*, et la partie B est attacher *Numéro 53* en tant que Matériel Xyz. Si *Corbeau D.D.* bannit *Numéro 53* du Cimetière, l'effet n'Invoquera pas *Numéro 92*. Aussi, l'Invocation Spéciale et le fait d'attacher sont simultanés en termes de timing, donc si cette action a lieu en Chain Link 1, *Hommage Torrentiel* peut être activé en réponse à l'Invocation.
+Dans cet effet, la partie A est l'Invocation Spéciale de *Numéro 92*, et la partie B est d'attacher *Numéro 53* en tant que Matériel Xyz. Si *Corbeau D.D.* bannit *Numéro 53* du Cimetière, l'effet n'Invoquera pas *Numéro 92*. Aussi, l'Invocation Spéciale et le fait d'attacher sont simultanés en termes de timing, donc si cette action a lieu en Chain Link 1, *Hommage Torrentiel* peut être activé en réponse à l'Invocation.
 
 ## Divers
 Comment retenir toutes ces conjonctions ? La façon dont elles sont écrites est d'une aide précieuse : *et si vous le faites* et *puis* suggèrent que B est dépendant de la bonne résolution de A, *puis* et *après cela* suggèrent que les deux parties de l'effet ne sont pas simultanées, etc. Avec de l'entraînement, ces conjonctions ne sont pas compliquées à retenir, et vous pourrez toujours les revérifier en cas d'oubli.
@@ -125,34 +125,54 @@ Nous reviendrons sur la légalité d'activation dans un article futur.
 
     Le second effet de *Yazi* peut-il être activé ?
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+
+    <strong>Non.</strong><br>
+
+    <i>Stellnova Alpha utilise "puis", ce qui veut dire que la destruction et la pioche ne sont pas simultanées. La destruction de Yazi n'est donc pas l'une des dernières actions à avoir lieu.</i>
+    </p>
+    </details>
+
 2. Supposons maintenant que Joueur A active le second effet de *Yazi* dans le Cimetière, et que Joueur B l'annule avec *Stellnova Alpha*. Joueur B peut-il piocher 1 carte ?
+
+    <details>
+    <summary>Réponse</summary>
+    <p>
+
+    <strong>Non.</strong><br>
+
+    <i>Puisque Yazi est dans le Cimetière, il ne peut pas être détruit par Alpha, et comme Alpha utilise "puis", Joueur B ne peut pas piocher.</i>
+    </p>
+    </details>
 
 3. Qu'arrive-t-il au monstre "tellchevalier" que j'ai ciblé quand mon adversaire chaîne *Espace de Négation* (qui empêche d'Invoquer Spécialement) à mon *Satellchevalier Pont Célèste* ?
     - *Satellchevalier Pont Célèste* :
 
         *Ciblez 1 monstre "tellchevalier" que vous contrôlez ; Invoquez Spécialement 1 monstre "tellchevalier" de nom différent depuis votre Deck, et si vous le faites, mélangez le monstre ciblé dans le Deck.*
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+
+    <strong>Le monstre ciblé reste sur le Terrain.</strong><br>
+
+    <i>Pont Célèste emploie "et si vous le faites", ce qui veut dire que si le monstre tellchevalier ne peut pas être Invoqué Spécialement, la cible ne peut pas être mélangée sur le Terrain.</i>
+    </p>
+    </details>
+
 4. Mon adversaire peut-il activer *Hommage Torrentiel* en réponse à l'effet de *Satellchevalier Pont Célèste* en Chain Link 1 ?
 
-<details>
-<summary>Réponses</summary>
-    
- 1. **Non.** 
-   
-      *Stellnova Alpha utilise "puis", ce qui veut dire que la destruction et la pioche ne sont pas simultanées. La destruction de Yazi n'est donc pas l'une des dernières actions à avoir lieu.*
-      
- 2. **Non.** 
-   
-      *Puisque Yazi est dans le Cimetière, il ne peut pas être détruit par Alpha, et comme Alpha utilise "puis", Joueur B ne peut pas piocher.*
- 
- 3. **Le monstre ciblé reste sur le Terrain.** 
-      
-      *Pont Célèste emploie "et si vous le faites", ce qui veut dire que si le monstre tellchevalier ne peut pas être Invoqué Spécialement, la cible ne peut pas être mélangée sur le Terrain.*
+    <details>
+    <summary>Réponse</summary>
+    <p>
 
- 4. **Oui.** 
- 
-      *Puisque Pont Célèste emploie "et si vous le faites", l'Invocation Spéciale et le retour dans le Deck sont les dernières actions à avoir lieu, donc Hommage Torrentiel peut être activé.*
-</details>
+    <strong>Oui.</strong><br>
+
+    <i>Puisque Pont Célèste emploie "et si vous le faites", l'Invocation Spéciale et le retour dans le Deck sont les dernières actions à avoir lieu, donc Hommage Torrentiel peut être activé.</i>
+    </p>
+    </details>
 
 Pour conclure, voici le post officiel sur le blog de Konami concernant les [conjonctions](https://yugiohblog.konami.com/articles/?p=4514).
 

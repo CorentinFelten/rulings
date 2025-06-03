@@ -26,7 +26,7 @@ Ensuite, nous avons des effets comme *Double Invocation* et *Chaîne d'Invocatio
 
     *Ce tour, vous pouvez mener 2 Invocations/Poses Normales, pas uniquement 1.*
 
-Ces cartes changent votre nombre d'Invocation Normale par défaut pour le tour. Ensuite, vous pouvez rajouter des Invocations supplémentaires par-dessus. Par exemple, *Double Invocation* + *Eidos* implique que vous aurez 2 Invocations Normales par défaut + 1 Invocation supplémentaire pour *Eidos*, pour un total de 3.
+Ces cartes changent votre nombre d'Invocations Normale par défaut pour le tour. Ensuite, vous pouvez rajouter des Invocations supplémentaires par-dessus. Par exemple, *Double Invocation* + *Eidos* implique que vous aurez 2 Invocations Normales par défaut + 1 Invocation supplémentaire pour *Eidos*, pour un total de 3.
 
 Enfin, il existe beaucoup d'effets d'Invocations Normales supplémentaires qui sont formulées comme *Yosenju Kama 1* :
 - *Si cette carte est Invoquée Normalement, vous pouvez : immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre "Yosenju" ("Yosenju Kama 1" exclu) depuis votre main.*
@@ -115,10 +115,42 @@ Il est impossible de **tenter l'action** d'Invocation du second *Kaiju*, **même
     Si les deux monstres sont contrôlés par le même joueur, il choisira lequel garder et lequel détruire.
 
 ## C'est l'heure du Quiz !
-1. Que se passe-t-il lorsqu'un joueur active *Désynchronisation* sur un monstre Synchro après qu'il ait été banni temporairement par *Farfa* ?
+1. Que se passe-t-il lorsqu'un joueur active *Désynchronisation* sur un monstre Synchro après qu'il a été banni temporairement par *Farfa* ?
+
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>Les matériels peuvent être Invoqués, puisque les monstres Synchro ne les oublient pas.</strong>
+    </p>
+    </details>
+
 2. Qu'arrive-t-il durant la End Phase à un monstre Spirit qui a été temporairement banni par *Transporteur Interdimensionel de Matière* ?
+
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>Les monstres Spirit n'oublient pas qu'ils ont été Invoqués ce tour, donc ils retournent à la main.</strong>
+    </p>
+    </details>
+
 3. Un joueur peut-il activer *Contrôle Mental* pour prendre contrôle d'un monstre *Kaiju* alors qu'il en contrôle déjà un ? Si oui, que se passe-t-il ?
+
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>L'activation de <i>Contrôle Mental</i> est légale et le nouveau Kaiju sera détruit par mécanique de jeu.</strong>
+    </p>
+    </details>
+
 4. Joueur B contrôle 2 monstres *Kaiju*, dont 1 Posé. Joueur A attaque celui face verso avec un monstre ayant une ATK supérieure à la DEF du *Kaiju*. Que se passe-t-il ?
+
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>Le Kaiju est marqué pour destruction par le combat normalement, mais est détruit par mécanique de jeu après le calcul des dommages.</strong>
+    </p>
+    </details>
+
 5. Combien de fois puis-je Invoquer Normalement au total si j'applique les effets de *Eidos* et de *Mithra* ?
    - *Eidos, l'Écuyer Souterrain* :
 
@@ -128,22 +160,14 @@ Il est impossible de **tenter l'action** d'Invocation du second *Kaiju*, **même
 
         *Si cette carte est Sacrifiée pour une Invocation Sacrifice : vous pouvez activer cet effet ; vous pouvez Invoquer par Sacrifice 1 monstre durant votre Main Phase ce tour, en plus de votre Invocation/Pose Normale ce tour. (Vous ne pouvez gagner cet effet qu'une fois par tour.)*
 
-<details>
-<summary>Réponses</summary>
-    
- 1. **Les matériels peuvent être Invoqués, puisque les monstres Synchro ne les oublient pas.** 
-      
- 2. **Les monstres Spirit n'oublient pas qu'ils ont été Invoqués ce tour, donc ils retournent à la main.** 
- 
- 3. **L'activation de *Contrôle Mental* est légale et le nouveau Kaiju sera détruit par mécanique de jeu.** 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong><i>Mithra</i> et <i>Eidos</i> entrent tous deux sous la même catégorie d'effets, donc je n'aurais que mon Invocation Normale par défaut et une Invocation Sacrifice supplémentaire.</strong>
+    </p>
+    </details>
 
- 4. **Le Kaiju est marqué pour destruction par le combat normalement, mais est détruit par mécanique de jeu après le calcul des dommages.** 
-
- 5. ***Mithra* et *Eidos* entrent tous deux sous la même catégorie d'effets, donc je n'aurais que mon Invocation Normale par défaut et une Invocation Sacrifice supplémentaire.** 
-
-</details>
-
-## Et ensuite..?
+## Et ensuite...?
 Les sujets abordés ici ont été sélectionnés pour vous donner une base solide en termes de mécaniques de jeu que vous rencontrerez. Donc en travaillant de manière assidue à travers cette série, vous devriez être capable de répondre à la majorité des questions de rulings que vous rencontrerez. 
 
 Cependant, **il y a beaucoup de questions que nous n'aurons pas traité**. Par exemple, que se passe-t-il lorsqu'un monstre *Abysses Ardents* active son effet dans la main pour s'Invoquer Spécialement, mais qu'il ne peut pas être Invoqué à la résolution à cause de *Combat en Présence de l'Empereur* ou *Espace de Négation* ? Pour des questions comme celle-ci, il est essentiel de suivre des forums de rulings pour plus de clarification, ou bien obtenir clarification directement de la part d'un Head Judge à un événement, puisqu'ils sont la seule autorité pour l'événement. (Le monstre *Abysses Ardents* reste en main, d'ailleurs).

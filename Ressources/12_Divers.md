@@ -8,7 +8,7 @@ N'oubliez pas de jeter un œil au dernier article, sur les [légalités d'activa
 ## Le Game State
 Le Game State (traduisible en État de Jeu, en français) correspond à l'emplacement de chaque carte connue par chaque joueur. Naturellement, le Game State évolue au fur et à mesure que les joueurs piochent des cartes et effectuent des actions. 
 
-À noter que l'ordre du Deck est aléatoire, donc son ordre ne fait pas partie du Game State (sauf si des effets comme *Zombie Épidémique* sont utilisés pour placer une carte au-dessus du Deck). Donc si je mélange le Deck, le Game State n'est pas changé. De plus, "connaître des cartes" ne fait pas non plus partie du Game State : si je révèle une carte de ma main ou une carte Posée sans raison particulière, alors le Game State n'est pas brisé. 
+À noter que l'ordre du Deck est aléatoire, donc son ordre ne fait pas partie du Game State (sauf si des effets comme *Zombie Épidémique* sont utilisés pour placer une carte au-dessus du Deck). Donc si je mélange le Deck, le Game State n'est pas changé. De plus, "connaître des cartes" ne fait pas non plus parti du Game State : si je révèle une carte de ma main ou une carte Posée sans raison particulière, alors le Game State n'est pas brisé. 
 
 Si le Game State ne peut pas être réparé de sorte que les deux joueurs peuvent le vérifier, alors le Game State est dit irréparable. Voyons quelques exemples. 
 
@@ -98,7 +98,7 @@ Une fois que l'effet d'*Excalibur* arrête de s'appliquer (mais que *Tours* est 
 
 Vous devriez maintenant pouvoir comprendre cette interaction très intéressante :
 
-*Je contrôle Aile Noire - Mistral le Tourbillon, et mon adversaire contrôle Tragoedia.*
+*Je contrôle Aile Noire - Mistral le Tourbillon et mon adversaire contrôle Tragoedia.*
 
 - *Aile Noire - Mistral le Tourbillon* :
 
@@ -125,11 +125,27 @@ Il existe bien plus de modificateurs compliqués et d'interactions, et très peu
 
     L'activation de *Pot de Dualité* était-elle légale ? Si non, comment réparer le Game State ?
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>L'activation était illégale et les cartes révélées devront être placée dans le bon ordre au-dessus du Deck.</strong><br>
+    <i>Les policies Konami expliquent que les cartes révélées accidentellement doivent être montrées aux deux joueurs et remises dans le Deck dans le bon ordre, sans le mélanger. Le joueur ayant activé illégalement Pot de Dualité doit donc récupérer les deux cartes mélangées dans son Deck ainsi que la carte ajoutée, les remettre dans l'ordre précédent, mélanger son Deck et replacer les trois cartes au-dessus du Deck.</i>
+    </p>
+    </details>
+
 2. *Pierre Blanche Légendaire* est envoyée à mon Cimetière, et j'active son effet :
 
     - *Si cette carte est envoyée au Cimetière : ajoutez 1 "Dragon Blanc aux Yeux Bleus" depuis votre Deck à votre main.*
 
     Cependant, je m'aperçois que je n'ai plus de *Dragon Blanc aux Yeux Bleus* dans mon Deck : les trois exemplaires sont dans mon Cimetière. Mon activation était-elle correcte ?
+
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>L'activation était légale.</strong><br>
+    <i>L'effet de Pierre Blanche est obligatoire, donc tant que son activation n'est pas explicitement empêchée, alors il doit être activé, même s'il ne peut pas résoudre (voir [l'article précédent](11_Legalite_Activation.md)).</i>
+    </p>
+    </details>
 
 3. Supposons que je contrôle la carte Magie Continue *Formation Feu - Tenki*, et que j'Invoque *Bujin Yamato* (avec 1800 d'ATK d'origine). Supposons maintenant que je veuille utiliser l'effet de *Bujingi Grue* en attaquant avec :
 
@@ -143,23 +159,13 @@ Il existe bien plus de modificateurs compliqués et d'interactions, et très peu
 
     Quelle est l'ATK de *Yamato* après que l'effet de *Grue* ait résolu ? Quelle est l'ATK de *Yamato* après que l'effet de *Grue* arrête de s'appliquer ?
 
-<details>
-<summary>Réponses</summary>
-    
- 1. **L'activation était illégale, et les cartes révélées devront être placée dans le bon ordre au dessus du Deck.** 
-   
-      *Les policies Konami expliquent que les cartes révélées accidentellement doivent être montrées aux deux joueurs et remises dans le Deck dans le bon ordre, sans le mélanger. Le joueur ayant activé illégalement Pot de Dualité doit donc récupérer les deux cartes mélangées dans son Deck ainsi que la carte ajoutée, les remettre dans l'ordre précédent, mélanger son Deck et replacer les trois cartes au dessus du Deck.*
-      
- 2. **L'activation était légale.** 
-   
-      *L'effet de Pierre Blanche est obligatoire, donc tant que son activation n'est pas explicitement empêchée, alors il doit être activé, même s'il ne peut pas résoudre (voir [l'article précédent](11_Legalite_Activation.md)).*
- 
- 3. **3600, puis 1900.** 
-      
-      *L'effet de Grue gèle l'ATK de Yamato à 3600. L'effet de Tenki ne s'applique plus par-dessus, puisque sa connexion à Yamato a été coupée. Ensuite, puisque le boost de Tenki s'applique de manière continue, il recommencera à augmenter l'ATK de Yamato une fois que l'effet de Grue arrête de s'appliquer et que l'ATK de Yamato est dégelée.*
-
-</details>
-
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>3600, puis 1900.</strong><br>
+    <i>L'effet de Grue gèle l'ATK de Yamato à 3600. L'effet de Tenki ne s'applique plus par-dessus, puisque sa connexion à Yamato a été coupée. Ensuite, puisque le boost de Tenki s'applique de manière continue, il recommencera à augmenter l'ATK de Yamato une fois que l'effet de Grue arrête de s'appliquer et que l'ATK de Yamato est dégelée.</i>
+    </p>
+    </details>
 
 Lors du dernier article, nous observerons quelques [mécaniques avancées](13_Mecaniques_Avancees.md) avant de conclure cette série.
 

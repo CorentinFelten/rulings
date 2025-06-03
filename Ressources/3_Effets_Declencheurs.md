@@ -29,7 +29,7 @@ Les effets de *Tireur* et de *Gunde* ne s'activent pas encore, bien qu'ils aient
 
 <ins>Résolution de Chaîne</ins> : *Megalo* est Invoqué Spécialement.
 
-A ce moment là, on regarde quels effets ont été déclenchés et veulent s'activer. *Tireur* et *Gunde* ont attendu, et à ce moment précis le second effet de *Megalo* a également été déclenché.
+À ce moment précis, on regarde quels effets ont été déclenchés et veulent s'activer. *Tireur* et *Gunde* ont attendu, et à ce moment précis le second effet de *Megalo* a également été déclenché.
 
 Cette situation, lorsque plusieurs effets déclencheurs veulent s'activer en même temps, est appelée SEGOC : Simultaneous Effects Go On Chain (ou Effets Simultanés Vont En Chaîne en français, mais nous resterons avec le terme de SEGOC lors de cette série).
 
@@ -86,7 +86,7 @@ Revenons à l'exemple avec *Tireur*, *Gunde* et *Megalo* :
 
 <ins>Résolution</ins> : *Mégalo* s'Invoque Spécialement
 
-*Tireur*, *Gunde* et *Megalo* on tous les trois validé la condition d'activation de leurs effets. *Tireur* est un effet obligatoire du **JT**, donc il s'active en premier. *Gunde* et *Megalo* sont tous deux des effets optionnels du **JT**, donc ils peuvent être activés dans l'ordre du choix du **JT**.
+*Tireur*, *Gunde* et *Megalo* ont tous les trois validé la condition d'activation de leurs effets. *Tireur* est un effet obligatoire du **JT**, donc il s'active en premier. *Gunde* et *Megalo* sont tous deux des effets optionnels du **JT**, donc ils peuvent être activés dans l'ordre du choix du **JT**.
 
 - <ins>Chain Link 1</ins> : *Tireur*, ciblant une carte Posée
 
@@ -99,18 +99,18 @@ Les Chaînes ont été développées entièrement dans les exemples ci-dessus, c
 ## Points divers
 Il est important de s'assurer que tous les effets déclencheurs ont été utilisés pour la construction de la Chaîne avant qu'un des joueurs puisse Chaîner des effets rapides. Même les cartes Pièges Contre ne peuvent pas être utilisées pendant que des effets déclencheurs sont ajoutés à la Chaîne. Ce point est important, car pour pouvoir annuler l'activation d'un effet, il faut que l'effet soit Chaîné directement à cette activation.
 
-Certaines cartes Magie et Piège ont des effets qui s'activent lorsqu'une condition est remplie, pendant que la carte Magie / Piège est face recto. Ces effets sont comparables à des effets déclencheurs, et fonctionnent de la même manière que les effets déclencheurs. Ils respecteront ainsi les règles de SEGOC. 
+Certaines cartes Magie et Piège ont des effets qui s'activent lorsqu'une condition est remplie, pendant que la carte Magie / Piège est face recto. Ces effets sont comparables à des effets déclencheurs et fonctionnent de la même manière que les effets déclencheurs. Ils respecteront ainsi les règles de SEGOC. 
 
 Un bon exemple de ce type d'effet est le second effet d'*Espace de Négation* :
 - *Aucun joueur ne peut Invoquer Spécialement de monstres. Si une carte est envoyée depuis le Deck ou Terrain à votre Cimetière : détruisez cette carte.*
 
 Quelques avertissements :
-1. SEGOC ne s'applique pas sur les effets s'activant durant certaines Phases ou Step précises (par exemple lors de la Standby Phase, ou la End Step de la Battle Phase). Ces effets s'activent et se résolvent dans des Chaînes séparées.
+1. SEGOC ne s'applique pas sur les effets s'activant durant certaines Phases ou Step précises (par exemple lors de la Standby Phase ou la End Step de la Battle Phase). Ces effets s'activent et se résolvent dans des Chaînes séparées.
 
     Par exemple, supposons que vous avez deux *Lyla la Magicienne, Seigneur Lumière* sur le Terrain :
     - *Une fois par tour, durant votre End Phase : envoyez les 3 cartes du dessus de votre Deck au Cimetière.*
 
-    Les effets des deux Lyla ne forment pas une Chaîne durant la End Phase : ils s'active et se résolvent séparément.
+    Les effets des deux Lyla ne forment pas une Chaîne durant la End Phase : ils s'activent et se résolvent séparément.
 
 2. Il existe une exception unique à la règle de SEGOC. Pour résumer, il n'est pas possible d'activer plusieurs effets déclencheurs dans la même chaîne qui impliquent une Invocation Spéciale de la main (ou des effets déclencheurs qui s'activent de la main et qui Invoquent Spécialement). Par exemple, il n'est pas possible d'activer 1 *Gorz, l'Émissaire des Ténèbres* **et** 1 *Tragoedia* en réponse à une attaque, malgré le fait qu'en appliquant strictement la règle de SEGOC, les deux cartes s'activeraient en Chaîne. 
    - *Gorz, l'Émissaire des Ténèbres* :
@@ -129,6 +129,22 @@ Quelques avertissements :
 
     Quel joueur **pioche** en premier ?
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+
+    <strong>Le NJT pioche en premier.</strong><br>
+
+    <i>Les deux Mathématiciens veulent s'activer au même moment, ils construisent donc une Chaîne en accord avec le SEGOC :</i><br><br>
+
+    <i>CL1 : Mathématicien du <strong>JT</strong></i><br><br>
+
+    <i>CL2 : Mathématicien du <strong>NJT</strong></i><br><br>
+
+    <i>La Chaîne se résout dans le sens inverse de sa construction.</i>
+    </p>
+    </details>
+
 2. Joueur A active *Changement de Masque* sur *Zéro Absolu, HÉROS Élémentaire*, afin d'Invoquer Spécialement *Acid, HÉROS Masqué*.
    - *Changement de Masque* :
        
@@ -144,10 +160,30 @@ Quelques avertissements :
 
     Quelle Chaîne est formée après résolution du *Changement de Masque* ?
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+
+    <strong>Peu importe l'ordre !</strong><br>
+
+    <i>Acid et Zéro Absolu veulent tous les deux activer leur effet après la résolution de Changement de Masque, ils forment donc une Chaîne en respectant le SEGOC. Les deux effets sont des effets obligatoires du <strong>JT</strong>, donc ce dernier décide de leur ordre d'activation.</i>
+    </p>
+    </details>
+
 3. En continuant sur la situation précédente, Joueur B possède une *Colère Divine* de Posée. 
    - *Lorsqu'un effet de monstre est activé : défaussez 1 carte ; annulez l'activation, et si vous le faites, détruisez le monstre.*
 
     Joueur B peut-il annuler l'effet de *Zéro Absolu* avec *Colère Divine* ? Joueur B peut-il annuler l'effet de *Acid* ?
+
+    <details>
+    <summary>Réponse</summary>
+    <p>
+
+    <strong><i>Colère Divine</i> ne pourra annuler que l'effet du second monstre dans la Chaîne.</strong><br>
+
+    <i>Zéro Absolu et Acid entrent au même moment dans la Chaîne en tant qu'effets déclencheurs. Colère Divine ne pourra être ajoutée à la Chaîne qu'après les deux effets déclencheurs et doit être chaîné directement à l'effet qu'elle tente d'annuler.</i>
+    </p>
+    </details>
 
 4. Joueur A contrôle *Espace de Négation* et *La Troupe Exilée*. Joueur B contrôle *Faucon Marionnette de l'Ombre*. Joueur A Sacrifie *La Troupe Exilée* pour détruire *Faucon Marionnette de l'Ombre*.
    - *Espace de Négation* :
@@ -162,40 +198,29 @@ Quelques avertissements :
        
        *Si cette carte est envoyée au Cimetière par un effet de carte : vous pouvez l'Invoquer Spécialement en Position de Défense face verso.*
 
-    A quel moment *Espace de Négation* active-t'il son second effet ? *Faucon Marionnette de l'Ombre* peut-il s'activer ?
+    À quel moment *Espace de Négation* active-t-il son second effet ? *Faucon Marionnette de l'Ombre* peut-il s'activer ?
+
+    <details>
+    <summary>Réponse</summary>
+    <p>
+
+    <strong><i>Espace de Négation</i> s'active après que l'effet de <i>Troupe Exilée</i> ait été résolu. L'effet de <i>Faucon</i> ne pourra pas être activé.</strong><br>
+
+    <i>Bien que l'effet d'Espace de Négation soit déclenché immédiatement, il n'est pas chaîné à l'effet de Troupe Exilée : il attend de s'activer dans la Chaîne suivante. Après la résolution de Troupe Exilée, Espace de Négation et Faucon ont tous deux été déclenchés, mais comme Espace de Négation est encore sur le Terrain à ce moment précis, son effet continu s'applique toujours, donc l'effet de Faucon ne peut pas être activé.</i>
+    </p>
+    </details>
 
 5. Est-il possible d'activer l'effet de deux *Kagetokage* en réponse à la même Invocation Normale ?
    - *Lorsque vous Invoquez Normalement un monstre de Niveau 4 : vous pouvez Invoquer Spécialement cette carte depuis votre main.*
 
-<details>
-<summary>Réponses</summary>
-    
- 1. **Le NJT pioche en premier.** 
-   
-      *Les deux Mathématiciens veulent s'activer au même moment, ils construisent donc une Chaîne en accordance avec le SEGOC :*
-      
-      *CL1 : Mathématicien du **JT***
-      
-      *CL2 : Mathématicien du **NJT***
+    <details>
+    <summary>Réponse</summary>
+    <p>
 
-      *La Chaîne se résout dans le sens inverse de sa construction.*
+    <strong>Ce n'est pas possible.</strong><br>
 
-      
- 2. **Peu importe l'ordre !** 
-   
-      *Acid et Zéro Absolu veulent tous les deux activer leur effet après la résolution de Mask Change, ils forment donc une Chaîne en respectant le SEGOC. Les deux effets sont des effets obligatoires du **JT**, donc ce dernier décide de leur ordre d'activation.*
- 
- 3. ***Colère Divine* ne pourra annuler que l'effet du second monstre dans la Chaîne.** 
-      
-      *Zéro Absolu et Acid entrent au même moment dans la Chaîne en tant qu'effets déclencheurs. Colère Divine ne pourra être ajoutée à la Chaîne qu'après les deux effets déclencheurs, et doit être chaîné directement à l'effet qu'elle tente d'annuler.*
-
- 4. ***Espace de Négation* s'active après que l'effet de *Troupe Exilée* ait été résolu. L'effet de *Faucon* ne pourra pas être activé.** 
- 
-      *Bien que l'effet d'Espace de Négation soit déclenché immédiatement, il n'est pas chaîné à l'effet de Troupe Exilée : il attend de s'activer dans la Chaîne suivante. Après la résolution de Troupe Exilée, Espace de Négation et Faucon ont tous deux été déclenchés, mais comme Espace de Négation est encore sur le Terrain à ce moment précis, son effet continu s'applique toujours, donc l'effet de Faucon ne peut pas être activé.*
-
- 5. **Ce n'est pas possible.** 
- 
-      *L'effet déclencheur de Kagetokage implique une Invocation Spéciale de la main, donc il n'est possible d'en activer qu'un seul.*
-</details>
+    <i>L'effet déclencheur de Kagetokage implique une Invocation Spéciale de la main, donc il n'est possible d'en activer qu'un seul.</i>
+    </p>
+    </details>
 
 Le prochain article portera sur les [effets optionnels "Lorsque"](4_When_Optionnels.md).

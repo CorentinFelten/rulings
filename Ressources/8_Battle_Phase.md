@@ -18,7 +18,7 @@ Chaque Battle Phase commence par la **Start Step**. Après cette étape, la **Ba
 
 Observons maintenant chaque Step en détail.
 ## Start Step
-Il n'y a pas grand chose de spécifique à dire dans cette Step, à part qu'il s'agit du meilleur moment pour activer *Rugissement Menaçant* :
+Il n'y a pas grand-chose de spécifique à dire dans cette Step, à part qu'il s'agit du meilleur moment pour activer *Rugissement Menaçant* :
 - *Votre adversaire ne peut pas déclarer d'attaque ce tour.*
 
 
@@ -64,12 +64,12 @@ La Battle Step est également l'étape lors de laquelle un Replay d'attaque peut
 
 Traduction en français :
 
-*"Après avoir annoncé quel monstre attaque et quelle sera la cible de l'attaque durant une Battle Step, la cible de l'attaque peut être retirée du Terrain, ou un nouveau monstre peut être placé sur le Terrain de l'adversaire avant l'entrée en Damage Step, à cause d'un effet de carte. Cette action cause un “Replay”. Lorsque cette situation arrive, vous pouvez choisir d'attaquer de nouveau avec le même monstre, d'attaquer avec un autre monstre, ou ne pas attaquer du tout. À noter que si vous attaquez avec un autre monstre, le premier monstre sera considéré comme ayant déclaré une attaque, et il ne pourra plus attaquer ce tour."*
+*"Après avoir annoncé quel monstre attaque et quelle sera la cible de l'attaque durant une Battle Step, la cible de l'attaque peut être retirée du Terrain ou un nouveau monstre peut être placé sur le Terrain de l'adversaire avant l'entrée en Damage Step, à cause d'un effet de carte. Cette action cause un “Replay”. Lorsque cette situation arrive, vous pouvez choisir d'attaquer de nouveau avec le même monstre, d'attaquer avec un autre monstre, ou ne pas attaquer du tout. À noter que si vous attaquez avec un autre monstre, le premier monstre sera considéré comme ayant déclaré une attaque, et il ne pourra plus attaquer ce tour."*
 
 Par exemple, supposons que j'attaque le *Magicien Sombre* de mon adversaire avec mon *Dragon Blanc aux Yeux Bleus*. Mon adversaire répond à l'attaque avec *Appel de l'Être Hanté*, pour Invoquer de nouveau *Apprenti Sorcier* :
 - *Tant que cette carte reste face recto sur le Terrain, augmentez l'ATK de tous les monstres TÉNÈBRES de 500 points et diminuez l'ATK des monstres LUMIÈRE de 400 points.*
 
-Mes cibles d'attaques ont changées, donc je peux :
+Mes cibles d'attaques ont changé, donc je peux :
 1. Sélectionner de nouveau ma cible d'attaque, en choisissant soit *Magicien sombre* soit *Apprenti Sorcier*
 2. Annuler l'attaque
 
@@ -119,6 +119,14 @@ Une fois que le joueur du tour ne souhaite plus déclarer d'attaque, le joueur a
 
        *Lorsqu'un monstre déclare une attaque : ciblez 1 monstre face recto sur le Terrain ; jusqu'à la fin de la Battle Phase, il gagne 1000 ATK.*
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+      <strong>Uniquement <i>Cercle des Rois du Feu</i>.</strong><br>
+      <i>Les deux autres cartes ne changent pas les cibles d'attaque potentielles, contrairement à Cercle.</i>
+    </p>
+    </details>
+
 2. Quels effets peuvent être activés durant la Damage Step ?
 
      - *Hommage Torrentiel* :
@@ -133,6 +141,14 @@ Une fois que le joueur du tour ne souhaite plus déclarer d'attaque, le joueur a
 
        *Lorsqu'un effet de monstre est activé : défaussez 1 carte ; annulez l'activation, et si vous le faites, détruisez le monstre.*
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>Uniquement <i>Colère Divine</i>.</strong><br>
+    <i>Hommage Torrentiel n'a pas de raison d'être autorisé durant la Damage Step et l'effet de Loi des Ténèbres exclue spécifiquement la Damage Step. Colère Divine annule l'activation des effets, donc elle peut être activée.</i>
+    </p>
+    </details>
+
 3. J'entre en Battle Phase. Puis-je déclarer une attaque avec *Golem Rouages Ancients* avant que mon adversaire n'active *Rugissement Menaçant* ?
      - *Rugissement Menaçant* :
 
@@ -142,31 +158,26 @@ Une fois que le joueur du tour ne souhaite plus déclarer d'attaque, le joueur a
 
        *Si cette carte attaque, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step.*
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>Non.</strong><br>
+    <i>Rugissement Menaçant peut être activé durant la Start Step, avant que Golem Rouages Ancients ne puisse déclarer une attaque durant la Battle Step. N'oubliez pas du dernier article sur le timing d'effets rapides que les Phases ne changent pas sans que les deux joueurs ne soient d'accord.</i>
+    </p>
+    </details>
 
 4. Puis-je activer *Flèches Anti-Magie* avant que mon adversaire n'active *Rugissement Menaçant* ? 
      - *Flèches Anti-Magie* :
 
        *Au début de la Battle Phase : le reste de ce tour après la résolution de cette carte, aucun joueur ne peut activer ni de Cartes Magie/Piège ni leurs effets. Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de cette carte.*
 
-<details>
-<summary>Réponses</summary>
-    
- 1. **Uniquement *Cercle des Rois du Feu*.** 
-   
-      *Les deux autres cartes ne changent pas mes cibles d'attaque potentielles, contrairement à Cercle.*
-      
- 2. **Uniquement *Colère Divine*.** 
-   
-      *Hommage Torrentiel n'a pas de raison d'être autorisé durant la Damage Step, et l'effet de Loi des Ténèbres exclue spécifiquement la Damage Step. Colère Divine annule l'activation des effets, donc elle peut être activée.*
- 
- 3. **Non.** 
-      
-      *Rugissement Menaçant peut être activé durant la Start Step, avant que Golem Rouages Ancients ne puisse déclarer une attaque durant la Battle Step. N'oubliez pas du dernier article sur le timing d'effets rapides que les Phases ne changent pas sans que les deux joueurs ne soient d'accord.*
-
- 4. **Oui.**
- 
-      *Le Joueur du Tour a le droit d'activer un effet rapide avant son adversaire lors de la Start Step, de nouveau d'après les timings d'effet rapide.*
-</details>
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>Oui.</strong><br>
+    <i>Le Joueur du Tour a le droit d'activer un effet rapide avant son adversaire lors de la Start Step, de nouveau d'après les timings d'effet rapide.</i>
+    </p>
+    </details>
 
 Lors du prochain article, nous nous pencherons plus en détail sur la structure de la [Damage Step](9_Damage_Step.md).
 

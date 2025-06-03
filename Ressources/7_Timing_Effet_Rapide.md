@@ -19,7 +19,7 @@ Actuellement, ma carte est la dernière dans la Chaîne, donc mon adversaire a l
 Pour la règle suivante, il vous faudra revenir à l'une des règles du SEGOC : *Si un effet déclencheur tente de s'activer, il est mis sur une Chaîne en accord avec les règles du SEGOC, et seulement après les effets rapides pourront être chaînés*. Après que tous les effets déclencheurs soient mis sur la Chaîne, l'adversaire du joueur dont le dernier effet est entré sur la Chaîne a le droit d'agir ou passer, comme vu plus haut.
 
 ## Le Graphe
-Il existe bien plus de cas dans lesquels on pourrait se demander quel joueur a le droit d'activer des effets rapides, et ce sans même penser aux effets non-rapides. Heureusement, Konami a créé un graphe excellent pour nous expliquer précisément quel joueur a le droit d'agir à n'importe quel moment !
+Il existe bien plus de cas dans lesquels on pourrait se demander quel joueur a le droit d'activer des effets rapides, et ce, sans même penser aux effets non-rapides. Heureusement, Konami a créé un graphe excellent pour nous expliquer précisément quel joueur a le droit d'agir à n'importe quel moment !
 
 Voici dont le graphe de Timing d'Effet Rapide (le graphe n'existe pas en français pour le moment, donc il est en anglais) :
 
@@ -27,7 +27,7 @@ Voici dont le graphe de Timing d'Effet Rapide (le graphe n'existe pas en frança
 
 Élégant, n'est-ce pas ? Ce graphe réduit les questions de timing à un simple suivi des flèches.
 
-Pour commencer, un peu de terminologie. Pour clarifier, un effet rapide est simplement un effet Spell Speed 2 ou plus. Ceci inclue un effet de carte Piège au Cimetière, comme *Compétence de Percée*, ou des effets sur le Terrain de carte Piège Continue comme *Brouillard des Ténèbres*.
+Pour commencer, un peu de terminologie. Pour clarifier, un effet rapide est simplement un effet Spell Speed 2 ou plus. Ceci inclue un effet de carte Piège au Cimetière, comme *Compétence de Percée* ou des effets sur le Terrain de carte Piège Continue comme *Brouillard des Ténèbres*.
 
 On dit que le Game State (l'état du jeu) est ouvert quand on se trouve dans la boîte A. Lors d'un Game State ouvert, le joueur du tour peut effectuer n'importe quelle action (légale, bien entendu) qu'il veut. Les Game States ouverts sont importants, car il s'agit du seul moment lors duquel les effets non-rapides et actions démarrant des chaînes peuvent être effectuées.
 
@@ -55,7 +55,28 @@ En utilisant le graphe de Timing d'Effet Rapide, répondez aux questions suivant
 1. Mon adversaire peut-il activer l'effet de *Illusionniste d'Effet* avant que je ne bouge à la Battle Phase ?
     - *Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière, puis ciblez 1 Monstre à Effet contrôlé par votre adversaire ; jusqu'à la fin de ce tour, annulez les effets du monstre face recto contrôlé par votre adversaire.*
 
+     <details>
+     <summary>Réponse</summary>
+     <p>
+
+     - <strong>Oui.</strong><br>
+
+     <i>Nous arrivons sur la droite du Graphe. On peut y voir que le joueur du tour ne peut pas terminer sa Phase sans passer par la Boîte E, dans laquelle l'adversaire peut activer Illusionniste d'Effet.</i>
+     </p>
+     </details>
+
 2. S'il le peut, puis-je continuer ma Main Phase 1 après son activation ?
+
+     <details>
+     <summary>Réponse</summary>
+     <p>
+
+     - <strong>Oui.</strong><br>
+
+     <i>Après que n'importe quelle Chaîne ait résolu, on passe par la Boîte 'Est-ce qu'un effet déclencheur a été activé ?', ainsi que les Boîtes B et C, avant de revenir à la Boîte A. Les Phases ne changent donc pas jusqu'à ce que les deux joueurs soient d'accord (comme l'explique le Graphe).</i>
+     </p>
+     </details>
+
 3. Mon adversaire et moi-même contrôlons tous deux un *Hommage Torrentiel* de Posé. J'invoque normalement *Guide des Enfers* :
 
    - *Lorsque cette carte est Invoquée Normalement : vous pouvez Invoquer Spécialement 1 monstre Démon de Niveau 3 depuis votre main ou Deck, mais annulez ses effets, et aussi, il ne peut pas être utilisé comme Matériel Synchro.*
@@ -65,27 +86,27 @@ En utilisant le graphe de Timing d'Effet Rapide, répondez aux questions suivant
     - Mon *Hommage Torrentiel*
     - L'*Hommage Torrentiel* de mon adversaire
 
+     <details>
+     <summary>Réponse</summary>
+     <p>
+
+     - <strong>L'effet de <i>Guide des Enfers</i>.</strong><br>
+
+     <i>Nous sommes sur le côté gauche du Graphe. La boîte d'après est la boîte 'Est-ce qu'un effet déclencheur est activé ?'.</i>
+     </p>
+     </details>
+
 4. Si j'active l'effet de *Guide* dans le scénario du dessus, lequel d'entre nous peut chaîner son *Hommage Torrentiel* en premier ?
 
-<details>
-<summary>Réponses</summary>
-    
- 1. **Oui.** 
-   
-      *Nous arrivons sur la droite du Graphe. On peut y voir que le joueur du tour ne peut pas terminer sa Phase sans passer par la Boîte E, dans laquelle l'adversaire peut activer Illusionniste d'Effet.*
-      
- 2. **Oui.** 
-   
-      *Après que n'importe quelle Chaîne ait résolu, on passe par la Boîte 'Est-ce qu'un effet déclencheur a été activé ?', ainsi que les Boîtes B et C, avant de revenir à la Boîte A. Les Phases ne changent donc pas jusqu'à ce que les deux joueurs soient d'accord (comme l'explique le Graphe).*
- 
- 3. **L'effet de *Guide des Enfers*.** 
-      
-      *Nous sommes sur le côté gauche du Graphe. La boîte d'après est la boîte 'Est-ce qu'un effet déclencheur est activé ?'.*
+     <details>
+     <summary>Réponse</summary>
+     <p>
 
- 4. **Mon adversaire peut activer son *Hommage Torrentiel* en premier.**
- 
-      *Lorsqu'on commence à construire une Chaîne, l'adversaire du joueur dont le dernier effet mis sur la chaîne peut activer le prochain effet.*
-</details>
+     - <strong>Mon adversaire peut activer son <i>Hommage Torrentiel</i> en premier.</strong><br>
+
+     <i>Lorsqu'on commence à construire une Chaîne, l'adversaire du joueur dont le dernier effet mis sur la chaîne peut activer le prochain effet.</i>
+     </p>
+     </details>
 
 Enfin, n'hésitez pas à lire l'[article Konami sur ce sujet](https://www.yugioh-card.com/en/play/fast-effect-timing/).
 

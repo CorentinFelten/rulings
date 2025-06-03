@@ -1,10 +1,10 @@
 # Démystification de rulings
 
 # 1. PSCT
-Vos cartes vous en expliquent plus sur leur fonctionnement que ce que l'on pourrait croire. Les cartes sorties, ou réimprimées, après 2011, soit une grande majorité des cartes utilisées aujourd'hui, ont été écrites en *Problem Solving Card Text* (PSCT, ou Texte de Carte pour de la Résolution de Problèmes). Cela veut dire qu'avec un peu de connaissances, il est possible de connaître beaucoup d'informations supplémentaires sur le fonctionnement d'un effet de carte, et ce uniquement depuis son texte. 
+Vos cartes vous en expliquent plus sur leur fonctionnement que ce que l'on pourrait croire. Les cartes sorties, ou réimprimées, après 2011, soit une grande majorité des cartes utilisées aujourd'hui, ont été écrites en *Problem Solving Card Text* (PSCT, ou Texte de Carte pour de la Résolution de Problèmes). Cela veut dire qu'avec un peu de connaissances, il est possible de connaître beaucoup d'informations supplémentaires sur le fonctionnement d'un effet de carte, et ce, uniquement à partir de son texte. 
 
 ## PSCT et Chaînes
-A travers le PSCT, il est possible de dire si un effet démarre une Chaîne ou non. En plus de l'importance évidente des Chaînes dans Yu-Gi-Oh!, certaines cartes mentionnent des effets activés, comme *Démon de la Majesté* et *Miroir Absorbant des Ténèbres*, donc il est important de savoir quels effets s'activent et lesquels ne s'activent pas.
+Au travers du PSCT, il est possible de dire si un effet démarre une Chaîne ou non. En plus de l'importance évidente des Chaînes dans Yu-Gi-Oh!, certaines cartes mentionnent des effets activés, comme *Démon de la Majesté* et *Miroir Absorbant des Ténèbres*, donc il est important de savoir quels effets s'activent et lesquels ne s'activent pas.
 
 **Un effet démarre une Chaîne si, et seulement si, il a un deux-points *( : )* ou un point-virgule *( ; ).***
 
@@ -17,13 +17,13 @@ Par exemple, prenez *Graff, Malebranche des Abysses Ardents* :
 
 Quel effet de *Graff* démarre une Chaîne ? On peut voir que son effet d'Invoquer Spécialement depuis le Deck démarre une Chaîne, puisqu'il a un deux-points dedans. On peut également voir que l'effet de s'Invoquer Spécialement depuis la main démarre une Chaîne. Cependant, son effet de se détruire si le joueur ne contrôle pas de monstre "Abysses Ardents" ne démarre PAS de Chaîne, puisqu'il n'a ni deux-points ni point-virgule. 
 
-Un autre exemple est *Perdez 1 Tour* :
+Un autre exemple avec *Perdez 1 Tour* :
 
 - *Activez uniquement si vous ne contrôlez actuellement aucun monstre Invoqué Spécialement. Tant qu'un monstre est face recto sur le Terrain, annulez ses effets durant le tour où ce monstre a été Invoqué Spécialement. Si un ou plusieurs Monstres à Effet sont Invoqués Spécialement en Position d'Attaque : changez-les en Position de Défense.*
 
 L'effet de changer un monstre en Position de Défense démarre une Chaîne, parce qu'il a un deux-points. Cependant, son effet d'annuler les effets de monstres n'en démarre pas, parce qu'il n'a ni deux-points ni point-virgule. 
 
-Une Invocation Normale, attaque, pose d'un Monstre / Magie / Piège etc... ne démarrent PAS de Chaîne : ces points sont mentionnés dans le livret de règles page **47**. Seules des activations de cartes et effets démarrent des Chaînes. Activer des Cartes Magies et Pièges démarrent toujours une Chaîne, peu importe la présence ou non de deux-points et point-virgule, et ceux apparaissant dans le texte sont présent simplement pour structurer l'effet. 
+Une Invocation Normale, attaque, pose d'un Monstre / Magie / Piège, etc. **ne démarrent pas de Chaîne** : ces points sont mentionnés dans le livret de règles page **47**. Seules des activations de cartes et effets démarrent des Chaînes. Activer des Cartes Magies et Pièges démarrent toujours une Chaîne, peu importe la présence ou non de deux-points et point-virgule, et ceux apparaissant dans le texte sont présents simplement pour structurer l'effet. 
 
 Toutes les phrases dans le texte d'une carte sans deux-points ou point-virgule ne correspondent pas des effets continus : certaines sont des conditions. Le PSCT n'est pas encore capable de les différentier pour nous, donc elles sont à interpréter au cas-par-cas. Par exemple, la première phrase de l'effet de *Denko Sekka* est une condition, tandis que la seconde est clairement un effet continu :
 
@@ -45,7 +45,7 @@ Comparons cet effet à *Destriers Bête Spirituelle* :
 Il n'y a pas de point-virgule dans l'effet, donc le choix de destruction de monstres s'effectue à la résolution de l'effet. 
 
 ## PSCT et Conditions d'Activation
-A quoi sert la virgule ? Ce point est un petit peu plus technique.
+À quoi sert la virgule ? Ce point est un petit peu plus technique.
 
 **Les Conditions d'Activation sont écrites avant une virgule *( , )*. Elles ont simplement besoin d'être vraies au moment de l'activation de l'effet.**
 
@@ -63,7 +63,7 @@ Certains effets n'auront pas de conditions spécifiques pour activer leurs effet
 <ins>Condition d'activation de l'effet</ins> : <ins>action à effectuer à son activation</ins> ; <ins>actions à effectuer lors de la résolution de l'effet</ins>
 
 ## C'est l'heure du Quiz !
-Utilisez ce que l'ont vient d'apprendre pour répondre aux questions suivantes.
+Utilisez ce que l'on vient d'apprendre pour répondre aux questions suivantes.
 
 1. Quel(s) effet(s) démarre une chaîne ?
    - L'effet de *Grapha, Seigneur Dragon du Monde Ténébreux* de s'Invoquer Spécialement du Cimetière :
@@ -78,6 +78,16 @@ Utilisez ce que l'ont vient d'apprendre pour répondre aux questions suivantes.
 
       *Si cette carte attaque, jusqu'à la fin de la Damage Step, votre adversaire ne peut ni activer de cartes ni d'effets.*
 
+   <details>
+   <summary>Réponse</summary>
+   <p>
+
+   <strong>Uniquement l'effet de <i>Simorgh des Ténèbres</i>.</strong><br>
+         
+      <i>Les effets ne démarrent une chaîne que lorsqu'ils ont un point-virgule ou un deux-points.</i>
+   </p>
+   </details>
+
 2. Quelle(s) action(s) sont des coûts ?
    - Défausser pour cet effet de *Uni-Zombie* : 
 
@@ -91,6 +101,16 @@ Utilisez ce que l'ont vient d'apprendre pour répondre aux questions suivantes.
 
       *Vous pouvez renvoyer 1 autre monstre "Peluchimal" que vous contrôlez à la main ; Invoquez Spécialement 1 monstre "Lutin Tranchant" depuis votre main ou Cimetière.*
 
+   <details>
+   <summary>Réponse</summary>
+   <p>
+
+   <strong>Seulement renvoyer un monstre à la main pour <i>Mouton Peluchimal</i>.</strong><br>
+
+      <i>Une action est un coût uniquement lorsqu'elle est écrite avant un deux-points.</i>
+   </p>
+   </details>
+
 3. Vrai ou Faux : Si j'active *Dai Imprévu* et que je chaîne *Appel de l'Être Hanté*, *Dai Imprévu* invoque Spécialement quand même.
       - *Dai Imprévu* : 
         
@@ -100,6 +120,16 @@ Utilisez ce que l'ont vient d'apprendre pour répondre aux questions suivantes.
        
         *Activez cette carte en ciblant 1 monstre dans votre Cimetière ; Invoquez Spécialement la cible en Position d'Attaque. Lorsque cette carte quitte le Terrain, détruisez le monstre. Lorsque le monstre est détruit, détruisez cette carte.*
 
+   <details>
+   <summary>Réponse</summary>
+   <p>
+
+   <strong>Vrai.</strong><br>
+
+      <i>Ne contrôler aucun monstre est uniquement une condition d'activation, parce que cette portion est rédigée avant le deux-points et la carte ne précise pas qu'il faut n'avoir aucun monstre en résolution.</i>
+   </p>
+   </details>
+
 4. Vrai ou Faux : Si j'invoque Spécialement *Archdémon Enfernité* tant que je n'ai aucune carte en main, et que je chaîne *Jarre de Cupidité* à l'activation de son effet, l'effet de *Archdémon Enfernité* me laisse quand même ajouter une carte.
       - *Archdémon Enfernité* :
       
@@ -108,25 +138,17 @@ Utilisez ce que l'ont vient d'apprendre pour répondre aux questions suivantes.
         
         *Piochez 1 carte.*
 
-<details>
-<summary>Réponses</summary>
-    
- 1. **Uniquement l'effet de *Simorgh des Ténèbres*.** 
-   
-      *Les effets ne démarrent une chaîne que lorsqu'ils ont un point-virgule ou un deux-points.*
- 2. **Seulement renvoyer un monstre à la main pour *Mouton Peluchimal*.** 
-   
-      *Une action est un coût uniquement lorsqu'elle est écrite avant un deux-points.*
- 
- 3. **Vrai.** 
-      
-      *Ne contrôler aucun monstre est uniquement une condition d'activation, parce que cette portion est rédigée avant le deux-points, et la carte ne précise pas qu'il faut n'avoir aucun monstre en résolution.*
- 4. **Faux.** 
- 
-      *N'avoir aucune carte en main n'est pas uniquement une condition d'activation, comme l'effet de Archdémon Enfernité le précise explicitement*
-</details>
+   <details>
+   <summary>Réponse</summary>
+   <p>
 
-Ce n'est pas la dernière fois que nous parlerons de PSCT ! D'autres éléments viendront tout au long de cette série. Si vous souhaitez en lire plus sur le PSCT en général, vous pouvez consulter les [articles officiels Konami sur le sujet](https://yugiohblog.konami.com/articles/?tag=problem-solving-card-text) (rédigés en Anglais).
+   <strong>Faux.</strong><br>
+
+      <i>N'avoir aucune carte en main n'est pas uniquement une condition d'activation, comme l'effet de Archdémon Enfernité le précise explicitement.</i>
+   </p>
+   </details>
+
+Ce n'est pas la dernière fois que nous parlerons de PSCT ! D'autres éléments viendront tout au long de cette série. Si vous souhaitez en lire plus sur le PSCT en général, vous pouvez consulter les [articles officiels Konami sur le sujet](https://yugiohblog.konami.com/articles/?tag=problem-solving-card-text) (rédigés en anglais).
 
 Enfin, avant d'appliquer les règles énoncées plus haut, veillez à vous assurer que la carte est bien écrite en PSCT ! Comme décrit au début, la grande majorité des cartes que vous rencontrerez sont écrites en PSCT, mais si une carte est ancienne et n'a pas été réimprimée depuis longtemps, alors les règles énoncées ne s'appliqueront pas.
 

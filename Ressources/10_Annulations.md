@@ -51,11 +51,11 @@ Quelque chose qui est probablement évident à ceux qui ont joué aux jeux vidé
 Les effets ne "suivent pas la carte dont ils proviennent". Par exemple, si vous contrôlez *Voiturcarte D* :
 - *Durant votre Main Phase 1, si cette carte a été Invoquée Normalement ce tour : vous pouvez Sacrifier cette carte ; piochez 2 cartes, puis passez à la End Phase.*
 
-Vous pouvez activer cet effet sur le Terrain, et sacrifier *Voiturcarte D*.
+Vous pouvez activer cet effet sur le Terrain et sacrifier *Voiturcarte D*.
 
 <ins>Chain Link 1</ins> : *Voiturcarte D*, se Sacrifiant en coût.
 
-*Voiturcarte D* est maintenant dans le Cimetière, mais l'effet lui-même a été activé sur le Terrain, et résout donc sur le Terrain. 
+*Voiturcarte D* est maintenant dans le Cimetière, mais l'effet lui-même a été activé sur le Terrain et résout donc sur le Terrain. 
 
 De la même manière, l'effet des "Hand Traps" comme *Ange de Loyauté* s'activent dans la main et les effets de cartes qui se bannissent du Cimetière comme coût s'activent dans le Cimetière. Vous pouvez vous représenter ce phénomène comme l'effet qui "sort" de la carte à l'activation de l'effet. Cet effet flotte ensuite là où il s'est activé, jusqu'à ce qu'il soit résolu.
 
@@ -82,10 +82,26 @@ Une fois que vous savez comment une carte annule des effets, vous pouvez jouer a
 1. Est-ce que le second effet de *Zefranoyau Marionnette de l'Ombre* peut être utilisé après que l'activation du premier effet a été annulé ?
    - *Si cette carte est Invoquée par Pendulation ou envoyée au Cimetière : vous pouvez cibler 1 carte "Zefra" ("Zefranoyau Marionnette de l'Ombre" exclu) dans votre Zone Pendule ; Invoquez-la Spécialement. Vous ne pouvez utiliser cet effet de "Zefranoyau Marionnette de l'Ombre" qu'une fois par tour.*
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>Non.</strong><br>
+    <i>Vous ne pouvez utiliser qu'1 effet de Zefranoyau par tour, et même si l'activation est annulée, l'effet est toujours considéré comme utilisé.</i>
+    </p>
+    </details>
+
 2. Qu'en est-il de l'effet de *Princessuchou Sylvan* ?
 
     *Vous ne pouvez activer chaque effet de "Princessuchou Sylvan" qu'une fois par tour.*
     - *Vous pouvez Sacrifier cette carte ; dévoilez la carte du dessus de votre Deck, envoyez-la au Cimetière, puis vous pouvez placer 1 monstre "uchou" dans votre Cimetière au-dessus de votre Deck.*
+
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>Oui.</strong><br>
+    <i>Vous ne pouvez activer l'effet de Princessuchou qu'une fois par tour, donc si l'activation de la première est annulée, une autre peut être activée.</i>
+    </p>
+    </details>
 
 3. Quels effets peuvent annuler l'activation de l'effet de *Création du Yang Zing* (un Piège Continu) qui est déjà face recto sur le Terrain ?
     - *Création du Yang Zing* :
@@ -103,6 +119,14 @@ Une fois que vous savez comment une carte annule des effets, vous pouvez jouer a
     - *Infernoid Onuncu*
 
         *Une fois par tour, durant le tour de chaque joueur, lorsqu'une Carte Magie/Piège ou un effet est activé : vous pouvez Sacrifier 1 monstre ; annulez l'activation, et si vous le faites, bannissez la carte.*
+
+   <details>
+   <summary>Réponse</summary>
+   <p>
+   <strong>Seul l'effet de <i>Ononcu</i>.</strong><br>
+   <i>Stellnova Alpha et Avertissement ne peuvent annuler que l'activation de cartes Magies / Pièges. Ils ne peuvent pas annuler l'activation d'effets de Magies / Pièges. Cependant, l'effet d'Ononcu peut annuler l'activation de cartes ou effets de Magies / Pièges.</i>
+   </p>
+   </details>
 
 4. Quels effets suivants *Miroir Absorbant des Ténèbres* peut-il annuler ?
 
@@ -122,6 +146,15 @@ Une fois que vous savez comment une carte annule des effets, vous pouvez jouer a
 
        *(Effet Rapide) : vous pouvez Sacrifier cette carte, puis ciblez 1 monstre face recto que vous contrôlez ; jusqu'à la fin du prochain tour, il gagne 1000 ATK.*
 
+
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>L'effet de <i>Back Jack</i> et le Sacrifice de <i>Juragedo</i>.</strong><br>
+    <i>Ces effets s'activent dans le Cimetière et sur le Terrain respectivement, même si les cartes arrivent ailleurs une fois leurs coûts payés. De la même manière, l'effet d'Invocation Spéciale de Juragedo s'active et résout dans la main.</i>
+    </p>
+    </details>
+
 5. Supposons que *Chaîne Démoniaque* annule les effets de *Infernoid Pirmais* :
    - *Chaîne Démoniaque* :
 
@@ -132,35 +165,23 @@ Une fois que vous savez comment une carte annule des effets, vous pouvez jouer a
 
     Cet effet de *Infernoid Pirmais* peut-il être activé pour se sacrifier ? Bannira-t-il avec succès sa cible ?
 
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>L'effet de <i>Pirmais</i> peut être activé et il bannira sa cible.</strong><br>
+    <i>Chaîne Démoniaque n'annule que les effets de cartes qui sont face recto à leur résolution, de la même manière qu'Absorption de Compétence. Pirmais se Sacrifie en coût, donc il ne sera pas face recto.</i>
+    </p>
+    </details>
+
 6. Que se passerait-il si *Infernoid Pirmais* était remplacé par *Nékroz de Valkyrus* ?
    - *Durant votre Main Phase : vous pouvez Sacrifier max. 2 monstres depuis votre main et/ou Terrain, et si vous le faites, piochez le même nombre de cartes que vous avez Sacrifiées.*
 
-<details>
-<summary>Réponses</summary>
-    
- 1. **Non.** 
-   
-      *Vous ne pouvez utiliser qu'1 effet de Zefranoyau par tour, et même si l'activation est annulée, l'effet est toujours considéré comme utilisé.*
-      
- 2. **Oui.** 
-   
-      *Vous ne pouvez activer l'effet de Princessuchou qu'une fois par tour, donc si l'activation de la première est annulée, une autre peut être activée.*
- 
- 3. **Seul l'effet de *Ononcu*.** 
-      
-      *Stellnova Alpha et Avertissement ne peuvent annuler que l'activation de cartes Magies / Pièges. Ils ne peuvent pas annuler l'activation d'effets de Magies / Pièges. Cependant, l'effet d'Ononcu peut annuler l'activation de cartes ou effets de Magies / Pièges.*
-
- 4. **L'effet de *Back Jack* et le Sacrifice de *Juragedo*.**
- 
-      *Ces effets s'activent dans le Cimetière et sur le Terrain respectivement, même si les cartes arrivent ailleurs une fois leurs coûts payés. De la même manière, l'effet d'Invocation Spéciale de Juragedo s'active et résout dans la main.*
-
- 5. **L'effet de *Pirmais* peut être activé et il bannira sa cible.**
- 
-      *Chaîne Démoniaque n'annule que les effets de cartes qui sont face recto à leur résolution, de la même manière qu'Absorption de Compétence. Pirmais se Sacrifie en coût, donc il ne sera pas face recto.*
-
- 6. **L'effet de *Valkyrus* peut être activé, mais il ne pourra pas Sacrifier.**
- 
-      *Le Sacrifice fait partie de l'effet. En supposant que Valkyrus est toujours face recto à la résolution de l'effet, Chaîne Démoniaque annulera ses effets.*
-</details>
+    <details>
+    <summary>Réponse</summary>
+    <p>
+    <strong>L'effet de <i>Valkyrus</i> peut être activé, mais il ne pourra pas Sacrifier.</strong><br>
+    <i>Le Sacrifice fait partie de l'effet. En supposant que Valkyrus est toujours face recto à la résolution de l'effet, Chaîne Démoniaque annulera ses effets.</i>
+    </p>
+    </details>
 
 Le prochain article concernera la [légalité d'activation](11_Legalite_Activation.md).
