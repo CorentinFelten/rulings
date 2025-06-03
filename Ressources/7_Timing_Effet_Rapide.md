@@ -59,7 +59,7 @@ En utilisant le graphe de Timing d'Effet Rapide, répondez aux questions suivant
      <summary>Réponse</summary>
      <p>
 
-     - <strong>Oui.</strong><br>
+     <strong>Oui.</strong><br>
 
      <i>Nous arrivons sur la droite du Graphe. On peut y voir que le joueur du tour ne peut pas terminer sa Phase sans passer par la Boîte E, dans laquelle l'adversaire peut activer Illusionniste d'Effet.</i>
      </p>
@@ -71,7 +71,7 @@ En utilisant le graphe de Timing d'Effet Rapide, répondez aux questions suivant
      <summary>Réponse</summary>
      <p>
 
-     - <strong>Oui.</strong><br>
+     <strong>Oui.</strong><br>
 
      <i>Après que n'importe quelle Chaîne ait résolu, on passe par la Boîte 'Est-ce qu'un effet déclencheur a été activé ?', ainsi que les Boîtes B et C, avant de revenir à la Boîte A. Les Phases ne changent donc pas jusqu'à ce que les deux joueurs soient d'accord (comme l'explique le Graphe).</i>
      </p>
@@ -90,7 +90,7 @@ En utilisant le graphe de Timing d'Effet Rapide, répondez aux questions suivant
      <summary>Réponse</summary>
      <p>
 
-     - <strong>L'effet de <i>Guide des Enfers</i>.</strong><br>
+     <strong>L'effet de <i>Guide des Enfers</i>.</strong><br>
 
      <i>Nous sommes sur le côté gauche du Graphe. La boîte d'après est la boîte 'Est-ce qu'un effet déclencheur est activé ?'.</i>
      </p>
@@ -102,7 +102,7 @@ En utilisant le graphe de Timing d'Effet Rapide, répondez aux questions suivant
      <summary>Réponse</summary>
      <p>
 
-     - <strong>Mon adversaire peut activer son <i>Hommage Torrentiel</i> en premier.</strong><br>
+     <strong>Mon adversaire peut activer son <i>Hommage Torrentiel</i> en premier.</strong><br>
 
      <i>Lorsqu'on commence à construire une Chaîne, l'adversaire du joueur dont le dernier effet mis sur la chaîne peut activer le prochain effet.</i>
      </p>
