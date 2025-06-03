@@ -108,7 +108,7 @@ En utilisant le graphe de Timing d'Effet Rapide, répondez aux questions suivant
      </p>
      </details>
 
-Enfin, n'hésitez pas à lire l'[article Konami sur ce sujet](https://www.yugioh-card.com/en/play/fast-effect-timing/).
+Enfin, n'hésitez pas à lire l'[article Konami sur ce sujet](https://www.yugioh-card.com/en/play/fast-effect-timing/) (VPN vers les États-Unis nécessaire pour les consulter).
 
 Le prochain article portera sur la [Battle Phase](8_Battle_Phase.md).
 
