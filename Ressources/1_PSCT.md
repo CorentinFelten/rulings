@@ -25,7 +25,7 @@ L'effet de changer un monstre en Position de Défense démarre une Chaîne, parc
 
 Une Invocation Normale, attaque, pose d'un Monstre / Magie / Piège, etc. **ne démarrent pas de Chaîne** : ces points sont mentionnés dans le livret de règles page **47**. Seules des activations de cartes et effets démarrent des Chaînes. Activer des Cartes Magies et Pièges démarrent toujours une Chaîne, peu importe la présence ou non de deux-points et point-virgule, et ceux apparaissant dans le texte sont présents simplement pour structurer l'effet. 
 
-Toutes les phrases dans le texte d'une carte sans deux-points ou point-virgule ne correspondent pas des effets continus : certaines sont des conditions. Le PSCT n'est pas encore capable de les différentier pour nous, donc elles sont à interpréter au cas-par-cas. Par exemple, la première phrase de l'effet de *Denko Sekka* est une condition, tandis que la seconde est clairement un effet continu :
+Toutes les phrases dans le texte d'une carte sans deux-points ou point-virgule ne correspondent pas à des effets continus : certaines sont des conditions. Le PSCT n'est pas encore capable de les différentier pour nous, donc elles sont à interpréter au cas-par-cas. Par exemple, la première phrase de l'effet de *Denko Sekka* est une condition, tandis que la seconde est clairement un effet continu :
 
 - *Non Invocable Spécialement. Tant que vous ne contrôlez aucune Magie/Piège Posé, aucun joueur ne peut ni Poser de Magies/Pièges ni activer de Cartes Magie/Piège qui sont Posées sur le Terrain.*
 
@@ -45,14 +45,14 @@ Comparons cet effet à *Destriers Bête Spirituelle* :
 Il n'y a pas de point-virgule dans l'effet, donc le choix de destruction de monstres s'effectue à la résolution de l'effet. 
 
 ## PSCT et Conditions d'Activation
-À quoi sert la virgule ? Ce point est un petit peu plus technique.
+À quoi sert le deux-points ? Ce point est un petit peu plus technique.
 
-**Les Conditions d'Activation sont écrites avant une virgule *( , )*. Elles ont simplement besoin d'être vraies au moment de l'activation de l'effet.**
+**Les Conditions d'Activation sont écrites avant un deux-points *( : )*. Elles ont simplement besoin d'être vraies au moment de l'activation de l'effet.**
 
 L'effet de *Chevalier Exciton Colonie du Mal* illustre bien ce point : 
 - *Une fois par Chaîne, durant votre Main Phase ou la Battle Phase de votre adversaire, si votre adversaire a plus de cartes en tout dans sa main et sur son Terrain que vous (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; détruisez toutes les autres cartes sur le Terrain, et aussi, votre adversaire ne reçoit pas de dommages complémentaires ce tour.*
 
-La partie "si votre adversaire a plus de cartes" est avant la virgule, donc il s'agit d'une condition d'activation. Elle explicite que l'adversaire doit avoir plus de cartes afin que l'effet soit activable. Donc même si l'adversaire Chaîne des cartes pour en avoir moins sur son Terrain à la résolution, l'effet d'*Exciton* se résoudra quand même.
+La partie "si votre adversaire a plus de cartes" est avant le deux-points, donc il s'agit d'une condition d'activation. Elle explicite que l'adversaire doit avoir plus de cartes afin que l'effet soit activable. Donc même si l'adversaire Chaîne des cartes pour en avoir moins sur son Terrain à la résolution, l'effet d'*Exciton* se résoudra quand même.
 
 Si une carte a une condition à l'activation ET la résolution, elle spécifiera quelque chose comme la dernière phrase de *Grenouille d'Arbre* (anciennement *Rainette*) :
 - *Une fois par tour, durant votre Standby Phase, si cette carte est dans votre Cimetière et que vous ne contrôlez pas "Grenouille d'Arbre" : vous pouvez Invoquer Spécialement cette carte. <ins>Vous ne devez contrôler aucune Carte Magie/Piège pour activer et résoudre cet effet.</ins>*
@@ -148,8 +148,12 @@ Utilisez ce que l'on vient d'apprendre pour répondre aux questions suivantes.
    </p>
    </details>
 
-Ce n'est pas la dernière fois que nous parlerons de PSCT ! D'autres éléments viendront tout au long de cette série. Si vous souhaitez en lire plus sur le PSCT en général, vous pouvez consulter les [articles officiels Konami sur le sujet](https://yugiohblog.konami.com/articles/?tag=problem-solving-card-text) (rédigés en anglais).
+Ce n'est pas la dernière fois que nous parlerons de PSCT ! D'autres éléments viendront tout au long de cette série. Si vous souhaitez en lire plus sur le PSCT en général, vous pouvez consulter les [articles officiels Konami sur le sujet](https://www.yugioh-card.com/eu/fr/play/comprendre-le-texte-des-cartes/) (rédigés en anglais).
 
-Enfin, avant d'appliquer les règles énoncées plus haut, veillez à vous assurer que la carte est bien écrite en PSCT ! Comme décrit au début, la grande majorité des cartes que vous rencontrerez sont écrites en PSCT, mais si une carte est ancienne et n'a pas été réimprimée depuis longtemps, alors les règles énoncées ne s'appliqueront pas.
+Enfin, avant d'appliquer les règles énoncées plus haut, veillez à vous assurer que la carte est bien écrite en PSCT ! Comme décrit au début, la grande majorité des cartes que vous rencontrerez sont écrites en PSCT, mais si une carte est ancienne et n'a pas été réimprimée depuis longtemps, alors les règles énoncées ne s'appliqueront pas. Prenez pour exemple *Ancienne Feuille*. Elle n'a jamais été réimprimée, et n'a donc pas encore vu son texte réécrit pour coller aux règles du PSCT :
+-   *Si vous avez 9000 Life Points ou plus, vous pouvez payer 2000 Life Points pour piocher 2 cartes.*
+
+Son effet est donc à interpréter comme suit :
+-   *Si vous avez 9000 Life Points ou plus : payez 2000 Life Points ; piocher 2 cartes.*
 
 Le prochain article concernera le [Ciblage](2_Ciblage.md).

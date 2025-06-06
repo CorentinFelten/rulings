@@ -37,12 +37,10 @@ Cette situation, lorsque plusieurs effets déclencheurs veulent s'activer en mê
 
 ## SEGOC
 **Lorsque plusieurs effets déclencheurs veulent s'activer en même temps, ils le font dans l'ordre suivant :**
-1. JT - Obligatoire
-2. NJT - Obligatoire
-3. JT - Optionnel
-4. NJT - Optionnel
-
-(où **JT** = Joueur du Tour et **NJT** = Non-Joueur du Tour)
+1. Joueur Actif - Obligatoire
+2. Joueur Opposé - Obligatoire
+3. Joueur Actif - Optionnel
+4. Joueur Opposé - Optionnel
 
 Comme d'habitude, voyons ce concept directement avec un exemple :
 
@@ -63,7 +61,7 @@ Joueur A contrôle *Dante, Voyageur des Abysses Ardents*, avec *Cir, Malebranche
 
 <ins>Résolution</ins> : *Trou Noir* détruit *Dante* et *Beast*, et *Cir* est également envoyé au Cimetière, le tout simultanément.
 
-*Dante* et *Cir* sont tous deux des effets optionnels du **JT**, et rencontrent tous deux leurs conditions d'activation au même moment. Ils iront donc sur la Chaîne en premier en tant que CL1 et CL2 dans l'ordre du choix du **JT**. *Bête* déclenche son effet optionnel pour le **NJT**, donc il viendra après les deux premiers en tant que CL3. 
+*Dante* et *Cir* sont tous deux des effets optionnels du **Joueur Actif** et rencontrent tous deux leurs conditions d'activation au même moment. Ils iront donc sur la Chaîne en premier en tant que CL1 et CL2 dans l'ordre du choix du **Joueur Actif**. *Bête* déclenche son effet optionnel pour le **Joueur Opposé**, donc il viendra après les deux premiers en tant que CL3. 
 
 - <ins>Chain Link 1</ins> et <ins>Chain Link 2</ins> : *Dante* et *Cir* (peu importe l'ordre)
 
@@ -86,7 +84,7 @@ Revenons à l'exemple avec *Tireur*, *Gunde* et *Megalo* :
 
 <ins>Résolution</ins> : *Mégalo* s'Invoque Spécialement
 
-*Tireur*, *Gunde* et *Megalo* ont tous les trois validé la condition d'activation de leurs effets. *Tireur* est un effet obligatoire du **JT**, donc il s'active en premier. *Gunde* et *Megalo* sont tous deux des effets optionnels du **JT**, donc ils peuvent être activés dans l'ordre du choix du **JT**.
+*Tireur*, *Gunde* et *Megalo* ont tous les trois validé la condition d'activation de leurs effets. *Tireur* est un effet obligatoire du **Joueur Actif** (en effet, il ne spécifie pas que le joueur **peut** cibler une carte, il est donc obligatoire), donc il s'active en premier. *Gunde* et *Megalo* sont tous deux des effets optionnels du **Joueur Actif** (en effet, les deux précisent que le joueur actif **peut** effectuer leur effet, mais ne forcent pas le joueur à activer l'effet), donc ils peuvent être activés dans l'ordre du choix du **Joueur Actif**.
 
 - <ins>Chain Link 1</ins> : *Tireur*, ciblant une carte Posée
 
@@ -112,7 +110,7 @@ Quelques avertissements :
 
     Les effets des deux Lyla ne forment pas une Chaîne durant la End Phase : ils s'activent et se résolvent séparément.
 
-2. Il existe une exception unique à la règle de SEGOC. Pour résumer, il n'est pas possible d'activer plusieurs effets déclencheurs dans la même chaîne qui impliquent une Invocation Spéciale de la main (ou des effets déclencheurs qui s'activent de la main et qui Invoquent Spécialement). Par exemple, il n'est pas possible d'activer 1 *Gorz, l'Émissaire des Ténèbres* **et** 1 *Tragoedia* en réponse à une attaque, malgré le fait qu'en appliquant strictement la règle de SEGOC, les deux cartes s'activeraient en Chaîne. 
+2. Il existe une exception unique à la règle de SEGOC. Pour résumer, il n'est pas possible d'activer plusieurs effets déclencheurs dans la même chaîne dont le texte implique une Invocation Spéciale de la main (et ce même si la carte va actuellement s'invoquer depuis ailleurs). Par exemple, il n'est pas possible d'activer 1 *Gorz, l'Émissaire des Ténèbres* **et** 1 *Tragoedia* en réponse à une attaque, malgré le fait qu'en appliquant strictement la règle de SEGOC, les deux cartes s'activeraient en Chaîne. 
    - *Gorz, l'Émissaire des Ténèbres* :
 
        *Lorsque vous recevez des dommages d'une carte possédée par votre adversaire : vous pouvez Invoquer Spécialement cette carte depuis votre main.*
@@ -133,13 +131,13 @@ Quelques avertissements :
     <summary>Réponse</summary>
     <p>
 
-    <strong>Le NJT pioche en premier.</strong><br>
+    <strong>Le Joueur Opposé pioche en premier.</strong><br>
 
     <i>Les deux Mathématiciens veulent s'activer au même moment, ils construisent donc une Chaîne en accord avec le SEGOC :</i><br><br>
 
-    <i>CL1 : Mathématicien du <strong>JT</strong></i><br><br>
+    <i>CL1 : Mathématicien du <strong>Joueur Actif</strong></i><br><br>
 
-    <i>CL2 : Mathématicien du <strong>NJT</strong></i><br><br>
+    <i>CL2 : Mathématicien du <strong>Joueur Opposé</strong></i><br><br>
 
     <i>La Chaîne se résout dans le sens inverse de sa construction.</i>
     </p>
@@ -166,7 +164,7 @@ Quelques avertissements :
 
     <strong>Peu importe l'ordre !</strong><br>
 
-    <i>Acid et Zéro Absolu veulent tous les deux activer leur effet après la résolution de Changement de Masque, ils forment donc une Chaîne en respectant le SEGOC. Les deux effets sont des effets obligatoires du <strong>JT</strong>, donc ce dernier décide de leur ordre d'activation.</i>
+    <i>Acid et Zéro Absolu veulent tous les deux activer leur effet après la résolution de Changement de Masque, ils forment donc une Chaîne en respectant le SEGOC. Les deux effets sont des effets obligatoires du <strong>Joueur Actif</strong>, donc ce dernier décide de leur ordre d'activation.</i>
     </p>
     </details>
 
