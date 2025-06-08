@@ -4,7 +4,7 @@
 
 Cet article se focalisera sur les différents aspects d'une annulation dans Yu-Gi-Oh!.
 
-N'oubliez pas de consulter le dernier article sur la [Damage Step](9_Damage_Step.md) !
+N'oubliez pas de consulter le dernier article sur la [Damage Step](09_Damage_Step.md) !
 
 ## Activer une carte VS activer l'effet d'une carte
 Ces deux points sont différents !

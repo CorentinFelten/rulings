@@ -3,7 +3,7 @@
 # La Battle Phase
 Dans cet article, nous décortiquerons la structure de la Battle Phase, un élément fondamental de chaque duel.
 
-Le [timing d'effet rapide](7_Timing_Effet_Rapide.md) est extrêmement important pour comprendre la Battle Phase. N'hésitez pas à le consulter pour vous rafraîchir la mémoire ! 
+Le [timing d'effet rapide](07_Timing_Effet_Rapide.md) est extrêmement important pour comprendre la Battle Phase. N'hésitez pas à le consulter pour vous rafraîchir la mémoire ! 
 
 ## Structure
 La Battle Phase est comprise de 4 étapes, appelées Steps :
@@ -179,5 +179,5 @@ Une fois que le joueur du tour ne souhaite plus déclarer d'attaque, le joueur a
     </p>
     </details>
 
-Lors du prochain article, nous nous pencherons plus en détail sur la structure de la [Damage Step](9_Damage_Step.md).
+Lors du prochain article, nous nous pencherons plus en détail sur la structure de la [Damage Step](09_Damage_Step.md).
 

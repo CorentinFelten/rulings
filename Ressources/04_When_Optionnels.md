@@ -4,7 +4,7 @@
 
 Cet article concerne le point de règle souvent confus et mal interprété des effets optionnels "Lorsque". 
 
-Avant de commencer, n'oubliez pas de lire le dernier article sur le [SEGOC](3_Effets_Declencheurs.md) !
+Avant de commencer, n'oubliez pas de lire le dernier article sur le [SEGOC](03_Effets_Declencheurs.md) !
 
 ## Règle fondamentale des effets optionnels "Lorsque"
 **Un effet optionnel "Lorsque" ne peut être activé que lorsque sa condition d'activation correspond à "l'une des dernières actions à se dérouler".**
@@ -63,7 +63,7 @@ Jusque-là, il était assez évident de déterminer si la condition d'activation
 Joueur A active la Magie de Terrain *Ville des Engrenages* :
 - *<ins>Lorsque</ins> cette carte est détruite et envoyée au Cimetière : <ins>vous pouvez</ins> Invoquer Spécialement 1 monstre "Rouages Ancients" depuis votre main, Deck ou Cimetière.*
 
-À noter que cet effet déclencheur est un effet optionnel "Lorsque", et donc est capable de manquer de s'activer si sa destruction n'est pas "l'une des dernières actions à avoir lieu".
+À noter que cet effet déclencheur est un effet optionnel "Lorsque" (puisqu'il spécifie "vous pouvez"), et donc est capable de manquer de s'activer si sa destruction n'est pas "l'une des dernières actions à avoir lieu".
 
 Supposons que Joueur B chaîne *Typhon d'Espace Mystique* à l'activation de *Ville des Engrenages* du Joueur A sur le Terrain.
 
@@ -215,4 +215,4 @@ Vous pouvez partir du principe que tous les effets dans les questions ci-dessous
 
 Nous verrons plus en détail cette mécanique, et la verrons en action, dans des articles à venir. 
 
-Le prochain article porte sur les [Conjonctions](5_Conjonctions.md).
+Le prochain article porte sur les [Conjonctions](05_Conjonctions.md).

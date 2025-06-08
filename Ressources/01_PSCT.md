@@ -156,4 +156,4 @@ Enfin, avant d'appliquer les règles énoncées plus haut, veillez à vous assur
 Son effet est donc à interpréter comme suit :
 -   *Si vous avez 9000 Life Points ou plus : payez 2000 Life Points ; piocher 2 cartes.*
 
-Le prochain article concernera le [Ciblage](2_Ciblage.md).
+Le prochain article concernera le [Ciblage](02_Ciblage.md.md).

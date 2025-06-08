@@ -4,7 +4,7 @@
 
 Bien que le jeu n'en donne pas toujours l'impression aujourd'hui, seul un joueur a le droit d'agir à tout moment dans Yu-Gi-Oh!. Dans cet article, nous nous pencherons sur la façon dont les joueurs se passent ce 'droit d'agir' dans les deux sens.
 
-Si vous l'avez manqué, n'oubliez pas de lire le dernier article sur les mécaniques d'[Invocation](6_Invocations.md) !
+Si vous l'avez manqué, n'oubliez pas de lire le dernier article sur les mécaniques d'[Invocation](06_Invocations.md) !
 
 ## Bases
 Dans une Chaîne, l'adversaire du joueur dont le dernier effet est ajouté en Chaîne a le droit d'agir en premier. S'il ne souhaite rien activer, il rend ce droit à l'autre joueur. Après que les deux joueurs aient chacun passé, la Chaîne commence à se résoudre. 
@@ -110,5 +110,5 @@ En utilisant le graphe de Timing d'Effet Rapide, répondez aux questions suivant
 
 Enfin, n'hésitez pas à lire l'[article Konami sur ce sujet](https://www.yugioh-card.com/en/play/fast-effect-timing/) (VPN vers les États-Unis nécessaire pour les consulter).
 
-Le prochain article portera sur la [Battle Phase](8_Battle_Phase.md).
+Le prochain article portera sur la [Battle Phase](08_Battle_Phase.md).
 

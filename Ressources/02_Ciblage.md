@@ -1,7 +1,7 @@
 # Démystification de rulings
 
 # 2. Ciblage
-Dans cet article, nous verrons de nouveaux points sur le PCST ([voir article précédent](1_PSCT.md)), et ce qu'il explique concernant le ciblage. 
+Dans cet article, nous verrons de nouveaux points sur le PCST ([voir article précédent](01_PSCT.md)), et ce qu'il explique concernant le ciblage. 
 
 ## Bases du ciblage
 En utilisant le PSCT, il est aisé d'identifier quand un effet cible ou non. 
@@ -168,5 +168,5 @@ Puisque l'effet précise 'tous les 5', si un *Corbeau D.D.* est chaîné pour ba
 
 Une fois de plus, n'hésitez pas à lire les [articles officiels](https://yugiohblog.konami.com/articles/?tag=problem-solving-card-text) sur le PSCT de Konami. 
 
-Le prochain article portera sur les [Effets Déclencheurs](3_Effets_Declencheurs.md).
+Le prochain article portera sur les [Effets Déclencheurs](03_Effets_Declencheurs.md).
 

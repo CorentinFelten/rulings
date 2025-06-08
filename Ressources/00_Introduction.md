@@ -112,4 +112,4 @@ Voici quelques questions rapides pour tester des points importants. Les réponse
      </p>
      </details>
 
-Le prochain article portera sur le [PSCT](1_PSCT.md).
+Le prochain article portera sur le [PSCT](01_PSCT.md).

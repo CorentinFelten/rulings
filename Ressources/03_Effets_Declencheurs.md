@@ -5,7 +5,7 @@ Les effets déclencheurs sont très présents dans Yu-Gi-Oh!, et leur fonctionne
 
 Cet article partira du principe que vous êtes familier avec le concept de Chaîne. Si ce n'est pas le cas, ou bien pour un petit rafraîchissement, n'hésitez pas à relire le livret de règles officiel. 
 
-Et n'oubliez pas de lire le dernier article sur le [ciblage](2_Ciblage.md).
+Et n'oubliez pas de lire le dernier article sur le [ciblage](02_Ciblage.md.md).
 
 ## Règle fondamentale d'effets déclencheurs
 **Les effets déclencheurs s'activent toujours après que la chaîne actuelle (si elle existe) soit résolue.**
@@ -221,4 +221,4 @@ Quelques avertissements :
     </p>
     </details>
 
-Le prochain article portera sur les [effets optionnels "Lorsque"](4_When_Optionnels.md).
+Le prochain article portera sur les [effets optionnels "Lorsque"](04_When_Optionnels.md).

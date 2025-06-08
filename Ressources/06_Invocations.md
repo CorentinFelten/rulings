@@ -4,7 +4,7 @@
 
 Cet article revient à un élément plus simple, mais tout aussi fondamental du jeu : les Invocations.
 
-N'oubliez pas de jeter un œil à l'article précédent sur les [conjonctions](5_Conjonctions.md) !
+N'oubliez pas de jeter un œil à l'article précédent sur les [conjonctions](05_Conjonctions.md) !
 
 ## Procédure complète d'Invocation Normale
 Afin d'effectuer une Invocation Normale ou une Invocation Sacrifice, il faut sélectionner un monstre à Invoquer, Sacrifier des monstres si nécessaire, sélectionner une Zone Monstre et déclarer l'intention d'Invoquer ce monstre. 
@@ -202,4 +202,4 @@ Est-ce qu'une Chaîne est actuellement en cours de résolution ? Ici, ce n'est p
      </p>
      </details>
 
-Le prochain article portera sur le [Timing d'effet rapide](7_Timing_Effet_Rapide.md).
+Le prochain article portera sur le [Timing d'effet rapide](07_Timing_Effet_Rapide.md).

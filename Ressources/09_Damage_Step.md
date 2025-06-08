@@ -3,7 +3,7 @@
 # Damage Step
 La Damage Step est une zone de règles mystérieuse et complexe. Dans cet article, nous tenterons de développer votre intuition pour en comprendre sa structure. 
 
-Cet article est en lien avec le dernier sur la [Battle Phase](8_Battle_Phase.md).
+Cet article est en lien avec le dernier sur la [Battle Phase](08_Battle_Phase.md).
 
 ## Point initial
 Tout d'abord, je tiens à dire que la Damage Step est complexe à comprendre. Nous la décortiquerons et l'étudierons lentement, mais cet article vous demandera plus de concentration que les autres. 
@@ -58,7 +58,7 @@ Le dommage de combat est infligé ici. Puis, les effets suivants s'activent, en 
 
 À préciser que certaines cartes comme *Trappe Sans Fond* ne pourront pas être activées lors de la Damage Step, donc ne pourront pas être utilisées en réponse à l'Invocation de *Tragoedia*.
 
-Revenons sur *Dame Guerrière D.D.* attaquant mon *Soldat Pingouin* : leurs effets, si activés, formeraient une Chaîne, répondant aux [règles du SEGOC](3_Effets_Declencheurs.md) :
+Revenons sur *Dame Guerrière D.D.* attaquant mon *Soldat Pingouin* : leurs effets, si activés, formeraient une Chaîne, répondant aux [règles du SEGOC](03_Effets_Declencheurs.md) :
 
 - <ins>Chain Link 1</ins> : *Dame Guerrière D.D.*
 
@@ -120,7 +120,7 @@ Le quiz de cet article s'appuiera sur différents rulings et mécaniques étudi�
    <summary>Réponse</summary>
    <p>
    <strong>Seul <i>Avertissement Divin</i> pourra s'activer.</strong><br>
-   <i>Trappe Sans Fond et Chaîne Démoniaque ne peuvent pas être activées durant la Damage Step. Corne Céleste Ténébreuse et Avertissement Divin peuvent toutes deux être activées à ce stade, étant toutes deux des cartes Piège Contre, cependant Corne Céleste Ténébreuse ne peut pas annuler l'Invocation Spéciale de Gorz car l'effet de Gorz [démarre une Chaîne](6_Invocations.md).</i>
+   <i>Trappe Sans Fond et Chaîne Démoniaque ne peuvent pas être activées durant la Damage Step. Corne Céleste Ténébreuse et Avertissement Divin peuvent toutes deux être activées à ce stade, étant toutes deux des cartes Piège Contre, cependant Corne Céleste Ténébreuse ne peut pas annuler l'Invocation Spéciale de Gorz car l'effet de Gorz [démarre une Chaîne](06_Invocations.md).</i>
    </p>
    </details>
 
@@ -142,7 +142,7 @@ Le quiz de cet article s'appuiera sur différents rulings et mécaniques étudi�
    <summary>Réponse</summary>
    <p>
    <strong>Seul mon <i>Abysspike</i> s'activera, dans une nouvelle Chaîne.</strong><br>
-   <i>Résolvons la Chaîne de la question (2) : l'Invocation Spéciale du Abysspike de mon adversaire n'est pas l'une des dernières actions à avoir lieu, alors que l'Invocation Spéciale du mien l'est, donc seul le mien peut s'activer (puisque Abysspike est un [effet optionnel "lorsque"](4_When_Optionnels.md)).</i>
+   <i>Résolvons la Chaîne de la question (2) : l'Invocation Spéciale du Abysspike de mon adversaire n'est pas l'une des dernières actions à avoir lieu, alors que l'Invocation Spéciale du mien l'est, donc seul le mien peut s'activer (puisque Abysspike est un [effet optionnel "lorsque"](04_When_Optionnels.md)).</i>
    </p>
    </details>
 
