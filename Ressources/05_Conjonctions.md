@@ -67,7 +67,7 @@ La condition d'activation de l'effet de *Dragon Pulsar* est l'une des dernières
 
 ## Conjonctions et Résolutions
 
-Les conjonctions nous expliquent également la quantité à résoudre d'un effet si un autre effet perturbateur est chaîné. Ce type d'effet devrait vous rappeler la discussion sur le mot "cible" étant utilisé après le point-virgule, dans le [deuxième article](02_Ciblage.md.md) de cette série.
+Les conjonctions nous expliquent également la quantité à résoudre d'un effet si un autre effet perturbateur est chaîné. Ce type d'effet devrait vous rappeler la discussion sur le mot "cible" étant utilisé après le point-virgule, dans le [deuxième article](02_Ciblage.md) de cette série.
 
 <ins>A doit se résoudre pour faire B</ins> :
 - *et si vous le faites* (*and if you do*)

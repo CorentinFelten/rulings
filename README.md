@@ -7,7 +7,7 @@ Il est vivement conseillé de lire ces articles dans l'ordre, puisque certains s
 ## Sommaire
 - [0 - Introduction](Ressources/00_Introduction.md)
 - [1 - PSCT](Ressources/01_PSCT.md)
-- [2 - Ciblage](Ressources/02_Ciblage.md.md)
+- [2 - Ciblage](Ressources/02_Ciblage.md)
 - [3 - Effets Déclencheurs](Ressources/03_Effets_Declencheurs.md)
 - [4 - Effets "Lorsque" Optionnels](Ressources/04_When_Optionnels.md)
 - [5 - Conjonctions](Ressources/05_Conjonctions.md)
