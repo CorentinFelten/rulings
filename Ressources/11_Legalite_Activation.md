@@ -27,13 +27,14 @@ Par exemple, supposons que l'effet de *Prêtre Invocateur* s'active :
 
 Si *Avertissement Divin* annule l'activation de *Prêtre Invocateur*, alors *Pot de Dualité* pourrait être activé par la suite. Aussi, si *Illusionniste d'Effet* est utilisé pour simplement annuler l'effet, *Pot de Dualité* pourrait être activé par la suite.
 
-## Combat en Présence de l'Empereur / Rivalité des Seigneurs de Guerre
+## Combat en Présence de l'Empereur / Rivalité des Seigneurs de Guerre / Il Ne Peut Y En Avoir Qu'Un 
 *Combat en Présence de l'Empereur* a l'effet suivant :
 - *Chaque joueur ne peut contrôler qu'1 Attribut de monstre. Envoyez tous les autres monstres face recto qu'il contrôle au Cimetière.*
 
-*Rivalité* fonctionne sur le même principe, mais pour les Types.
+*Rivalité* fonctionne sur le même principe, mais pour les Types. De la même manière, *Il Ne Peut Y En Avoir Qu'Un* restreint les joueurs avec l'effet suivant :
+- *Chaque joueur ne peut contrôler qu'1 monstre de chaque Type. Si un joueur contrôle min. 2 monstres du même Type, il doit en envoyer au Cimetière jusqu'à contrôler max. 1 monstre de ce Type.*
 
-De la même manière que pour *Fossile Dyna Pachycéphalosaure*, il n'est pas possible de tenter une Invocation Xyz d'un monstre TERRE en utilisant deux monstres TÉNÈBRE sous *Combat en Présence de l'Empereur*. Cette action correspond à une tentative de contrôle d'un monstre d'un attribut différent.
+Comme pour *Fossile Dyna Pachycéphalosaure*, il n'est pas possible de tenter une Invocation Xyz d'un monstre TERRE en utilisant deux monstres TÉNÈBRE sous *Combat en Présence de l'Empereur*. Cette action correspond à une tentative de contrôle d'un monstre d'un attribut différent.
 
 Il existe différents rulings plus simple à comprendre une fois que ces principes sont assimilés. 
 
@@ -53,11 +54,13 @@ Le coût d'*Illusionniste d'Effet* implique de l'envoyer au Cimetière, mais tan
 Si une carte ne spécifie pas qu'elle a besoin d'être envoyée au Cimetière (par exemple, quand elle précise juste d'être Sacrifiée ou défaussée), alors ses effets peuvent toujours être activés.
 
 ## Principe d'Effets Obligatoires
+Petit rappel sur ce qu'est un effet obligatoire : un effet est obligatoire lorsque, dans la résolution de l'effet, il **n'inclue pas** de mention de "vous pouvez", comme *Sangan* :
+- *Sangan* :
+  - *Si cette carte est envoyée depuis le Terrain au Cimetière : <ins>ajoutez</ins> (et non pas "vous pouvez ajouter") 1 monstre avec max. 1500 ATK depuis votre Deck à votre main, mais vous ne pouvez activer ni de cartes ni d'effets de carte de ce nom le reste de ce tour.*
+
 Le principe gouvernant les effets obligatoires est le suivant : **Les effets obligatoires s'activent toujours, sauf s'ils en sont explicitement incapables.** 
 
 Par exemple, l'effet de *Sangan* pour ajouter du Deck à sa destruction s'activerait toujours même quand *Rai-Oh le Roi du Tonnerre* le détruit au combat :
-- *Sangan* :
-  - *Si cette carte est envoyée depuis le Terrain au Cimetière : ajoutez 1 monstre avec max. 1500 ATK depuis votre Deck à votre main, mais vous ne pouvez activer ni de cartes ni d'effets de carte de ce nom le reste de ce tour.*
 - *Rai-Oh le Roi du Tonnerre* :
   - *Aucun joueur ne peut ajouter de cartes depuis son Deck à sa main, sauf en les piochant.*
 
@@ -98,7 +101,7 @@ Voici ensuite quelques rulings concernant des actions possibles :
 
 - Il EST POSSIBLE d'activer *Trappe sans Fond* sur l'Invocation de *Tours Apoqliphort*. *Similaire au ruling précédent, celui-ci explique que même si une carte n'est pas affectée par des effets de cartes Piège, il est toujours possible de tenter d'utiliser des effets de Piège dessus.*
 
-- Il EST POSSIBLE d'activer *Sacrifice Inutile* tant que *Macro Cosmos* est face recto sur le Terrain. *Bien que toutes les cartes sont bannies au lieu d'être envoyées au Cimetière, il est toujours possible de tenter d'envoyer des cartes au Cimetière en résolution d'effet, mais n'oubliez pas le principe de coûts.*
+- Il EST POSSIBLE d'activer *Sacrifice Inutile* tant que *Macro Cosmos* est face recto sur le Terrain. *Bien que toutes les cartes sont bannies au lieu d'être envoyées au Cimetière, il est toujours possible de tenter d'envoyer des cartes au Cimetière en résolution d'effet. Ceci est différent des coûts.*
 
 Il existe bien évidemment plus de détails concernant la légalité d'activation que nous ne traiterons pas ici, et ce point peut être assez velu en dehors des cas couverts ici. Pour les cas les plus complexes, il est conseillé de consulter un article ou vérifier le ruling au cas par cas.
 

@@ -7,7 +7,7 @@ Bien que le jeu n'en donne pas toujours l'impression aujourd'hui, seul un joueur
 Si vous l'avez manqué, n'oubliez pas de lire le dernier article sur les mécaniques d'[Invocation](06_Invocations.md) !
 
 ## Bases
-Dans une Chaîne, l'adversaire du joueur dont le dernier effet est ajouté en Chaîne a le droit d'agir en premier. S'il ne souhaite rien activer, il rend ce droit à l'autre joueur. Après que les deux joueurs aient chacun passé, la Chaîne commence à se résoudre. 
+Si un joueur vient d'ajouter un effet dans une chaîne, le joueur opposé a le droit d'agir en premier :on dit qu'il a "la priorité". Si ce joueur opposé ne souhaite rien activer, il rend ce droit au premier joueur : il "passe la priorité". Une fois que les deux joueurs ont passé la priorité à l'autre, et qu'aucun ne souhaite activer plus d'effets, la Chaîne peut commencer à se résoudre.
 
 Par exemple, supposons que je veux activer *Trou Noir*, et ensuite chaîner *Chemin Poussière d'Étoile* pour l'annuler et Invoquer Spécialement un *Dragon Poussière d'Étoile* :
 - *Lorsqu'une carte ou un effet qui va détruire min. 2 cartes que vous contrôlez est activé : annulez l'effet, et si vous le faites, détruisez la carte, puis vous pouvez Invoquer Spécialement 1 "Dragon Poussière d'Étoile" depuis votre Extra Deck.*
@@ -16,14 +16,14 @@ Par exemple, supposons que je veux activer *Trou Noir*, et ensuite chaîner *Che
 
 Actuellement, ma carte est la dernière dans la Chaîne, donc mon adversaire a le droit d'activer quelque chose avant que je puisse chaîner mon *Chemin* (s'il le fait, je ne pourrais pas activer *Chemin* puisqu'il doit être chaîné directement à l'effet qu'il essaie d'annuler).
 
-Pour la règle suivante, il vous faudra revenir à l'une des règles du SEGOC : *Si un effet déclencheur tente de s'activer, il est mis sur une Chaîne en accord avec les règles du SEGOC, et seulement après les effets rapides pourront être chaînés*. Après que tous les effets déclencheurs soient mis sur la Chaîne, l'adversaire du joueur dont le dernier effet est entré sur la Chaîne a le droit d'agir ou passer, comme vu plus haut.
+Pour la règle suivante, il vous faudra revenir à l'une des règles du SEGOC (voir [article dédié](./03_Effets_Declencheurs.md)) : *Si un effet déclencheur tente de s'activer, il est mis sur une Chaîne en accord avec les règles du SEGOC, et seulement après les effets rapides pourront être chaînés*. Après que tous les effets déclencheurs soient mis sur la Chaîne, l'adversaire du joueur dont le dernier effet est entré sur la Chaîne a le droit d'agir ou passer, comme vu plus haut.
 
 ## Le Graphe
 Il existe bien plus de cas dans lesquels on pourrait se demander quel joueur a le droit d'activer des effets rapides, et ce, sans même penser aux effets non-rapides. Heureusement, Konami a créé un graphe excellent pour nous expliquer précisément quel joueur a le droit d'agir à n'importe quel moment !
 
-Voici dont le graphe de Timing d'Effet Rapide (le graphe n'existe pas en français pour le moment, donc il est en anglais) :
+Voici dont le graphe de Timing d'Effet Rapide :
 
-![](Images/T-Flowchart_EN-US.jpg)
+![](Images/Fast_Effect_Timing_FR.png)
 
 Élégant, n'est-ce pas ? Ce graphe réduit les questions de timing à un simple suivi des flèches.
 

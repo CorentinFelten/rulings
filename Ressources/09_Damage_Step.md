@@ -10,7 +10,14 @@ Tout d'abord, je tiens à dire que la Damage Step est complexe à comprendre. No
 
 Avant de commencer, souvenons-nous que seuls certains effets rapides peuvent être utilisés lors de la Damage Step, comme résumé dans l'article précédent. Les effets utilisables sont les modificateurs directs d'ATK / DEF, les Pièges Contre, les effets de Monstres qui annulent les activations, et les effets qui mentionnent explicitement, ou qui nécessitent, d'être activés durant la Damage Step. 
 
-Nous allons parcourir les sous-parties de la Damage Step en détail. Nous aurons besoin d'exemples, donc supposons qu'un monstre de mon adversaire attaque mon *Soldat Pingouin* Posé :
+Voici les sous-parties de la Damage Step :
+1. Début de la Damage Step
+2. Avant le calcul des dommages
+3. Calcul des dommages
+4. Après le calcul des dommages
+5. Fin de la Damage Step
+
+Nous allons parcourir ces sous-parties en détail. Nous aurons besoin d'exemples, donc supposons qu'un monstre de mon adversaire attaque mon *Soldat Pingouin* Posé :
 - *FLIP : Vous pouvez cibler max. 2 monstres sur le Terrain ; renvoyez les cibles à la main.*
 
 ## Début de la Damage Step
@@ -29,30 +36,28 @@ Différentes cartes mentionnent qu'elles peuvent s'activer ici. Il s'agit égale
 
 Plusieurs Chaînes peuvent être créées ici en succession, jusqu'à ce que les deux joueurs aient fini d'activer des cartes et effets.
 
+Si l'un des monstres combattants a été détruit, ou du moins retiré du Terrain, à un stade de la Damage Step avant le calcul des dommages (par exemple à cause de *Construction Marionnette de l'Ombre El*), alors la Damage Step se terminerait avant d'atteindre le calcul des dommages. Un Replay d'attaque n'aura pas lieu cependant, puisque les Replays ne peuvent avoir lieu que lors de la Battle Step.
+
 ## Calcul des dommages
 Lors de cette étape, les ATK et DEF des deux monstres sont enfin comparées. 
 
 Les modificateurs généraux d'ATK / DEF ne peuvent plus être activés à partir d'ici. À noter donc que les effets d'*Ange de Loyauté* ne peuvent PLUS être activés ici :
 - *Durant la Damage Step, lorsqu'un monstre LUMIÈRE que vous contrôlez combat (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière ; jusqu'à la fin de ce tour, le monstre gagne une ATK égale à l'ATK du monstre de l'adversaire qu'il combat.*
 
-À noter qu'avant la sortie de l'article officiel Konami sur la Damage Step, *Ange de Loyauté* pouvait être utilisé lors du calcul des dommages. Ce n'est plus le cas aujourd'hui.
-
 Les effets qui précisent qu'ils s'activent ou s'appliquent lors du calcul des dommages s'activent ici. 
 
-Une fois que les deux joueurs ont fini d'activer et appliquer leurs effets, le calcul effectif des dommages est effectué : les ATK / DEF des monstres combattants sont comparés, puis les monstres censés être détruits par le combat sont identifiés et les dommages appropriés sont calculés pour les joueurs. 
-
-Si l'un des monstres combattants a été détruit, ou du moins retiré du Terrain, à un stade de la Damage Step avant ce point (par exemple à cause de *Construction Marionnette de l'Ombre El*), alors la Damage Step se terminerait avant d'atteindre ce stade. Un Replay d'attaque n'aura pas lieu cependant, puisque les Replays ne peuvent avoir lieu que lors de la Battle Step.
+Une fois que les deux joueurs ont fini d'activer et appliquer leurs effets, le calcul effectif des dommages est effectué : les ATK / DEF des monstres combattants sont comparés pour les joueurs, puis les monstres censés être détruits par le combat sont identifiés et les dommages appropriés sont calculés pour les joueurs. Les conséquences du combat sont donc clairement identifiées, mais ne sont pas encore appliquées.
 
 ## Après le calcul des dommages
 C'est à ce stade que l'on résout les conséquences du combat.
 
 Si un monstre a été détruit par le combat, il est dit comme étant "marqué pour destruction" (plus d'informations sur ce point plus tard). 
 
-Le dommage de combat est infligé ici. Puis, les effets suivants s'activent, en Chaîne :
+Le dommage de combat est infligé ici. Puis les effets suivants peuvent être activés dans une même Chaîne :
 
-- Les effets déclenchés par du dégât de combat étant infligé, comme *Tragoedia* :
+- Les effets déclenchés quand un joueur reçoit des dommages de combat, comme *Tragoedia* :
   - *Lorsque vous recevez des dommages de combat : vous pouvez Invoquer Spécialement cette carte depuis votre main.*
-- Les effets qui s'activent après le calcul des dommages, comme *Dame Guerrière D.D.* :
+- Les effets qui s'activent "après le calcul des dommages", comme *Dame Guerrière D.D.* :
   - *Après le calcul des dommages, lorsque cette carte combat un monstre de l'adversaire : vous pouvez bannir le monstre, et aussi, bannissez cette carte.*
 - Les effets déclenchés par un monstre étant retourné face recto, comme celui de *Soldat Pingouin*.
 
@@ -93,6 +98,16 @@ Certaines cartes empêchent des cartes et effets de s'activer durant la Damage S
 Paradoxalement, la "fin de la Damage Step" mentionnée ici n'est pas la sous-étape mentionnée plus haut. Cette mention indique que son effet s'applique pour l'entièreté de la Damage Step. Donc, par exemple, si *Armades* détruit *Abysslinde*, alors l'effet de *Abysslinde* ne pourra pas s'activer.
 
 Nous n'avons vu que quelques points complexes durant la Damage Step, mais il ne s'agit que de la partie émergée de l'iceberg. Si vous souhaitez en apprendre plus sur le sujet, le mieux est de consulter des juges plus expérimentés ou demander sur des forums avec une section ruling réputée.
+
+Petit résumé des conditions d'activations d'effets lors de la Damage Step : les seuls effets qui peuvent être activées pendant la Damage Step sont les effets qui remplissent au moins une de ces conditions :
+- l'activation d'une carte Contre-Piège
+- les effets obligatoires
+- les effets rapides qui modifient l'ATK/DEF (Note : seulement avant d'atteindre l'étape du calcul des dommages)
+- les effets rapides qui annulent soit l'**activation** d'une carte, soit l'**activation** de l'effet d'une carte
+- les effets Déclencheurs qui réagissent au fait qu'une carte soit déplacée ou que sa position de combat change
+- les effets dont la condition d'activation est propre à la Damage Step (exemple : un monstre détruit au combat)
+- les effets dont le texte dit explicitement de les jouer pendant la Damage Step
+- ainsi que de vieilles cartes pouvant avoir un ruling qui autorise ou interdit explicitement leur effet.
 
 Comme dit plus tôt, la Damage Step est complexe. Si vous avez trouvé cet article difficile à comprendre, c'est normal ! N'hésitez pas à revenir sur cet article plus tard et relire ces informations avant de tenter le quiz. 
 

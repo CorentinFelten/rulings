@@ -34,7 +34,7 @@ Cette Chaîne est donc correcte :
 
 - <ins>Chain Link 2</ins> : *Prison Dimensionnelle*
 
-Cependant, cette Chaîne est la seule en réponse à l'attaque. Une autre Chaîne qui répondrait à cette attaque ne peut pas être construite.
+Cependant, il ne peut y avoir qu'une Chaîne qui réponde à l'attaque. Vous ne pouvez pas construire deux Chaînes à la suite pour répondre à la déclaration de l'attaque.
 
 Ces actions ne sont donc pas correctes :
 
@@ -56,15 +56,11 @@ Cependant, ces actions sont correctes :
 
 - <ins>Chain Link 1</ins> : *Chaîne Démoniaque*
 
-*Chaîne Démoniaque* n'a pas besoin de répondre à une attaque, elle peut donc être utilisée dans une nouvelle Chaîne.
+*Chaîne Démoniaque* ne dépend pas d'une déclaration d'attaque, donc il est légal de l'activer suite à la résolution de la première chaîne.
 
-La Battle Step est également l'étape lors de laquelle un Replay d'attaque peut arriver. Le livret de règles explique ce qu'est un replay :
+La Battle Step est également l'étape lors de laquelle un Replay d'attaque peut arriver. Le livret de règles explique ce qu'est un Replay :
 
-*"After you have announced your attacking monster and the attack target monster during a Battle Step, the attack target might be removed from the field, or a new monster may be played onto the opponent’s side of the field before the Damage Step, due to a card’s effect. This causes a “Replay”. When this occurs, you can choose to attack with the same monster again, or choose to attack with a different monster, or choose not to attack at all. Note that if you attack with a different monster, the first monster is still considered to have declared an attack, and it cannot attack again this turn."*
-
-Traduction en français :
-
-*"Après avoir annoncé quel monstre attaque et quelle sera la cible de l'attaque durant une Battle Step, la cible de l'attaque peut être retirée du Terrain ou un nouveau monstre peut être placé sur le Terrain de l'adversaire avant l'entrée en Damage Step, à cause d'un effet de carte. Cette action cause un “Replay”. Lorsque cette situation arrive, vous pouvez choisir d'attaquer de nouveau avec le même monstre, d'attaquer avec un autre monstre, ou ne pas attaquer du tout. À noter que si vous attaquez avec un autre monstre, le premier monstre sera considéré comme ayant déclaré une attaque, et il ne pourra plus attaquer ce tour."*
+*Après avoir annoncé votre monstre attaquant et le monstre cible de l'attaque durant une Battle Step, la cible de l'attaque peut être retirée du Terrain, ou un nouveau monstre peut être joué sur le Terrain de votre adversaire avant la Damage Step, en raison de l'effet d'une carte. Ceci provoque un “Replay”. Dans ce cas, vous pouvez choisir d'attaquer avec le même monstre à nouveau, choisir d'attaquer avec un autre monstre ou de ne pas attaquer du tout. Notez que si vous choisissez d'attaquer avec un monstre différent, le premier monstre est toujours considéré comme ayant déclaré une attaque et ne pourra pas attaquer à nouveau durant ce tour.*
 
 Par exemple, supposons que j'attaque le *Magicien Sombre* de mon adversaire avec mon *Dragon Blanc aux Yeux Bleus*. Mon adversaire répond à l'attaque avec *Appel de l'Être Hanté*, pour Invoquer de nouveau *Apprenti Sorcier* :
 - *Tant que cette carte reste face recto sur le Terrain, augmentez l'ATK de tous les monstres TÉNÈBRES de 500 points et diminuez l'ATK des monstres LUMIÈRE de 400 points.*

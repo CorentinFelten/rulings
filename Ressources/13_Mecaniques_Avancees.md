@@ -7,7 +7,7 @@ Il existe quelques mécaniques de jeu importantes à mentionner. Cet article peu
 
 N'oubliez pas de consulter les [divers points de règles](12_Divers.md) de l'article précédent !
 
-## Extra Invocations Normales
+## Invocations Normales Bonus
 Le principe général d'Invocations Normales supplémentaires fonctionne comme l'effet de *Séraphinite, Chevalier-Gemmes* :
 - *Durant votre Main Phase, vous pouvez Invoquer/Poser Normalement 1 monstre en plus de votre Invocation/Pose Normale. (Vous ne pouvez gagner cet effet qu'une fois par tour.)*
 

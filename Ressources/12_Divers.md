@@ -41,7 +41,7 @@ Quels types de modificateurs d'ATK existent ? Les types principaux sont les suiv
 
 - **Effets persistants**
 
-    Ces modificateurs d'ATK continuent à s'appliquer après que l'effet ait résolu. Par exemple, supposons que j'active *Boost d'Ego* sur un monstre :
+    Ces modificateurs d'ATK continuent de s'appliquer pendant une durée précise après que l'effet ait été résolu. Par exemple, supposons que j'active *Boost d'Ego* sur un monstre :
     - *Lorsqu'un monstre déclare une attaque : ciblez 1 monstre face recto sur le Terrain ; jusqu'à la fin de la Battle Phase, il gagne 1000 ATK.*
 
     <ins>Chain Link 1</ins> : *Boost d'Ego*

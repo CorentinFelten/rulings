@@ -21,7 +21,7 @@ Pourquoi cette distinction est importante ? Regardons la carte Magie Continue *C
 
 Supposons que *Canon Enfernité* est déjà face recto, et que j'active ses effets. Mon adversaire ne peut pas annuler cet effet avec *Avertissement Divin* puisque je ne suis pas en train d'activer une **carte** Magie / Piège.
 
-Cependant, *Apex Aviaire de la Vallée de Brume* peut annuler l'Invocation Spéciale de *Canon Enfernité*, puisque Apex Aviaire* ne mentionne que les activations d'effets, et non pas de cartes :
+Cependant, *Apex Aviaire de la Vallée de Brume* peut annuler l'Invocation Spéciale de *Canon Enfernité*, puisque *Apex Aviaire* ne mentionne que les activations d'effets, et non pas de cartes :
 - *Une fois par Chaîne, lorsqu'une carte ou un effet est activé (Effet Rapide) : vous pouvez cibler 1 carte "Vallée de Brume" que vous contrôlez ; renvoyez la cible à la main, et si vous le faites, annulez l'activation, et si vous faites ça, détruisez-la.*
 
 À noter que lorsque vous activez une carte Magie ou Piège, vous activez également l'effet de la carte correspondant à cette activation (même si l'activation ne fait rien sur le moment, comme avec beaucoup de Magies de Terrain). Donc *Apex Aviaire* pourra toujours annuler l'activation de Magies de Terrain (même si l'activation en elle-même ne fait rien), tout comme *Monde des Toons* :
@@ -72,7 +72,7 @@ Ces deux cartes annulent les effets différemment. Tout d'abord, on observe que 
 
 *Illusionniste d'Effet* annule les effets qui s'activent / résolvent sur le Terrain. Cela veut dire que si vous utilisez *Illusionniste d'Effet* sur *Voiturcarte D*, et que *Voiturcarte D* est Sacrifié en coût pour son effet, cet effet sera annulé.
 
-*Absorption de Compétence* fonctionne différemment. Elle annule les effets de cartes qui sont face recto sur le Terrain quand leurs effets résolvent. Cela veut dire que si *Absorption de Compétence* est face recto, *Voiturcarte D* peut s'activer et se sacrifier en coût, et puisqu'elle n'est plus face recto sur le Terrain quand l'effet résout, *Absorption de Compétence* n'annulera plus l'effet et *Voiturcarte D* résoudra normalement.
+*Absorption de Compétence* a un texte très différent. Elle annule les effets de cartes qui sont face recto sur le Terrain quand leurs effets résolvent. Cela veut dire que si *Absorption de Compétence* est face recto, *Voiturcarte D* peut s'activer et se sacrifier en coût, et puisqu'elle n'est plus face recto sur le Terrain quand l'effet résout, *Absorption de Compétence* n'annulera plus l'effet et *Voiturcarte D* résoudra normalement.
 
 La plupart des effets, comme *Graal Interdit* et (les deux effets de) *Compétence de Percée*, annulent de la même manière qu'*Illusionniste d'Effet*. Les effets qui annulent comme *Absorption de Compétence* sont généralement des effets qui s'appliquent en continu. *Chaîne Démoniaque* et *Perdez 1 Tour* sont d'autres exemples notables de cartes qui annulent de la même manière qu'*Absorption de Compétence*.
 
